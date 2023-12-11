@@ -2,7 +2,7 @@
 
 
 
-> [**Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models**]()
+> [**Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models**]()<br>
 > [Yubin Wang](https://scholar.google.com/citations?user=mLeYNLoAAAAJ), [Xinyang Jiang](https://scholar.google.com/citations?user=JiTfWVMAAAAJ), [De Cheng](https://scholar.google.com/citations?user=180lASkAAAAJ), [Dongsheng Li](https://scholar.google.com/citations?user=VNg5rA8AAAAJ), [Cairong Zhao](https://scholar.google.com/citations?user=z-XzWZcAAAAJ)
 
 
