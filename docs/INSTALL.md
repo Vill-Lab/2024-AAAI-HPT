@@ -33,7 +33,7 @@ cd ..
 
 * Clone HPT code repository and install requirements
 ```bash
-# Clone MaPLe code base
+# Clone HPT code base
 git clone https://github.com/Vill-Lab/2024-AAAI-HPT.git
 
 cd 2024-AAAI-HPT/
