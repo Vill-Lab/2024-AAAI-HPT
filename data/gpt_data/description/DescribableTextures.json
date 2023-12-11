@@ -1,0 +1,331 @@
+{
+    "banded": [
+        "A banded texture appears striped with alternating light and dark bands running through the object or surface being observed.",
+        "A banded texture is characterized by alternating narrow and wide bands of similar color or texture, creating a striped or ribbed pattern.",
+        "A banded texture appears as regular alternating stripes or bands that run parallel or diagonally across the surface of the material.",
+        "A banded texture appears as parallel stripes or bands of color or pattern, often of varying thickness and spacing.",
+        "A banded texture has alternating parallel stripes of different colors or textures creating a visibly layered surface pattern."
+    ],
+    "blotchy": [
+        "A blotchy texture has irregular and patchy areas of color or tone, creating a mottled or uneven appearance on the surface.",
+        "Blotchy texture is characterized by irregular and asymmetrical patterns of varying intensity and color contrast, with no clear orientation or structure.",
+        "Blotchy textures are irregular patches or spots of different shapes, sizes, and shades of color that form a non-uniform pattern.",
+        "Blotchy texture appears irregular and inconsistent, with uneven patches of color and tone, unlike smooth, rough, or patterned textures.",
+        "Blotchy texture displays irregular splotches of different colors or shades that are randomly dispersed across the surface."
+    ],
+    "braided": [
+        "A braided texture is characterized by interlacing strands of material, resulting in a woven appearance that is intricately patterned and textured.",
+        "Braided texture is characterized by interlaced strands that form a geometric pattern in a repeating sequence, creating depth and texture.",
+        "Braided texture consists of interwoven strands or threads, resembling a plaited pattern, with an intricately woven and intertwined appearance.",
+        "Braided texture is characterized by interwoven strands of material, creating a three-dimensional pattern with a rope-like appearance distinct from other textures.",
+        "A braided texture has interwoven strands that overlap each other in a consistent pattern, creating a distinctive woven appearance."
+    ],
+    "bubbly": [
+        "A bubbly texture appears as a surface dotted with many small, round, and interconnected bubbles, giving the impression of a foamy appearance.",
+        "Bubbly texture is characterized by the presence of small, circular shapes with irregular edges and varying sizes, often forming clusters.",
+        "Bubbly texture appears irregular with round, air-filled cavities of varying sizes and shapes, giving a porous or foamy appearance.",
+        "Bubbly texture is characterized by round and irregular shapes that resemble bubbles, differentiating it from smoother or rougher textures.",
+        "Small round air pockets or bubbles distributed throughout the material, creating a distinctive and irregular pattern."
+    ],
+    "bumpy": [
+        "A bumpy texture has irregular, uneven elevations and depressions with a rough, rugged feel when touched or seen visually.",
+        "A bumpy texture has irregular patterns and raised surfaces with varying heights, creating a rugged appearance that distinguishes it from other textures.",
+        "Bumpy texture appears irregular with raised or uneven surfaces, with an discernible roughness to the touch and a lack of smoothness.",
+        "Bumpy texture has irregular and uneven surfaces, while other textures have uniform surfaces and do not have any irregularities.",
+        "Bumpy texture has irregular and uneven surface elevations that distinguish it from other textures through its prominent and tactile protrusions."
+    ],
+    "chequered": [
+        "A chequered texture consists of a pattern of squares of different colors, usually alternating between two or more colors.",
+        "A chequered texture is characterized by a repeating pattern of alternating squares of different colors, creating a checkerboard-like appearance.",
+        "Chequered texture is characterized by a pattern consisting of alternating colors or shapes arranged in a square grid formation.",
+        "A chequered texture features repeated square shapes in alternating colors, while other textures lack this consistent pattern and color scheme.",
+        "Chequered textures have a unique repeated pattern of squares or rectangles in alternating colors, which can be easily identified."
+    ],
+    "cobwebbed": [
+        "A cobwebbed texture appears as a delicate, intricate, and tangled web of thin threads that resembles a spider's web.",
+        "Cobwebbed texture is characterized by thin and delicate strands crossing in a complex pattern, resembling a spiderweb.",
+        "Cobwebbed texture is characterized by thin, interconnected fibers that create a delicate lacy appearance resembling a spider's web.",
+        "A cobwebbed texture has thin, delicate threads that intertwine irregularly with spaces in between, giving a fragile and intricate appearance.",
+        "A cobwebbed texture has thin, irregular, and interconnected strands that resemble a spider'sweb, creating a messy and intricate pattern."
+    ],
+    "cracked": [
+        "A cracked texture appears as broken lines or fissures on a surface, indicating separation or damage of the material.",
+        "A cracked texture appears as irregular, discontinuous lines or patterns with variations in width and depth, indicating damage or aging.",
+        "Cracked texture appears broken and irregular with visible lines and gaps, different from smooth and uniform surfaces.",
+        "A cracked texture appears broken or fragmented with irregular lines and shapes, while other textures may appear smoother and uniform.",
+        "A cracked texture has irregular lines and gaps with a different hue or contrast from the surrounding area, indicating a discontinuity."
+    ],
+    "crosshatched": [
+        "A crosshatched texture consists of a pattern of intersecting lines, resembling a mesh or grid-like appearance.",
+        "A crosshatched texture has intersecting straight lines creating diamond or square shapes that provide regularity and directionality for recognition.",
+        "A crosshatched texture has parallel lines intersected by perpendicular lines, creating a pattern of small squares or diamonds.",
+        "A crosshatched texture has intersecting lines that create a woven or grid-like pattern, distinct from smooth or rough textures.",
+        "The crosshatched texture is made up of intersecting lines that create a grid-like pattern with varying levels of thickness."
+    ],
+    "crystalline": [
+        "A crystalline texture appears as a regular and repeating pattern of geometric shapes, with clear edges and distinct facets.",
+        "A crystalline texture exhibits regular, repeating patterns and symmetries at a molecular level, making it distinct for recognition in images.",
+        "Crystalline textures appear as ordered, repeating patterns with well-defined edges and angles, often reflecting light in a distinct way.",
+        "Crystalline textures have a repeating pattern of atoms or molecules, while other textures lack this regularity and may appear chaotic.",
+        "A crystalline texture displays a repeating pattern of atoms arranged in a lattice structure, observed as distinct facets when viewed under polarized light."
+    ],
+    "dotted": [
+        "A dotted texture typically consists of a repeated pattern of small, evenly-spaced circles or dots distributed across a surface.",
+        "A dotted texture has regular and repeated circular marks with regular spacing, which makes it easy to distinguish from other textures.",
+        "A dotted texture appears as a series of small, circular shapes with consistent spacing between them, creating a distinctive pattern.",
+        "A dotted texture consists of small circular dots evenly spaced apart, while other textures vary in shape, size, and arrangement.",
+        "The dotted texture has a regular pattern of closely spaced round or elliptical shapes of the same size and color."
+    ],
+    "fibrous": [
+        "A fibrous texture is characterized by long, thin, and flexible strands that are interconnected, creating a stringy and tough appearance.",
+        "A fibrous texture has thin, elongated shapes with parallel lines and a consistent width, often resembling strands or fibers.",
+        "Fibrous textures have thin, elongated and thread-like structures that appear in a regular or chaotic pattern with a rough surface.",
+        "A fibrous texture in appearance appears as long and thin, with visible strands or fibers, differentiating it from other textures.",
+        "The fibrous texture has thin and elongated structures that create a linear and parallel pattern, similar to a bundle of threads or fibers."
+    ],
+    "flecked": [
+        "A flecked texture consists of small spots or speckles that are scattered irregularly over the surface of an object.",
+        "A flecked texture typically includes small random spots or dots of color on a background surface, providing a unique pattern for recognition.",
+        "Flecked texture is characterized by numerous small spots or flecks of color or material distributed randomly on its surface.",
+        "A flecked texture has small marks or specks of a different color scattered across a surface, giving it a dappled appearance.",
+        "A flecked texture has small and irregular shapes or speckles evenly distributed throughout the surface, giving it a spotted appearance."
+    ],
+    "freckled": [
+        "A freckled texture is characterized by small, scattered spots or dots of color on a background of similar or contrasting shade.",
+        "Freckles are small brown or black spots with irregular shapes, often found on lighter skin tones, and have high contrast against surrounding skin.",
+        "Freckles are small, circular, tan/brown spots that often cover the face, neck, and chest. They are randomly distributed and vary in size.",
+        "A freckled texture is characterized by small, scattered and irregularly-shaped spots of melanin on the skin, unlike other textures that lack such spots.",
+        "Freckled texture has clusters of small, pigmented spots on the skin surface, unlike other textures."
+    ],
+    "frilly": [
+        "A frilly texture appears wavy with multiple folds, curves, and ruffles. It has a delicate and intricate appearance.",
+        "A frilly texture typically consists of irregular, curved lines forming small, repetitive patterns that vary in size and shape.",
+        "Frilly texture appears with many folds and ruffles resembling a frill on a dress. It's intricate, delicate, and ornamental.",
+        "Frilly texture has irregular, wavy, and lace-like patterns with a soft and delicate appearance, unlike other textures that have a smoother surface.",
+        "A frilly texture has irregular, curvy and wavy edges that form ruffles, giving a feminine and decorative appearance to the material."
+    ],
+    "gauzy": [
+        "A gauzy texture is soft, delicate, and slightly transparent with a loosely-woven appearance that resembles a fine mesh or netting.",
+        "Gauzy texture has a transparent and airy appearance with loosely woven threads that allow light to pass through, creating a soft and delicate effect.",
+        "A gauzy texture is translucent, lightweight, and has a delicate appearance with a loose weave pattern composed of thin fibers.",
+        "A gauzy texture appears translucent and lightweight compared to other textures that may be rough, smooth, shiny, or matte.",
+        "A gauzy texture is characterized by a semi-transparent and light-weight appearance, with a slightly blurred or hazy surface."
+    ],
+    "grid": [
+        "A grid texture consists of intersecting lines forming a net-like pattern. It resembles a checkerboard with equally spaced horizontal and vertical lines.",
+        "The distinct features of a grid texture for recognition include parallel lines, uniformity, regularity, and well-defined edges in a repetitive pattern.",
+        "A grid texture has a repetitive pattern of straight lines, evenly spaced in both horizontal and vertical directions forming a grid-like structure.",
+        "A grid texture appears as a pattern of intersecting horizontal and vertical lines, while other textures have varying visual characteristics.",
+        "A grid texture has a repetitive pattern of equally sized squares or rectangles that form a network across the surface."
+    ],
+    "grooved": [
+        "A grooved texture has linear depressions or ridges that run parallel or perpendicular to each other and can vary in width and depth.",
+        "Grooved texture has parallel lines or ridges, often uniform in size and spacing, making it visually distinguishable from other textures.",
+        "A grooved texture appears as a series of parallel lines with varying depths and widths, creating a repetitive pattern.",
+        "A grooved texture has parallel lines or ridges that create a pattern, which distinguishes it from other textures that lack this feature.",
+        "A series of parallel lines or channels that are regularly spaced and have a consistent depth distinguish a grooved texture."
+    ],
+    "honeycombed": [
+        "A honeycombed texture looks like a series of hexagonal cells arranged in a grid-like pattern, forming a repetitive and uniform geometric design.",
+        "Honeycombed texture has hexagonal cells with uniform size and shape, sharp edges, and consistent spacing, making it easily distinguishable.",
+        "Honeycombed texture is a hexagonal and uniform pattern resembling a beehive structure with repeated small shapes and consistent size.",
+        "Honeycombed texture has repeating hexagonal shapes with a 3D raised appearance, giving a complex, structured and organized look.",
+        "The unique visual cue of a honeycombed texture is the repeated hexagonal shape of the cells forming the pattern."
+    ],
+    "interlaced": [
+        "An interlaced texture has alternating lines of pixels that are displayed in a staggered pattern, creating a woven or mesh-like appearance.",
+        "Interlaced texture features include alternating lines or stripes, a checkerboard pattern, and a zigzag or wavy pattern, seen in digital images or textiles.",
+        "An interlaced texture appears as a series of parallel diagonal lines that alternate direction between adjacent rows or columns.",
+        "Interlaced textures have alternating rows of detailed and low-detail pixels, while other textures have a consistent level of detail throughout.",
+        "Interlaced texture has diagonal lines at an angle of approximately 45 degrees, which alternate between thick and thin stripes in a repeating pattern."
+    ],
+    "knitted": [
+        "A knitted texture has an interlocking pattern of loops that creates a soft, cozy, and somewhat uneven surface with visible knots and ridges.",
+        "Distinct features of knitted texture include visibly interlocking loops, consistent striations, and repeating geometric patterns, making it easily recognizable.",
+        "The knitted texture typically has a repeating, interlocking pattern of yarn loops and a three-dimensional appearance with visible stitches.",
+        "Knitted textures have a distinct interlocking pattern with visible loops, while other textures lack this pattern and are often smoother.",
+        "Interlocking loops that give a raised and uniform appearance, with a distinct knotted pattern, are unique to a knitted texture."
+    ],
+    "lacelike": [
+        "A lacelike texture typically appears as a delicate openwork pattern resembling lace with intricately woven threads or filigree-like designs.",
+        "A lacelike texture typically consists of intricate patterns of openwork designs, thin and delicate strands, and irregular shapes intertwined closely.",
+        "A lacelike texture typically appears as an intricate network of delicate and intricate patterns resembling a lace fabric, with an open and airy structure.",
+        "A lacelike texture typically has delicate, intricate and open-weave patterns, while other textures may have more uniform or coarse patterns.",
+        "The lacelike texture is characterized by an intricate, interwoven pattern resembling a delicate woven fabric often with floral or abstract motifs."
+    ],
+    "lined": [
+        "A lined texture appears as a series of straight parallel lines, typically of uniform thickness and spacing across a surface.",
+        "Distinct features of lined texture for recognition are the straight and parallel lines that form a regular and repetitive pattern.",
+        "A lined texture has parallel lines of equal width, thickness, and spacing that produce an overall repetitive pattern in appearance.",
+        "A lined texture has parallel lines that can create a sense of direction or order, unlike other textures that lack this pattern.",
+        "A lined texture has parallel or intersecting straight lines that run across its surface, creating a distinctive pattern."
+    ],
+    "marbled": [
+        "A marbled texture typically features irregular swirls or veins of contrasting colors, resembling the natural patterns found in marble stone.",
+        "The marbled texture consists of flowing, organic, and irregular patterns with a unique mixture of colors, forming smooth shapes.",
+        "Marbled texture appears as a solid base color with swirling or vein-like patterns of a contrasting color dispersed throughout.",
+        "Marbled texture appears as irregular swirls or veins of different colors, compared to other textures which have a uniform or repetitive pattern.",
+        "The unique visual cue of a marbled texture is the swirling patterns of different colors blending together to create a natural stone-like appearance."
+    ],
+    "matted": [
+        "A matted texture has a non-shiny, rough, and dull appearance and is characterized by a lack of luster or glossiness.",
+        "Matted textures have a random and non-uniform appearance with little to no shine, and may contain fine, short fibers or hairs.",
+        "Matted texture is a surface with a dull and tangled appearance, lacking shine or gloss, and may have an uneven surface.",
+        "A matted texture has a non-shiny, dull appearance due to its rough surface, while other textures may have a smooth or reflective surface.",
+        "A matted texture has a dull and rough surface with no shimmer, shine, or reflection, which makes it unique."
+    ],
+    "meshed": [
+        "A meshed texture appears as a pattern of interconnected lines or shapes forming a network-like or grid-like appearance on a surface.",
+        "Meshed texture is characterized by a repeated pattern of interlocking shapes that create a network of lines or grids.",
+        "A meshed texture appears as an interlocking network of lines or threads that form a pattern resembling a woven material.",
+        "A meshed texture appears as a grid-like pattern made up of interconnected lines or shapes, distinct from smooth or grainy textures.",
+        "A meshed texture displays a repetitive pattern of interlacing lines or grids that give it a grid-like, woven appearance."
+    ],
+    "paisley": [
+        "A paisley texture features a teardrop-shaped pattern with intricate details and swirling designs, often with curved floral and leaf motifs.",
+        "Paisley texture is characterized by droplet-shaped motifs with intricate swirls and curving lines in a repetitive pattern with distinct color contrasts.",
+        "Paisley texture is a droplet-shaped, intricate design resembling a teardrop or a twisted curve pattern often found in fabric prints.",
+        "Paisley texture typically features a droplet-shaped motif with curved edges and intricate details, while other textures vary in pattern and complexity.",
+        "The intricate droplet-shaped or twisted teardrop-like design, resembling a twisted boteh or floral spray, is unique to a paisley texture."
+    ],
+    "perforated": [
+        "A perforated texture typically has a surface covered with tiny, regularly spaced holes or punctures, creating a patterned look and feel.",
+        "A perforated texture can be recognized by its repeated pattern of holes or punctures of uniform size and distribution.",
+        "A perforated texture has small regularly spaced openings or holes that are distinct and noticeable from the surrounding surface.",
+        "Perforated texture has tiny holes uniformly arranged over the surface, giving it a unique pattern composed of regular gaps.",
+        "The presence of regularly-spaced holes or gaps that create a pattern is unique to a perforated texture."
+    ],
+    "pitted": [
+        "A pitted texture appears to have small, indented holes or depressions on its surface, giving it a rough and bumpy appearance.",
+        "Pitted texture is characterized by small, indented holes or depressions distributed irregularly throughout the surface, creating a bumpy or uneven appearance.",
+        "Pitted texture is characterized by small, irregularly spaced indentations on a surface, resembling the pockmarked surface of a golf ball.",
+        "A pitted texture has small, irregularly shaped holes or depressions that make its surface appear bumpy or rough compared to other textures.",
+        "A pitted texture has small, rounded, irregularly shaped indentations or depressions that give it a rough and uneven appearance."
+    ],
+    "pleated": [
+        "A pleated texture appears as a series of narrow and parallel folds or creases that add depth and dimension to a surface.",
+        "Pleated texture is characterized by evenly spaced raised folds that run parallel to one another, creating a distinctive linear pattern.",
+        "Pleated texture appears as folds or creases that run parallel to each other and often have a repetitive pattern.",
+        "Pleated texture has a series of folds in a specific pattern that creates a unique 3D look compared to other flat textures.",
+        "A unique visual cue of a pleated texture is the presence of organized and repeated folds, creating a three-dimensional ridge pattern."
+    ],
+    "polka-dotted": [
+        "A polka-dotted texture is characterized by small, round, and equally spaced dots of the same size on a solid-colored background.",
+        "Polka-dotted texture is characterized by uniform circular shapes of similar size and spacing, usually of contrasting colors on a solid background.",
+        "A polka-dotted texture has uniformly spaced small circles of the same size and color over a plain background.",
+        "A polka-dotted texture has regularly spaced dots, while other textures lack such dots and may have different patterns.",
+        "Polka-dotted textures have circular dots of the same size and color evenly spaced on the surface in repetitive patterns."
+    ],
+    "porous": [
+        "A porous texture appears rough with small, irregular openings or pores, allowing liquids or gases to pass through easily.",
+        "A porous texture appears to have many small openings or bubbles evenly distributed throughout the surface, creating a speckled appearance.",
+        "A porous texture looks rough and uneven with small holes or gaps, allowing air or liquid to flow through it.",
+        "Porous textures have small, irregular openings on their surfaces that create a sense of depth and roughness, unlike smoother textures.",
+        "The visual cue unique to a porous texture is the presence of interconnected holes or voids that allow the flow of fluids."
+    ],
+    "potholed": [
+        "A potholed texture appears rough with various sized and shaped holes, dents, and bumps creating an uneven surface with cracks.",
+        "Potholed texture has irregular edges, rough and jagged surface, uneven depth, and may have debris or cracks present within the holes.",
+        "A potholed texture appears as irregular, bumpy, and crumbly surface with visible holes or cavities, varying in depth and size.",
+        "Potholes texture has irregularly shaped bumps, holes and cracks, and appears rough, uneven and damaged compared to smoother textures.",
+        "A potholed texture has irregular, jagged edges and uneven, crater-like depressions that are not present in other smooth textures."
+    ],
+    "scaly": [
+        "A scaly texture looks rough, crinkled and jagged, with visible irregularities resembling the skin of a reptile or fish.",
+        "Distinct features of a scaly texture include repeating patterns of irregular, flattened shapes with pointed edges, resembling fish scales.",
+        "A scaly texture looks rough and dry, with small overlapping scales that resemble the texture of reptile or fish skin.",
+        "Scaly texture appears like overlapping plates, having a fish-like appearance, while other textures have a smooth or rough surface.",
+        "A scaly texture has small, overlapping plates that resemble fish scales, which are not present in other textures."
+    ],
+    "smeared": [
+        "A smeared texture appears muddled with irregular streaks or blotches, lacking clear definition and looking blurred or hazy.",
+        "Distinct features of smeared texture for recognition include random and irregular patterns, blurred edges, and absence of sharp details.",
+        "A smeared texture appears as a blurred, distorted and uneven surface with irregular patterns and smudges of color and texture.",
+        "A smeared texture appears blurry and lacks clear boundaries, while other textures have defined patterns or structures.",
+        "Wavy and irregular lines that are not present in a regular texture can indicate the presence of a smeared texture."
+    ],
+    "spiralled": [
+        "A spiralled texture resembles a series of connected, winding coils or whirls that wrap around a central point or axis.",
+        "Spiralled textures have curved lines that continuously rotate around a center point, forming a circular or oval-shaped pattern.",
+        "A spiralled texture has a curved or coiled pattern that appears to twist around a central axis.",
+        "A spiralled texture appears twisted and coiled in a uniform pattern, while other textures may have irregular, linear, or smooth patterns.",
+        "A spiralled texture has a unique, continuous, twisting pattern that progressively changes direction around a point or axis."
+    ],
+    "sprinkled": [
+        "A sprinkled texture consists of small, evenly distributed and randomly placed particles, which add a subtle and playful feel to the surface.",
+        "Sprinkled texture has scattered small dots or grains with random distribution which distinguishes it from other textures in an image.",
+        "A sprinkled texture typically appears as a surface with small, evenly-spaced dots or particles dispersed throughout the material.",
+        "A sprinkled texture is made up of randomly scattered small particles that give the surface a speckled appearance.",
+        "The unique visual cue of a sprinkled texture is the presence of small, evenly distributed, and randomly placed dots or particles."
+    ],
+    "stained": [
+        "A stained texture typically has discoloration or blemishes on the surface that can range in color and size.",
+        "Stained textures have distinct color patterns, which can be characterized by their hue, saturation, and brightness values for recognition.",
+        "A stained texture may appear discolored, have irregular or uneven coloring, or have visible spots or blotches compared to other textures.",
+        "Stained textures appear discolored or tinted due to the presence of pigments or substances, unlike other textures that have uniform coloration.",
+        "A stained texture has random and irregular color patterns that are not present in other textures, making it unique and distinguishable."
+    ],
+    "stratified": [
+        "A stratified texture is a layered pattern with distinct bands of similar size and shape running parallel to each other.",
+        "Stratified textures have distinct horizontal layers with varying textures. The layers are separated by clear boundaries that can aid recognition.",
+        "A stratified texture appears as a layered or banded pattern with distinct horizontal or vertical lines visible in its appearance.",
+        "A stratified texture has multiple layers with visible horizontal lines or bands, while other textures may have more uniform or irregular patterns.",
+        "A stratified texture has distinct parallel layers or bands of varying thickness, giving it a horizontal or vertical striped appearance."
+    ],
+    "striped": [
+        "A striped texture has evenly spaced, parallel lines of the same width, either of the same color or alternating colors.",
+        "Striped texture is characterized by equally spaced, parallel lines of varying thickness and color. It has a repetitive and linear pattern.",
+        "Striped texture is characterized by parallel lines of varying thickness and color that repeat regularly across the surface.",
+        "Striped texture has thin, parallel lines in the same direction, which sets it apart from other textures that lack this feature.",
+        "The presence of regular and consistent linear patterns of contrasting color that run parallel or at an angle to each other."
+    ],
+    "studded": [
+        "A studded texture is characterized by a surface covered in small, raised circular or pyramidal shapes, often with sharp or pointed edges.",
+        "Distinct features of a studded texture for recognition include regularly spaced bumps or protuberances with uniform size and shape.",
+        "A studded texture appears rough and bumpy with small, raised protrusions evenly spaced on the surface.",
+        "Studded textures have raised protrusions that resemble studs or spikes, as opposed to smooth, rough, or patterned textures.",
+        "A studded texture features multiple small, raised bumps evenly spaced out, creating a regular repeating pattern of protrusions."
+    ],
+    "swirly": [
+        "A swirly texture features twisting and curving patterns that resemble the motion of swirling water or smoke.",
+        "Swirly textures typically have curved, interconnected lines that form flowing patterns, often with a lack of sharp angles or corners.",
+        "Swirly texture has swirled or twisted lines with no specific orientation, creating a swirling pattern that appears chaotic and random.",
+        "A swirly texture appears to have twisting or spiraling shapes, while other textures have more uniform or random patterns.",
+        "A swirly texture shows a pattern of curved lines that resemble spirals, circles or waves, which sets it apart from other textures."
+    ],
+    "veined": [
+        "Veined texture consists of irregular thin lines that form a network pattern on a surface, resembling the veins in leaves or marble.",
+        "Veined texture is characterized by the presence of thin, irregular lines that resemble the patterns found on leaves or marble surfaces.",
+        "Veined texture has visible lines and patterns that resemble veins found in plants or stones, creating a distinct and recognizable appearance.",
+        "Veined texture has thin lines that resemble veins and is typically found in natural materials such as leaves or wood, whereas other textures lack these lines.",
+        "A veined texture is characterized by thin, twisting lines that resemble tree branches or river networks, forming a lattice-like pattern."
+    ],
+    "waffled": [
+        "A waffled texture has a pattern of raised and depressed square shapes resembling grid or lattice work, often found on waffles or fabrics.",
+        "Waffled texture has a repeating pattern of square or rectangular depressions and raised surfaces arranged in a grid-like pattern for recognition.",
+        "Waffled texture typically consists of a grid-like pattern with repeated raised and indented sections that resemble a waffle or honeycomb.",
+        "Waffled texture has a grid-like pattern that creates small squares or rectangles on the surface, distinct from other textures.",
+        "A waffled texture has a distinct criss-cross pattern with raised edges and recessed squares that create a grid-like appearance."
+    ],
+    "woven": [
+        "A woven texture appears as interlocking threads or fibers that create a tightly knit pattern, typically resembling a checkered or striped design.",
+        "Distinct features of woven texture include regular patterns of interlacing horizontal and vertical threads, visible weave intersections, and texture uniformity.",
+        "A woven texture appears as an interlacing of two or more sets of fibers or threads, creating a characteristic pattern.",
+        "A woven texture has an intertwined pattern of fibers that creates a structured appearance, while other textures may be more irregular or loose.",
+        "A woven texture has a distinctive pattern of intersecting horizontal and vertical threads, creating a regular grid-like appearance."
+    ],
+    "wrinkled": [
+        "A wrinkled texture appears as folds or creases on a surface, creating an uneven appearance that is irregular and distorted.",
+        "Wrinkled texture has uneven, creased, and folded surfaces with alternating peaks and valleys that create distinctive patterns for identification.",
+        "I can identify a wrinkled texture by detecting a surface that has prominent creases or folds in its appearance.",
+        "Wrinkled texture appears crumpled, folded, or creased, unlike other textures that appear smooth, flat, or uniform in appearance.",
+        "Wrinkled textures have folds or creases that appear as ridges and valleys which create a distinctive irregular irregular pattern."
+    ],
+    "zigzagged": [
+        "A zigzagged texture appears like a succession of diagonal lines in alternating directions that create a continuous pattern of peaks and valleys.",
+        "A zigzagged texture is characterized by a series of connected straight lines that alternate in direction at fixed intervals.",
+        "Zigzagged texture appears in an alternating diagonal pattern, resembling a series of connected \"V\" or \"W\" shapes.",
+        "A zigzagged texture has a repeating pattern of diagonal lines that create a sense of movement and energy compared to other textures.",
+        "A zigzagged texture has a repeating pattern of diagonal lines moving back and forth at sharp angles, creating a jagged appearance."
+    ]
+}

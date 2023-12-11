@@ -1,0 +1,2648 @@
+{
+    "Annual Crop Land": [
+        {
+            "Entities": [
+                "Annual Crop Land",
+                "patterned patches",
+                "vegetation",
+                "land cover types",
+                "satellite image"
+            ],
+            "Attributes": [
+                "regularly",
+                "symmetrical"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Annual Crop Land",
+                    "relationship": "appears as",
+                    "entity2": "patterned patches"
+                },
+                {
+                    "entity1": "patterned patches",
+                    "relationship": "amidst",
+                    "entity2": "other land cover types"
+                },
+                {
+                    "entity1": "satellite image",
+                    "relationship": "shows",
+                    "entity2": "Annual Crop Land"
+                },
+                {
+                    "entity1": "satellite image",
+                    "relationship": "shows",
+                    "entity2": "patterned patches"
+                },
+                {
+                    "entity1": "satellite image",
+                    "relationship": "shows",
+                    "entity2": "vegetation"
+                },
+                {
+                    "entity1": "satellite image",
+                    "relationship": "shows",
+                    "entity2": "other land cover types"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Annual Crop Land",
+                    "relationship": "is",
+                    "attribute": "regularly"
+                },
+                {
+                    "entity": "patterned patches",
+                    "relationship": "are",
+                    "attribute": "regularly"
+                },
+                {
+                    "entity": "patterned patches",
+                    "relationship": "are",
+                    "attribute": "symmetrical"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Annual Crop Land",
+                "satellite photo"
+            ],
+            "Attributes": [
+                "distinct features",
+                "uniform and organized patterns",
+                "regular shape",
+                "distinct color variations"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Annual Crop Land",
+                    "relationship": "in",
+                    "entity2": "satellite photo"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Annual Crop Land",
+                    "relationship": "has",
+                    "attribute": "distinct features"
+                },
+                {
+                    "entity": "Annual Crop Land",
+                    "relationship": "has",
+                    "attribute": "uniform and organized patterns"
+                },
+                {
+                    "entity": "Annual Crop Land",
+                    "relationship": "has",
+                    "attribute": "regular shape"
+                },
+                {
+                    "entity": "Annual Crop Land",
+                    "relationship": "has",
+                    "attribute": "distinct color variations"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Annual crop land",
+                "texture",
+                "uniform color",
+                "regularly spaced rows",
+                "patterns",
+                "satellite photo"
+            ],
+            "Attributes": [
+                "texture",
+                "uniform color",
+                "regularly spaced rows",
+                "patterns"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Annual crop land",
+                    "relationship": "can be identified by",
+                    "entity2": "texture"
+                },
+                {
+                    "entity1": "Annual crop land",
+                    "relationship": "can be identified by",
+                    "entity2": "uniform color"
+                },
+                {
+                    "entity1": "Annual crop land",
+                    "relationship": "can be identified by",
+                    "entity2": "regularly spaced rows"
+                },
+                {
+                    "entity1": "Annual crop land",
+                    "relationship": "can be identified by",
+                    "entity2": "patterns"
+                },
+                {
+                    "entity1": "Annual crop land",
+                    "relationship": "in",
+                    "entity2": "satellite photo"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Annual crop land",
+                    "relationship": "can be identified by",
+                    "attribute": "texture"
+                },
+                {
+                    "entity": "Annual crop land",
+                    "relationship": "can be identified by",
+                    "attribute": "uniform color"
+                },
+                {
+                    "entity": "Annual crop land",
+                    "relationship": "can be identified by",
+                    "attribute": "regularly spaced rows"
+                },
+                {
+                    "entity": "Annual crop land",
+                    "relationship": "can be identified by",
+                    "attribute": "patterns"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Annual Crop Land",
+                "land"
+            ],
+            "Attributes": [
+                "regularly spaced",
+                "organized",
+                "greenish",
+                "unpredictable",
+                "less uniform"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Annual Crop Land",
+                    "relationship": "is a type of",
+                    "entity2": "land"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Annual Crop Land",
+                    "relationship": "has",
+                    "attribute": "regularly spaced"
+                },
+                {
+                    "entity": "Annual Crop Land",
+                    "relationship": "has",
+                    "attribute": "organized"
+                },
+                {
+                    "entity": "Annual Crop Land",
+                    "relationship": "has",
+                    "attribute": "greenish"
+                },
+                {
+                    "entity": "land",
+                    "relationship": "has",
+                    "attribute": "unpredictable"
+                },
+                {
+                    "entity": "land",
+                    "relationship": "has",
+                    "attribute": "less uniform"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Regularly Spaced Patch",
+                "Geometrically Aligned Patch",
+                "Rectangle",
+                "Square",
+                "Annual Crop Land"
+            ],
+            "Attributes": [
+                "Presence",
+                "Visual Cue",
+                "Unique"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Regularly Spaced Patch",
+                    "relationship": "is a",
+                    "entity2": "Geometrically Aligned Patch"
+                },
+                {
+                    "entity1": "Geometrically Aligned Patch",
+                    "relationship": "contains",
+                    "entity2": "Rectangle"
+                },
+                {
+                    "entity1": "Geometrically Aligned Patch",
+                    "relationship": "contains",
+                    "entity2": "Square"
+                },
+                {
+                    "entity1": "Rectangle",
+                    "relationship": "has",
+                    "entity2": "Regularly Spaced Patch"
+                },
+                {
+                    "entity1": "Square",
+                    "relationship": "has",
+                    "entity2": "Regularly Spaced Patch"
+                },
+                {
+                    "entity1": "Annual Crop Land",
+                    "relationship": "has",
+                    "entity2": "Regularly Spaced Patch"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Presence",
+                    "relationship": "indicates",
+                    "attribute": "Regularly Spaced Patch"
+                },
+                {
+                    "entity": "Visual Cue",
+                    "relationship": "is provided by",
+                    "attribute": "Regularly Spaced Patch"
+                },
+                {
+                    "entity": "Unique",
+                    "relationship": "describes",
+                    "attribute": "Visual Cue"
+                }
+            ]
+        }
+    ],
+    "Forest": [
+        {
+            "Entities": [
+                "Forests",
+                "green foliage",
+                "centered satellite photo",
+                "grasslands",
+                "open spaces"
+            ],
+            "Attributes": [
+                "dense",
+                "lighter-colored"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Forests",
+                    "relationship": "surrounded by",
+                    "entity2": "grasslands"
+                },
+                {
+                    "entity1": "Forests",
+                    "relationship": "surrounded by",
+                    "entity2": "open spaces"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Forests",
+                    "relationship": "appear as",
+                    "attribute": "dense"
+                },
+                {
+                    "entity": "green foliage",
+                    "relationship": "appear as",
+                    "attribute": "green"
+                },
+                {
+                    "entity": "grasslands",
+                    "relationship": "surrounded by",
+                    "attribute": "lighter-colored"
+                },
+                {
+                    "entity": "open spaces",
+                    "relationship": "surrounded by",
+                    "attribute": "lighter-colored"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Forests"
+            ],
+            "Attributes": [
+                "Green vegetation",
+                "Diverse vegetation height",
+                "Canopy cover",
+                "Irregular pattern of tree crowns"
+            ],
+            "Entity-to-Entity Relationships": [],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Forests",
+                    "relationship": "have",
+                    "attribute": "Green vegetation"
+                },
+                {
+                    "entity": "Forests",
+                    "relationship": "have",
+                    "attribute": "Diverse vegetation height"
+                },
+                {
+                    "entity": "Forests",
+                    "relationship": "have",
+                    "attribute": "Canopy cover"
+                },
+                {
+                    "entity": "Forests",
+                    "relationship": "have",
+                    "attribute": "Irregular pattern of tree crowns"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Forests",
+                "Satellite photo",
+                "Land types"
+            ],
+            "Attributes": [
+                "Density",
+                "Color",
+                "Texture"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Forests",
+                    "relationship": "can be identified in",
+                    "entity2": "Satellite photo"
+                },
+                {
+                    "entity1": "Satellite photo",
+                    "relationship": "to distinguish from",
+                    "entity2": "Land types"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Forests",
+                    "relationship": "have characteristics of",
+                    "attribute": "Density"
+                },
+                {
+                    "entity": "Forests",
+                    "relationship": "have characteristics of",
+                    "attribute": "Color"
+                },
+                {
+                    "entity": "Forests",
+                    "relationship": "have characteristics of",
+                    "attribute": "Texture"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Forests",
+                "land types",
+                "satellite photo",
+                "vegetation cover"
+            ],
+            "Attributes": [
+                "darker shades of green",
+                "denser"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Forests",
+                    "relationship": "compared to",
+                    "entity2": "land types"
+                },
+                {
+                    "entity1": "Forests",
+                    "relationship": "in",
+                    "entity2": "satellite photo"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Forests",
+                    "relationship": "appear as",
+                    "attribute": "darker shades of green"
+                },
+                {
+                    "entity": "Forests",
+                    "relationship": "due to",
+                    "attribute": "denser"
+                },
+                {
+                    "entity": "land types",
+                    "relationship": "compared to",
+                    "attribute": "darker shades of green"
+                },
+                {
+                    "entity": "satellite photo",
+                    "relationship": "due to",
+                    "attribute": "denser"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "visual cue",
+                "forest",
+                "centered satellite photo",
+                "dense canopy",
+                "trees"
+            ],
+            "Attributes": [
+                "unique"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "visual cue",
+                    "relationship": "of",
+                    "entity2": "forest"
+                },
+                {
+                    "entity1": "forest",
+                    "relationship": "in",
+                    "entity2": "centered satellite photo"
+                },
+                {
+                    "entity1": "forest",
+                    "relationship": "presence of",
+                    "entity2": "dense canopy"
+                },
+                {
+                    "entity1": "dense canopy",
+                    "relationship": "of",
+                    "entity2": "trees"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "visual cue",
+                    "relationship": "is",
+                    "attribute": "unique"
+                }
+            ]
+        }
+    ],
+    "Herbaceous Vegetation Land": [
+        {
+            "Entities": [
+                "Herbaceous Vegetation Land",
+                "green and lush area",
+                "visible trees",
+                "woody plants",
+                "satellite photo"
+            ],
+            "Attributes": [
+                "herbaceous",
+                "green",
+                "lush",
+                "no visible trees",
+                "no woody plants"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Herbaceous Vegetation Land",
+                    "relationship": "appears as",
+                    "entity2": "green and lush area"
+                },
+                {
+                    "entity1": "Herbaceous Vegetation Land",
+                    "relationship": "appears as",
+                    "entity2": "no visible trees"
+                },
+                {
+                    "entity1": "Herbaceous Vegetation Land",
+                    "relationship": "appears as",
+                    "entity2": "no woody plants"
+                },
+                {
+                    "entity1": "Herbaceous Vegetation Land",
+                    "relationship": "in",
+                    "entity2": "satellite photo"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Herbaceous Vegetation Land",
+                    "relationship": "has attribute",
+                    "attribute": "herbaceous"
+                },
+                {
+                    "entity": "Herbaceous Vegetation Land",
+                    "relationship": "has attribute",
+                    "attribute": "green"
+                },
+                {
+                    "entity": "Herbaceous Vegetation Land",
+                    "relationship": "has attribute",
+                    "attribute": "lush"
+                },
+                {
+                    "entity": "Herbaceous Vegetation Land",
+                    "relationship": "has attribute",
+                    "attribute": "no visible trees"
+                },
+                {
+                    "entity": "Herbaceous Vegetation Land",
+                    "relationship": "has attribute",
+                    "attribute": "no woody plants"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Herbaceous Vegetation Land",
+                "green color",
+                "low height",
+                "dense vegetation",
+                "visible woody stems",
+                "trunks"
+            ],
+            "Attributes": [
+                "green",
+                "low height",
+                "dense vegetation",
+                "lack of visible woody stems or trunks"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Herbaceous Vegetation Land",
+                    "relationship": "recognized by",
+                    "entity2": "its green color"
+                },
+                {
+                    "entity1": "Herbaceous Vegetation Land",
+                    "relationship": "recognized by",
+                    "entity2": "low height"
+                },
+                {
+                    "entity1": "Herbaceous Vegetation Land",
+                    "relationship": "recognized by",
+                    "entity2": "dense vegetation"
+                },
+                {
+                    "entity1": "Visible Woody Stems",
+                    "relationship": "lack of",
+                    "entity2": "Herbaceous Vegetation Land"
+                },
+                {
+                    "entity1": "Trunks",
+                    "relationship": "lack of",
+                    "entity2": "Herbaceous Vegetation Land"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Herbaceous Vegetation Land",
+                    "relationship": "recognized by",
+                    "attribute": "green"
+                },
+                {
+                    "entity": "Herbaceous Vegetation Land",
+                    "relationship": "recognized by",
+                    "attribute": "low height"
+                },
+                {
+                    "entity": "Herbaceous Vegetation Land",
+                    "relationship": "recognized by",
+                    "attribute": "dense vegetation"
+                },
+                {
+                    "entity": "Herbaceous Vegetation Land",
+                    "relationship": "lack of",
+                    "attribute": "visible woody stems or trunks"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Herbaceous Vegetation Land",
+                "green area",
+                "small patches of vegetation",
+                "large patches of vegetation",
+                "centered satellite photo"
+            ],
+            "Attributes": [
+                "appears as",
+                "mix of"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Herbaceous Vegetation Land",
+                    "relationship": "appears as",
+                    "entity2": "green area"
+                },
+                {
+                    "entity1": "green area",
+                    "relationship": "contains",
+                    "entity2": "small patches of vegetation"
+                },
+                {
+                    "entity1": "green area",
+                    "relationship": "contains",
+                    "entity2": "large patches of vegetation"
+                },
+                {
+                    "entity1": "centered satellite photo",
+                    "relationship": "depicts",
+                    "entity2": "Herbaceous Vegetation Land"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Herbaceous Vegetation Land",
+                    "relationship": "appears as",
+                    "attribute": "green"
+                },
+                {
+                    "entity": "Herbaceous Vegetation Land",
+                    "relationship": "contains",
+                    "attribute": "small patches of vegetation"
+                },
+                {
+                    "entity": "Herbaceous Vegetation Land",
+                    "relationship": "contains",
+                    "attribute": "large patches of vegetation"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Herbaceous Vegetation Land",
+                "other types of land"
+            ],
+            "Attributes": [
+                "greener",
+                "distinct",
+                "fine-grained textures"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Herbaceous Vegetation Land",
+                    "relationship": "compared to",
+                    "entity2": "other types of land"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Herbaceous Vegetation Land",
+                    "relationship": "appears",
+                    "attribute": "greener"
+                },
+                {
+                    "entity": "Herbaceous Vegetation Land",
+                    "relationship": "has",
+                    "attribute": "distinct"
+                },
+                {
+                    "entity": "Herbaceous Vegetation Land",
+                    "relationship": "has",
+                    "attribute": "fine-grained textures"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Herbaceous vegetation land"
+            ],
+            "Attributes": [
+                "High reflectance",
+                "Near-infrared (NIR) portion",
+                "Electromagnetic spectrum",
+                "Visual cue"
+            ],
+            "Entity-to-Entity Relationships": [],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Herbaceous vegetation land",
+                    "relationship": "unique visual cue for",
+                    "attribute": "High reflectance"
+                },
+                {
+                    "entity": "High reflectance",
+                    "relationship": "in",
+                    "attribute": "Near-infrared (NIR) portion"
+                },
+                {
+                    "entity": "Near-infrared (NIR) portion",
+                    "relationship": "of",
+                    "attribute": "Electromagnetic spectrum"
+                }
+            ]
+        }
+    ],
+    "Highway or Road": [
+        {
+            "Entities": [
+                "Highway",
+                "Road",
+                "Linear feature",
+                "Color",
+                "Surrounding land cover"
+            ],
+            "Attributes": [
+                "Contrasting",
+                "Gray",
+                "Black"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Highway",
+                    "relationship": "Appears as",
+                    "entity2": "Linear feature"
+                },
+                {
+                    "entity1": "Road",
+                    "relationship": "Appears as",
+                    "entity2": "Linear feature"
+                },
+                {
+                    "entity1": "Linear feature",
+                    "relationship": "Amidst",
+                    "entity2": "Surrounding land cover"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Linear feature",
+                    "relationship": "Contrasts with",
+                    "attribute": "Color"
+                },
+                {
+                    "entity": "Color",
+                    "relationship": "Is usually",
+                    "attribute": "Gray"
+                },
+                {
+                    "entity": "Color",
+                    "relationship": "Is usually",
+                    "attribute": "Black"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Highway",
+                "Road",
+                "Linear strip",
+                "Edges",
+                "Lane markings",
+                "Vehicles"
+            ],
+            "Attributes": [
+                "Regular",
+                "Parallel",
+                "Adjacent"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Highway",
+                    "relationship": "Appears as",
+                    "entity2": "Linear strip"
+                },
+                {
+                    "entity1": "Road",
+                    "relationship": "Appears as",
+                    "entity2": "Linear strip"
+                },
+                {
+                    "entity1": "Linear strip",
+                    "relationship": "Has",
+                    "entity2": "Edges"
+                },
+                {
+                    "entity1": "Linear strip",
+                    "relationship": "Has",
+                    "entity2": "Lane markings"
+                },
+                {
+                    "entity1": "Linear strip",
+                    "relationship": "Has",
+                    "entity2": "Vehicles"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Linear strip",
+                    "relationship": "Has",
+                    "attribute": "Regular"
+                },
+                {
+                    "entity": "Linear strip",
+                    "relationship": "Has",
+                    "attribute": "Parallel"
+                },
+                {
+                    "entity": "Linear strip",
+                    "relationship": "Has",
+                    "attribute": "Adjacent"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Highway",
+                "Road",
+                "Satellite photos",
+                "Linear structure",
+                "Distinct pattern",
+                "Width",
+                "Adjoining infrastructure"
+            ],
+            "Attributes": [
+                "Identified"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Highway",
+                    "relationship": "or",
+                    "entity2": "Road"
+                },
+                {
+                    "entity1": "Highway",
+                    "relationship": "in",
+                    "entity2": "Satellite photos"
+                },
+                {
+                    "entity1": "Road",
+                    "relationship": "in",
+                    "entity2": "Satellite photos"
+                },
+                {
+                    "entity1": "Highway",
+                    "relationship": "based on",
+                    "entity2": "Linear structure"
+                },
+                {
+                    "entity1": "Highway",
+                    "relationship": "based on",
+                    "entity2": "Distinct pattern"
+                },
+                {
+                    "entity1": "Highway",
+                    "relationship": "based on",
+                    "entity2": "Width"
+                },
+                {
+                    "entity1": "Highway",
+                    "relationship": "based on",
+                    "entity2": "Adjoining infrastructure"
+                },
+                {
+                    "entity1": "Road",
+                    "relationship": "based on",
+                    "entity2": "Linear structure"
+                },
+                {
+                    "entity1": "Road",
+                    "relationship": "based on",
+                    "entity2": "Distinct pattern"
+                },
+                {
+                    "entity1": "Road",
+                    "relationship": "based on",
+                    "entity2": "Width"
+                },
+                {
+                    "entity1": "Road",
+                    "relationship": "based on",
+                    "entity2": "Adjoining infrastructure"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Highway",
+                    "relationship": "can be",
+                    "attribute": "Identified"
+                },
+                {
+                    "entity": "Road",
+                    "relationship": "can be",
+                    "attribute": "Identified"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Highways",
+                "Roads",
+                "Other types of land"
+            ],
+            "Attributes": [
+                "Straight",
+                "Narrower",
+                "Parallel lines",
+                "Less organized",
+                "Larger",
+                "Curved"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Highways",
+                    "relationship": "are",
+                    "entity2": "straight"
+                },
+                {
+                    "entity1": "Roads",
+                    "relationship": "are",
+                    "entity2": "straight"
+                },
+                {
+                    "entity1": "Highways",
+                    "relationship": "are",
+                    "entity2": "narrower"
+                },
+                {
+                    "entity1": "Roads",
+                    "relationship": "are",
+                    "entity2": "narrower"
+                },
+                {
+                    "entity1": "Highways",
+                    "relationship": "are",
+                    "entity2": "with parallel lines"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Other types of land",
+                    "relationship": "are",
+                    "attribute": "less organized"
+                },
+                {
+                    "entity": "Other types of land",
+                    "relationship": "are",
+                    "attribute": "larger"
+                },
+                {
+                    "entity": "Other types of land",
+                    "relationship": "are",
+                    "attribute": "curved"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "asphalt",
+                "concrete",
+                "roads",
+                "highways",
+                "land"
+            ],
+            "Attributes": [
+                "long",
+                "straight",
+                "black",
+                "unique",
+                "visual"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "asphalt",
+                    "relationship": "related to",
+                    "entity2": "roads"
+                },
+                {
+                    "entity1": "concrete",
+                    "relationship": "related to",
+                    "entity2": "roads"
+                },
+                {
+                    "entity1": "roads",
+                    "relationship": "part of",
+                    "entity2": "land"
+                },
+                {
+                    "entity1": "highways",
+                    "relationship": "part of",
+                    "entity2": "land"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "roads",
+                    "relationship": "described by",
+                    "attribute": "long"
+                },
+                {
+                    "entity": "roads",
+                    "relationship": "described by",
+                    "attribute": "straight"
+                },
+                {
+                    "entity": "asphalt",
+                    "relationship": "described by",
+                    "attribute": "black"
+                },
+                {
+                    "entity": "concrete",
+                    "relationship": "described by",
+                    "attribute": "unique"
+                },
+                {
+                    "entity": "roads",
+                    "relationship": "described by",
+                    "attribute": "visual"
+                }
+            ]
+        }
+    ],
+    "Industrial Buildings": [
+        {
+            "Entities": [
+                "Industrial buildings",
+                "structures",
+                "roofs",
+                "parking lots",
+                "loading docks"
+            ],
+            "Attributes": [
+                "large",
+                "rectangular",
+                "square-shaped",
+                "flat"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Industrial buildings",
+                    "relationship": "appear as",
+                    "entity2": "structures"
+                },
+                {
+                    "entity1": "structures",
+                    "relationship": "surrounded by",
+                    "entity2": "parking lots"
+                },
+                {
+                    "entity1": "structures",
+                    "relationship": "surrounded by",
+                    "entity2": "loading docks"
+                }
+            ],
+            "Entity-to-Attribute Relationships": []
+        },
+        {
+            "Entities": [
+                "Industrial Buildings"
+            ],
+            "Attributes": [
+                "Large size",
+                "Flat roof",
+                "Rectangular shape",
+                "Minimal windows",
+                "Parking lots",
+                "Proximity to other industrial buildings",
+                "Distinct features"
+            ],
+            "Entity-to-Entity Relationships": [],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Industrial Buildings",
+                    "relationship": "has",
+                    "attribute": "Large size"
+                },
+                {
+                    "entity": "Industrial Buildings",
+                    "relationship": "has",
+                    "attribute": "Flat roof"
+                },
+                {
+                    "entity": "Industrial Buildings",
+                    "relationship": "has",
+                    "attribute": "Rectangular shape"
+                },
+                {
+                    "entity": "Industrial Buildings",
+                    "relationship": "has",
+                    "attribute": "Minimal windows"
+                },
+                {
+                    "entity": "Industrial Buildings",
+                    "relationship": "has",
+                    "attribute": "Parking lots"
+                },
+                {
+                    "entity": "Industrial Buildings",
+                    "relationship": "has",
+                    "attribute": "Proximity to other industrial buildings"
+                },
+                {
+                    "entity": "Industrial Buildings",
+                    "relationship": "has",
+                    "attribute": "Distinct features"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Industrial buildings",
+                "loading docks",
+                "parking lots"
+            ],
+            "Attributes": [
+                "rectangular shape",
+                "square shape",
+                "large roof"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Industrial buildings",
+                    "relationship": "have",
+                    "entity2": "loading docks"
+                },
+                {
+                    "entity1": "Industrial buildings",
+                    "relationship": "have",
+                    "entity2": "parking lots"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Industrial buildings",
+                    "relationship": "identified by",
+                    "attribute": "rectangular shape"
+                },
+                {
+                    "entity": "Industrial buildings",
+                    "relationship": "identified by",
+                    "attribute": "square shape"
+                },
+                {
+                    "entity": "Industrial buildings",
+                    "relationship": "have",
+                    "attribute": "large roof"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Industrial buildings",
+                "parking lots",
+                "loading docks",
+                "other types of land"
+            ],
+            "Attributes": [
+                "larger",
+                "box-like structures",
+                "flat roofs",
+                "diverse",
+                "natural appearance"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Industrial buildings",
+                    "relationship": "typically larger than",
+                    "entity2": "parking lots"
+                },
+                {
+                    "entity1": "Industrial buildings",
+                    "relationship": "typically surrounded by",
+                    "entity2": "loading docks"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "other types of land",
+                    "relationship": "have a more",
+                    "attribute": "diverse"
+                },
+                {
+                    "entity": "other types of land",
+                    "relationship": "have a more",
+                    "attribute": "natural appearance"
+                },
+                {
+                    "entity": "Industrial buildings",
+                    "relationship": "are",
+                    "attribute": "larger"
+                },
+                {
+                    "entity": "Industrial buildings",
+                    "relationship": "are",
+                    "attribute": "box-like structures"
+                },
+                {
+                    "entity": "Industrial buildings",
+                    "relationship": "have",
+                    "attribute": "flat roofs"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "visual cue",
+                "industrial buildings",
+                "smokestacks",
+                "chimneys"
+            ],
+            "Attributes": [
+                "large",
+                "unique",
+                "visible",
+                "plumes of smoke"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "visual cue",
+                    "relationship": "unique to",
+                    "entity2": "industrial buildings"
+                },
+                {
+                    "entity1": "industrial buildings",
+                    "relationship": "presence of",
+                    "entity2": "smokestacks"
+                },
+                {
+                    "entity1": "industrial buildings",
+                    "relationship": "presence of",
+                    "entity2": "chimneys"
+                },
+                {
+                    "entity1": "smokestacks",
+                    "relationship": "emitting",
+                    "entity2": "plumes of smoke"
+                },
+                {
+                    "entity1": "chimneys",
+                    "relationship": "emitting",
+                    "entity2": "plumes of smoke"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "smokestacks",
+                    "relationship": "large",
+                    "attribute": "large"
+                },
+                {
+                    "entity": "visual cue",
+                    "relationship": "unique",
+                    "attribute": "unique"
+                },
+                {
+                    "entity": "smokestacks",
+                    "relationship": "visible",
+                    "attribute": "visible"
+                },
+                {
+                    "entity": "chimneys",
+                    "relationship": "visible",
+                    "attribute": "visible"
+                },
+                {
+                    "entity": "plumes of smoke",
+                    "relationship": "visible",
+                    "attribute": "visible"
+                }
+            ]
+        }
+    ],
+    "Pasture Land": [
+        {
+            "Entities": [
+                "Pasture land",
+                "satellite photo",
+                "area",
+                "trees",
+                "bushes",
+                "livestock"
+            ],
+            "Attributes": [
+                "green",
+                "open",
+                "scattered",
+                "present"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Pasture land",
+                    "relationship": "in",
+                    "entity2": "satellite photo"
+                },
+                {
+                    "entity1": "Pasture land",
+                    "relationship": "has",
+                    "entity2": "area"
+                },
+                {
+                    "entity1": "area",
+                    "relationship": "has",
+                    "entity2": "trees"
+                },
+                {
+                    "entity1": "area",
+                    "relationship": "has",
+                    "entity2": "bushes"
+                },
+                {
+                    "entity1": "area",
+                    "relationship": "has",
+                    "entity2": "livestock"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Pasture land",
+                    "relationship": "appears as",
+                    "attribute": "green"
+                },
+                {
+                    "entity": "Pasture land",
+                    "relationship": "appears as",
+                    "attribute": "open"
+                },
+                {
+                    "entity": "area",
+                    "relationship": "has",
+                    "attribute": "scattered"
+                },
+                {
+                    "entity": "livestock",
+                    "relationship": "often with",
+                    "attribute": "present"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Green vegetation",
+                "Trees",
+                "Crop fields"
+            ],
+            "Attributes": [
+                "Clumped pattern",
+                "Varying shades",
+                "Less distinct pattern",
+                "Texture"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Green vegetation",
+                    "relationship": "bordered by",
+                    "entity2": "Trees"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Green vegetation",
+                    "relationship": "has",
+                    "attribute": "Clumped pattern"
+                },
+                {
+                    "entity": "Green vegetation",
+                    "relationship": "has",
+                    "attribute": "Varying shades"
+                },
+                {
+                    "entity": "Green vegetation",
+                    "relationship": "has",
+                    "attribute": "Less distinct pattern"
+                },
+                {
+                    "entity": "Green vegetation",
+                    "relationship": "has",
+                    "attribute": "Texture"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Pasture land",
+                "satellite photo",
+                "vegetation"
+            ],
+            "Attributes": [
+                "green color",
+                "regular patterns",
+                "evenly spaced"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Pasture land",
+                    "relationship": "identified in",
+                    "entity2": "satellite photo"
+                },
+                {
+                    "entity1": "satellite photo",
+                    "relationship": "contains",
+                    "entity2": "vegetation"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Pasture land",
+                    "relationship": "has",
+                    "attribute": "green color"
+                },
+                {
+                    "entity": "vegetation",
+                    "relationship": "has",
+                    "attribute": "regular patterns"
+                },
+                {
+                    "entity": "vegetation",
+                    "relationship": "has",
+                    "attribute": "evenly spaced"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Pasture land",
+                "open grasslands",
+                "trees",
+                "types of land",
+                "colors",
+                "textures",
+                "shapes"
+            ],
+            "Attributes": [
+                "appears",
+                "occasional",
+                "different"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Pasture land",
+                    "relationship": "appears as",
+                    "entity2": "open grasslands"
+                },
+                {
+                    "entity1": "Pasture land",
+                    "relationship": "has",
+                    "entity2": "trees"
+                },
+                {
+                    "entity1": "types of land",
+                    "relationship": "may have",
+                    "entity2": "colors"
+                },
+                {
+                    "entity1": "types of land",
+                    "relationship": "may have",
+                    "entity2": "textures"
+                },
+                {
+                    "entity1": "types of land",
+                    "relationship": "may have",
+                    "entity2": "shapes"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Pasture land",
+                    "relationship": "appears",
+                    "attribute": "open"
+                },
+                {
+                    "entity": "Pasture land",
+                    "relationship": "occasional",
+                    "attribute": "trees"
+                },
+                {
+                    "entity": "types of land",
+                    "relationship": "different",
+                    "attribute": "colors"
+                },
+                {
+                    "entity": "types of land",
+                    "relationship": "different",
+                    "attribute": "textures"
+                },
+                {
+                    "entity": "types of land",
+                    "relationship": "different",
+                    "attribute": "shapes"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Green vegetation",
+                "Trees",
+                "Bushes",
+                "Satellite photo",
+                "Area",
+                "Pasture Land"
+            ],
+            "Attributes": [
+                "Presence",
+                "Scattered",
+                "Centered"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Green vegetation",
+                    "relationship": "Located in",
+                    "entity2": "Satellite photo"
+                },
+                {
+                    "entity1": "Trees",
+                    "relationship": "Located in",
+                    "entity2": "Satellite photo"
+                },
+                {
+                    "entity1": "Bushes",
+                    "relationship": "Located in",
+                    "entity2": "Satellite photo"
+                },
+                {
+                    "entity1": "Satellite photo",
+                    "relationship": "Indicates",
+                    "entity2": "Area"
+                },
+                {
+                    "entity1": "Area",
+                    "relationship": "Classified as",
+                    "entity2": "Pasture Land"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Green vegetation",
+                    "relationship": "Presence",
+                    "attribute": "Scattered"
+                },
+                {
+                    "entity": "Trees",
+                    "relationship": "Presence",
+                    "attribute": "Scattered"
+                },
+                {
+                    "entity": "Bushes",
+                    "relationship": "Presence",
+                    "attribute": "Scattered"
+                },
+                {
+                    "entity": "Satellite photo",
+                    "relationship": "Position",
+                    "attribute": "Centered"
+                }
+            ]
+        }
+    ],
+    "Permanent Crop Land": [
+        {
+            "Entities": [
+                "Permanent crop land",
+                "small, evenly spaced circles",
+                "rectangles",
+                "land cover"
+            ],
+            "Attributes": [
+                "green in color",
+                "distinct from surrounding land cover"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Permanent crop land",
+                    "relationship": "is located in",
+                    "entity2": "land cover"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Permanent crop land",
+                    "relationship": "has the attribute",
+                    "attribute": "green in color"
+                },
+                {
+                    "entity": "Permanent crop land",
+                    "relationship": "is distinct from",
+                    "attribute": "surrounding land cover"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Permanent Crop Land",
+                "land types",
+                "visible vegetation"
+            ],
+            "Attributes": [
+                "repetitive patterns",
+                "regular shapes",
+                "smaller size"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Permanent Crop Land",
+                    "relationship": "is a type of",
+                    "entity2": "land types"
+                },
+                {
+                    "entity1": "land types",
+                    "relationship": "have",
+                    "entity2": "visible vegetation"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Permanent Crop Land",
+                    "relationship": "has",
+                    "attribute": "repetitive patterns"
+                },
+                {
+                    "entity": "Permanent Crop Land",
+                    "relationship": "has",
+                    "attribute": "regular shapes"
+                },
+                {
+                    "entity": "Permanent Crop Land",
+                    "relationship": "has",
+                    "attribute": "smaller size"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Permanent crop land"
+            ],
+            "Attributes": [
+                "evenly spaced",
+                "geometrically shaped",
+                "distinct patterns",
+                "colors"
+            ],
+            "Entity-to-Entity Relationships": [],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Permanent crop land",
+                    "relationship": "can be identified by",
+                    "attribute": "evenly spaced"
+                },
+                {
+                    "entity": "Permanent crop land",
+                    "relationship": "can be identified by",
+                    "attribute": "geometrically shaped"
+                },
+                {
+                    "entity": "Permanent crop land",
+                    "relationship": "can be identified by",
+                    "attribute": "distinct patterns"
+                },
+                {
+                    "entity": "Permanent crop land",
+                    "relationship": "can be identified by",
+                    "attribute": "colors"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Permanent Crop Land",
+                "vegetation rows",
+                "other land types",
+                "patterns"
+            ],
+            "Attributes": [
+                "regular",
+                "irregular",
+                "varied"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Permanent Crop Land",
+                    "relationship": "appears as",
+                    "entity2": "vegetation rows"
+                },
+                {
+                    "entity1": "other land types",
+                    "relationship": "appear as",
+                    "entity2": "patterns"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Permanent Crop Land",
+                    "relationship": "appears as",
+                    "attribute": "regular"
+                },
+                {
+                    "entity": "other land types",
+                    "relationship": "appear as",
+                    "attribute": "irregular"
+                },
+                {
+                    "entity": "other land types",
+                    "relationship": "appear as",
+                    "attribute": "varied"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Crop Rows",
+                "Vegetation",
+                "Permanent Crop Land"
+            ],
+            "Attributes": [
+                "Regular Geometric Shapes",
+                "Consistent Green Texture"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Crop Rows",
+                    "relationship": "are part of",
+                    "entity2": "Permanent Crop Land"
+                },
+                {
+                    "entity1": "Vegetation",
+                    "relationship": "is on",
+                    "entity2": "Permanent Crop Land"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Crop Rows",
+                    "relationship": "have",
+                    "attribute": "Regular Geometric Shapes"
+                },
+                {
+                    "entity": "Vegetation",
+                    "relationship": "has",
+                    "attribute": "Consistent Green Texture"
+                }
+            ]
+        }
+    ],
+    "Residential Buildings": [
+        {
+            "Entities": [
+                "Residential buildings",
+                "Photo",
+                "Greenery",
+                "Roads"
+            ],
+            "Attributes": [
+                "Clustered",
+                "Rectangular-shaped",
+                "Regular-shaped"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Residential buildings",
+                    "relationship": "appear as",
+                    "entity2": "clusters"
+                },
+                {
+                    "entity1": "Photo",
+                    "relationship": "centered",
+                    "entity2": "Residential buildings"
+                },
+                {
+                    "entity1": "Residential buildings",
+                    "relationship": "surrounded by",
+                    "entity2": "Greenery"
+                },
+                {
+                    "entity1": "Residential buildings",
+                    "relationship": "surrounded by",
+                    "entity2": "Roads"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Residential buildings",
+                    "relationship": "mostly",
+                    "attribute": "Rectangular-shaped"
+                },
+                {
+                    "entity": "Residential buildings",
+                    "relationship": "mostly",
+                    "attribute": "Regular-shaped"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Residential buildings"
+            ],
+            "Attributes": [
+                "rectangular shape",
+                "regular spacing",
+                "distinct roofs",
+                "chimney",
+                "protrusions",
+                "centered satellite photo"
+            ],
+            "Entity-to-Entity Relationships": [],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Residential buildings",
+                    "relationship": "can be recognized by",
+                    "attribute": "rectangular shape"
+                },
+                {
+                    "entity": "Residential buildings",
+                    "relationship": "can be recognized by",
+                    "attribute": "regular spacing"
+                },
+                {
+                    "entity": "Residential buildings",
+                    "relationship": "can be recognized by",
+                    "attribute": "distinct roofs"
+                },
+                {
+                    "entity": "Residential buildings",
+                    "relationship": "can be recognized by",
+                    "attribute": "chimney"
+                },
+                {
+                    "entity": "Residential buildings",
+                    "relationship": "can be recognized by",
+                    "attribute": "protrusions"
+                },
+                {
+                    "entity": "Residential buildings",
+                    "relationship": "can be recognized by",
+                    "attribute": "centered satellite photo"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Residential buildings",
+                "Structures",
+                "Roofs",
+                "Windows",
+                "Doors",
+                "Satellite photo"
+            ],
+            "Attributes": [
+                "Rectangular or square",
+                "Distinct features",
+                "Smaller size"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Residential buildings",
+                    "relationship": "appear as",
+                    "entity2": "Structures"
+                },
+                {
+                    "entity1": "Structures",
+                    "relationship": "have",
+                    "entity2": "Roofs"
+                },
+                {
+                    "entity1": "Structures",
+                    "relationship": "have",
+                    "entity2": "Windows"
+                },
+                {
+                    "entity1": "Structures",
+                    "relationship": "have",
+                    "entity2": "Doors"
+                },
+                {
+                    "entity1": "Satellite photo",
+                    "relationship": "depicts",
+                    "entity2": "Residential buildings"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Residential buildings",
+                    "relationship": "are",
+                    "attribute": "Rectangular or square"
+                },
+                {
+                    "entity": "Residential buildings",
+                    "relationship": "have",
+                    "attribute": "Distinct features"
+                },
+                {
+                    "entity": "Residential buildings",
+                    "relationship": "are",
+                    "attribute": "Smaller size"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Residential buildings",
+                "land",
+                "vegetation"
+            ],
+            "Attributes": [
+                "clustered rectangular shapes",
+                "different geometric shapes",
+                "textures"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Residential buildings",
+                    "relationship": "appear as",
+                    "entity2": "clustered rectangular shapes"
+                },
+                {
+                    "entity1": "land",
+                    "relationship": "exhibit",
+                    "entity2": "different geometric shapes and textures"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Residential buildings",
+                    "relationship": "appear as",
+                    "attribute": "clustered rectangular shapes"
+                },
+                {
+                    "entity": "land",
+                    "relationship": "exhibit",
+                    "attribute": "different geometric shapes and textures"
+                },
+                {
+                    "entity": "land",
+                    "relationship": "exhibit",
+                    "attribute": "vegetation"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Residential buildings",
+                "Roofs",
+                "Natural land"
+            ],
+            "Attributes": [
+                "Regular grid pattern",
+                "Sharp edges",
+                "Distinct",
+                "Irregular shapes"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Residential buildings",
+                    "relationship": "have",
+                    "entity2": "Roofs"
+                },
+                {
+                    "entity1": "Roofs",
+                    "relationship": "different from",
+                    "entity2": "Natural land"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Residential buildings",
+                    "relationship": "have",
+                    "attribute": "Regular grid pattern"
+                },
+                {
+                    "entity": "Roofs",
+                    "relationship": "have",
+                    "attribute": "Sharp edges"
+                },
+                {
+                    "entity": "Residential buildings",
+                    "relationship": "have",
+                    "attribute": "Distinct"
+                },
+                {
+                    "entity": "Natural land",
+                    "relationship": "have",
+                    "attribute": "Irregular shapes"
+                }
+            ]
+        }
+    ],
+    "River": [
+        {
+            "Entities": [
+                "River",
+                "Satellite Photo",
+                "Land"
+            ],
+            "Attributes": [
+                "Appearance",
+                "Color",
+                "Width"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "River",
+                    "relationship": "Winds through",
+                    "entity2": "Land"
+                },
+                {
+                    "entity1": "River",
+                    "relationship": "Appears in",
+                    "entity2": "Satellite Photo"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "River",
+                    "relationship": "Appears as",
+                    "attribute": "Thin Blue Line"
+                },
+                {
+                    "entity": "River",
+                    "relationship": "Appears through",
+                    "attribute": "Green or Brown Land"
+                },
+                {
+                    "entity": "Satellite Photo",
+                    "relationship": "Centered on",
+                    "attribute": "River"
+                },
+                {
+                    "entity": "River",
+                    "relationship": "Appears with",
+                    "attribute": "Typically"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "River",
+                "Photo",
+                "Color",
+                "Shape",
+                "Pattern",
+                "Vegetation"
+            ],
+            "Attributes": [
+                "Distinct",
+                "Centered",
+                "Satellite",
+                "Blue",
+                "Elongated",
+                "Meandering",
+                "Surrounding"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "River",
+                    "relationship": "in",
+                    "entity2": "Photo"
+                },
+                {
+                    "entity1": "River",
+                    "relationship": "has",
+                    "entity2": "Color"
+                },
+                {
+                    "entity1": "River",
+                    "relationship": "has",
+                    "entity2": "Shape"
+                },
+                {
+                    "entity1": "River",
+                    "relationship": "has",
+                    "entity2": "Pattern"
+                },
+                {
+                    "entity1": "River",
+                    "relationship": "has",
+                    "entity2": "Vegetation"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Color",
+                    "relationship": "is",
+                    "attribute": "Blue"
+                },
+                {
+                    "entity": "Shape",
+                    "relationship": "is",
+                    "attribute": "Elongated"
+                },
+                {
+                    "entity": "Pattern",
+                    "relationship": "is",
+                    "attribute": "Meandering"
+                },
+                {
+                    "entity": "River",
+                    "relationship": "has",
+                    "attribute": "Distinct"
+                },
+                {
+                    "entity": "River",
+                    "relationship": "has",
+                    "attribute": "Elongated"
+                },
+                {
+                    "entity": "River",
+                    "relationship": "has",
+                    "attribute": "Meandering"
+                },
+                {
+                    "entity": "River",
+                    "relationship": "has",
+                    "attribute": "Surrounding"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "River",
+                "Greenery",
+                "Land"
+            ],
+            "Attributes": [
+                "long",
+                "winding",
+                "blue",
+                "lighter shade",
+                "shallow areas"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "River",
+                    "relationship": "appears as",
+                    "entity2": "Greenery"
+                },
+                {
+                    "entity1": "River",
+                    "relationship": "appears as",
+                    "entity2": "Land"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "River",
+                    "relationship": "appears as",
+                    "attribute": "long"
+                },
+                {
+                    "entity": "River",
+                    "relationship": "appears as",
+                    "attribute": "winding"
+                },
+                {
+                    "entity": "River",
+                    "relationship": "appears as",
+                    "attribute": "blue"
+                },
+                {
+                    "entity": "River",
+                    "relationship": "appears as",
+                    "attribute": "lighter shade"
+                },
+                {
+                    "entity": "River",
+                    "relationship": "indicates",
+                    "attribute": "shallow areas"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Rivers",
+                "land features",
+                "satellite photo"
+            ],
+            "Attributes": [
+                "thin",
+                "snaking lines",
+                "darker shade",
+                "blue",
+                "centered"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Rivers",
+                    "relationship": "compared to",
+                    "entity2": "land features"
+                },
+                {
+                    "entity1": "Rivers",
+                    "relationship": "in",
+                    "entity2": "satellite photo"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Rivers",
+                    "relationship": "appear as",
+                    "attribute": "thin"
+                },
+                {
+                    "entity": "Rivers",
+                    "relationship": "appear as",
+                    "attribute": "snaking lines"
+                },
+                {
+                    "entity": "Rivers",
+                    "relationship": "with",
+                    "attribute": "darker shade"
+                },
+                {
+                    "entity": "Rivers",
+                    "relationship": "with",
+                    "attribute": "blue"
+                },
+                {
+                    "entity": "satellite photo",
+                    "relationship": "in",
+                    "attribute": "centered"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "River"
+            ],
+            "Attributes": [
+                "visual cue",
+                "centered satellite photo",
+                "distinct",
+                "sinuous",
+                "meandering",
+                "blue or green line",
+                "water flow"
+            ],
+            "Entity-to-Entity Relationships": [],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "River",
+                    "relationship": "has",
+                    "attribute": "visual cue"
+                },
+                {
+                    "entity": "River",
+                    "relationship": "has",
+                    "attribute": "centered satellite photo"
+                },
+                {
+                    "entity": "River",
+                    "relationship": "has",
+                    "attribute": "distinct"
+                },
+                {
+                    "entity": "River",
+                    "relationship": "has",
+                    "attribute": "sinuous"
+                },
+                {
+                    "entity": "River",
+                    "relationship": "has",
+                    "attribute": "meandering"
+                },
+                {
+                    "entity": "River",
+                    "relationship": "has",
+                    "attribute": "blue or green line"
+                },
+                {
+                    "entity": "River",
+                    "relationship": "has",
+                    "attribute": "water flow"
+                }
+            ]
+        }
+    ],
+    "Sea or Lake": [
+        {
+            "Entities": [
+                "Satellite photo",
+                "Sea",
+                "Lake",
+                "Body of water",
+                "Land"
+            ],
+            "Attributes": [
+                "Centered",
+                "Large",
+                "Circular",
+                "Irregularly shaped",
+                "Blue"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Satellite photo",
+                    "relationship": "shows",
+                    "entity2": "Sea"
+                },
+                {
+                    "entity1": "Satellite photo",
+                    "relationship": "shows",
+                    "entity2": "Lake"
+                },
+                {
+                    "entity1": "Sea",
+                    "relationship": "surrounded by",
+                    "entity2": "Land"
+                },
+                {
+                    "entity1": "Lake",
+                    "relationship": "surrounded by",
+                    "entity2": "Land"
+                }
+            ],
+            "Entity-to-Attribute Relationships": []
+        },
+        {
+            "Entities": [
+                "sea",
+                "lake",
+                "photo",
+                "vegetation"
+            ],
+            "Attributes": [
+                "blue color",
+                "continuous boundary"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "sea",
+                    "relationship": "recognizing",
+                    "entity2": "photo"
+                },
+                {
+                    "entity1": "lake",
+                    "relationship": "recognizing",
+                    "entity2": "photo"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "photo",
+                    "relationship": "centered",
+                    "attribute": "blue color"
+                },
+                {
+                    "entity": "photo",
+                    "relationship": "centered",
+                    "attribute": "continuous boundary"
+                },
+                {
+                    "entity": "photo",
+                    "relationship": "lack of",
+                    "attribute": "vegetation"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Blue color",
+                "Water",
+                "Shoreline patterns",
+                "Flatness of the area",
+                "Urban features",
+                "Vegetation features"
+            ],
+            "Attributes": [
+                "Indicating",
+                "Excluding",
+                "Nearby"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Blue color",
+                    "relationship": "indicating",
+                    "entity2": "Water"
+                },
+                {
+                    "entity1": "Water",
+                    "relationship": "having",
+                    "entity2": "Shoreline patterns"
+                },
+                {
+                    "entity1": "Flatness of the area",
+                    "relationship": "indicating",
+                    "entity2": "Water"
+                },
+                {
+                    "entity1": "Urban features",
+                    "relationship": "nearby",
+                    "entity2": "Water"
+                },
+                {
+                    "entity1": "Vegetation features",
+                    "relationship": "nearby",
+                    "entity2": "Water"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Water",
+                    "relationship": "indicating",
+                    "attribute": "Blue color"
+                },
+                {
+                    "entity": "Water",
+                    "relationship": "excluding",
+                    "attribute": "Urban features"
+                },
+                {
+                    "entity": "Water",
+                    "relationship": "excluding",
+                    "attribute": "Vegetation features"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "satellite photo",
+                "seas",
+                "lakes",
+                "water",
+                "land",
+                "topographic features"
+            ],
+            "Attributes": [
+                "blue",
+                "flat",
+                "reflective",
+                "varying shades",
+                "green",
+                "brown",
+                "grey"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "satellite photo",
+                    "relationship": "shows",
+                    "entity2": "seas"
+                },
+                {
+                    "entity1": "satellite photo",
+                    "relationship": "shows",
+                    "entity2": "lakes"
+                },
+                {
+                    "entity1": "water",
+                    "relationship": "is",
+                    "entity2": "blue"
+                },
+                {
+                    "entity1": "water",
+                    "relationship": "is",
+                    "entity2": "flat"
+                },
+                {
+                    "entity1": "water",
+                    "relationship": "is",
+                    "entity2": "reflective"
+                },
+                {
+                    "entity1": "land",
+                    "relationship": "is",
+                    "entity2": "varying shades"
+                },
+                {
+                    "entity1": "land",
+                    "relationship": "is",
+                    "entity2": "green"
+                },
+                {
+                    "entity1": "land",
+                    "relationship": "is",
+                    "entity2": "brown"
+                },
+                {
+                    "entity1": "land",
+                    "relationship": "is",
+                    "entity2": "grey"
+                },
+                {
+                    "entity1": "land",
+                    "relationship": "has",
+                    "entity2": "topographic features"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "seas",
+                    "relationship": "appear as",
+                    "attribute": "blue"
+                },
+                {
+                    "entity": "seas",
+                    "relationship": "appear as",
+                    "attribute": "flat"
+                },
+                {
+                    "entity": "seas",
+                    "relationship": "appear as",
+                    "attribute": "reflective"
+                },
+                {
+                    "entity": "lakes",
+                    "relationship": "appear as",
+                    "attribute": "blue"
+                },
+                {
+                    "entity": "lakes",
+                    "relationship": "appear as",
+                    "attribute": "flat"
+                },
+                {
+                    "entity": "lakes",
+                    "relationship": "appear as",
+                    "attribute": "reflective"
+                },
+                {
+                    "entity": "land",
+                    "relationship": "appear as",
+                    "attribute": "varying shades"
+                },
+                {
+                    "entity": "land",
+                    "relationship": "appear as",
+                    "attribute": "green"
+                },
+                {
+                    "entity": "land",
+                    "relationship": "appear as",
+                    "attribute": "brown"
+                },
+                {
+                    "entity": "land",
+                    "relationship": "appear as",
+                    "attribute": "grey"
+                }
+            ]
+        },
+        {
+            "Entities": [
+                "Blue area",
+                "Structures",
+                "Features",
+                "Land",
+                "Sea",
+                "Lake",
+                "Satellite photo"
+            ],
+            "Attributes": [
+                "Extentive",
+                "Blue",
+                "No visible structures or features",
+                "Surrounded by land",
+                "Centered"
+            ],
+            "Entity-to-Entity Relationships": [
+                {
+                    "entity1": "Blue area",
+                    "relationship": "Located in or near",
+                    "entity2": "Land"
+                },
+                {
+                    "entity1": "Blue area",
+                    "relationship": "Indicates",
+                    "entity2": "Sea"
+                },
+                {
+                    "entity1": "Blue area",
+                    "relationship": "Indicates",
+                    "entity2": "Lake"
+                },
+                {
+                    "entity1": "Blue area",
+                    "relationship": "Visible in",
+                    "entity2": "Satellite photo"
+                }
+            ],
+            "Entity-to-Attribute Relationships": [
+                {
+                    "entity": "Blue area",
+                    "relationship": "Extent",
+                    "attribute": "Extensive"
+                },
+                {
+                    "entity": "Blue area",
+                    "relationship": "Color",
+                    "attribute": "Blue"
+                },
+                {
+                    "entity": "Blue area",
+                    "relationship": "Visible features",
+                    "attribute": "No visible structures or features"
+                },
+                {
+                    "entity": "Blue area",
+                    "relationship": "Surrounded by",
+                    "attribute": "Land"
+                },
+                {
+                    "entity": "Sea",
+                    "relationship": "Indicated by",
+                    "attribute": "Blue area"
+                },
+                {
+                    "entity": "Lake",
+                    "relationship": "Indicated by",
+                    "attribute": "Blue area"
+                },
+                {
+                    "entity": "Satellite photo",
+                    "relationship": "Centered on",
+                    "attribute": "Blue area"
+                }
+            ]
+        }
+    ]
+}

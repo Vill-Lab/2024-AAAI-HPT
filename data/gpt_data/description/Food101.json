@@ -1,0 +1,709 @@
+{
+    "apple pie": [
+        "Apple pie is a baked dish with a golden brown crust, filled with sweet apple slices, and often served with vanilla ice cream.",
+        "Apple pie is recognizable by its circular crust, lattice top, golden brown color, and visible chunks of apple filling.",
+        "Apple pie is a baked dish with a round, golden crust, sliced apples inside, and often has a lattice pattern on top.",
+        "Apple pie typically has a golden brown crust with visible layers of sliced apples and cinnamon, while other foods differ in color, texture, and shape.",
+        "A lattice pastry crust on top of the golden-brown filling makes apple pie's visual cue unique among all food."
+    ],
+    "baby back ribs": [
+        "Baby back ribs are a meat dish with ribs covered in BBQ sauce. They have a brownish-red color and a smoky aroma.",
+        "Baby back ribs have a curved bone structure with a meaty appearance, pinkish color, and a charred and glazed exterior.",
+        "Baby back ribs are long and thin, with curved bones that are covered in savory smoked or grilled meat.",
+        "Baby back ribs are thin, curved rectangular meat with visible bones. Other foods typically have different shapes, textures, and colors.",
+        "The pinkish hue of the meat, combined with visible bone fragments and the shape of the meat itself, is unique to baby back ribs."
+    ],
+    "baklava": [
+        "Baklava is a sweet pastry with layers of phyllo dough, chopped nuts, and honey or syrup. It has a distinctive diamond shape and is often garnished with pistachios.",
+        "Baklava has a layered pastry with a phyllo dough crust, chopped nuts in the filling, and a honey or syrupy sweet glaze.",
+        "Baklava is a sweet pastry made of layers of phyllo dough, chopped nuts, and honey syrup, often cut into diamond shapes.",
+        "Baklava is a layered pastry with chopped nuts and syrup. It is rectangular, shiny, and has a distinctive diamond pattern.",
+        "The layered and flaky pastry of baklava is its unique visual cue due to the phyllo dough used in its preparation."
+    ],
+    "beef carpaccio": [
+        "Beef carpaccio is a dish made of thinly sliced raw beef, typically served with arugula, shaved parmesan, and a drizzle of olive oil.",
+        "Thinly sliced raw beef, often served with arugula and parmesan cheese, drizzled with olive oil and lemon juice.",
+        "Beef carpaccio typically consists of thin slices of raw beef, arranged in a circular pattern and topped with arugula and shaved Parmesan cheese.",
+        "Beef carpaccio is thinly sliced raw beef served on a plate, typically garnished with arugula, Parmesan cheese, and a drizzle of olive oil.",
+        "Thinly sliced raw beef with a light pink hue and marbled fat. The dish is often served with arugula and Parmesan cheese."
+    ],
+    "beef tartare": [
+        "Beef tartare is a raw dish made with finely chopped or ground beef mixed with seasonings, often served with toast points.",
+        "Beef tartare is a raw dish consisting of finely chopped or ground beef mixed with onion, capers, and herbs. It has a distinct bright red color and a smooth texture.",
+        "Beef tartare is a raw meat dish typically served in a rounded patty shape with garnishes like egg and capers.",
+        "Beef tartare is finely chopped, raw beef served with condiments while other foods may be cooked and have different colors, textures, and shapes.",
+        "Beef tartare is a raw meat dish consisting of finely chopped meat that is visibly different in texture and color compared to cooked meat."
+    ],
+    "beet salad": [
+        "Beet salad is a colorful mix of roasted beets, greens, crumbled cheese, nuts, and dressing served chilled or room temperature.",
+        "Beet salad is identifiable by its deep red and purple tones, leafy greens, and crumbled cheese or nut toppings.",
+        "Beet salad is a dish composed of sliced or grated beets, often mixed with vegetables, nuts, and dressings, served cold.",
+        "Beet salad generally has a reddish-purple color, is served cold, and often features sliced or grated beets, while other foods vary in appearance.",
+        "The deep red color of the beetroot is the unique visual cue in beet salad, which makes it stand out amongst other foods."
+    ],
+    "beignets": [
+        "Beignets are a type of French pastry that are deep-fried dough balls dusted with powdered sugar, commonly served as a dessert.",
+        "Beignets are a type of fried dough pastry characterized by their square shape, fluffy texture, and powdered sugar coating.",
+        "Beignets are square-shaped, doughnut-like pastries with a crispy exterior and soft interior, typically covered in powdered sugar.",
+        "Beignets are deep-fried doughnuts from Louisiana. They are square-shaped, fluffy, and covered in powdered sugar, unlike other foods.",
+        "Beignets often have a distinctive squarish shape, and are covered in a dusting of powdered sugar, giving them a recognizable appearance."
+    ],
+    "bibimbap": [
+        "Bibimbap is a Korean dish consisting of rice topped with vegetables, meat or tofu, and a fried egg, all mixed together with chili sauce.",
+        "Bibimbap is a Korean dish consisting of rice, vegetables, meat, and egg served in a bowl, with each ingredient arranged neatly.",
+        "Bibimbap is a Korean dish featuring a bowl of rice topped with a variety of vegetables, meat, egg, and spicy sauce.",
+        "Bibimbap is a Korean rice dish with colorful vegetables, meat, and a fried egg on top. It is distinct in its vibrant and assorted presentation.",
+        "Bibimbap has a unique presentation where all the ingredients are arranged separately on top of a bed of rice."
+    ],
+    "bread pudding": [
+        "Bread pudding is a baked dessert made by combining bread, eggs, milk, sugar, and spices, forming a creamy, custard-like texture.",
+        "Bread pudding has a soft and creamy texture with visible bread cubes, usually served with a sweet sauce and toppings.",
+        "Bread pudding typically looks like a moist dessert made from bread, eggs, milk and sugar, often with raisins or other fruits, and is baked until golden brown.",
+        "Bread pudding typically appears as a soft, moist dessert with a custard-like texture and specks of bread crumbs, while other foods vary in texture, color, shape, and size.",
+        "Bread pudding has a soft, spongy texture with visible bread chunks soaked in a syrupy, cinnamon-tinged custard, often served with a creamy sauce."
+    ],
+    "breakfast burrito": [
+        "A breakfast burrito typically consists of a soft flour tortilla filled with scrambled eggs, potatoes, cheese, and bacon or sausage.",
+        "A breakfast burrito typically has a tortilla wrapped around scrambled eggs, cheese, beans, and meat (such as bacon or sausage).",
+        "A breakfast burrito typically consists of tortilla, scrambled eggs, cheese, meat, and vegetables, wrapped in a cylindrical shape.",
+        "Breakfast burrito typically consists of eggs, cheese, meat, and/or vegetables wrapped in a tortilla while other foods may have different colors, shapes, and textures.",
+        "The visual cue unique to breakfast burrito is its wrapped cylindrical shape with fillings visible at the top end."
+    ],
+    "bruschetta": [
+        "Bruschetta consists of toasted bread topped with fresh tomatoes, garlic, basil, and olive oil, making it a colorful and flavorful appetizer.",
+        "Bruschetta features include toasted bread, diced tomatoes, garlic, basil, and olive oil arranged in an open-faced appetizer with distinctive toppings.",
+        "Bruschetta is an Italian dish made of toasted bread topped with diced tomatoes, garlic, basil, olive oil, and sometimes cheese.",
+        "Bruschetta is distinguishable from other foods due to its grilled bread base, topped with tomatoes, basil, and garlic, often with visible chunks.",
+        "Bruschetta typically consists of sliced bread that has been toasted or grilled and is topped with chopped tomatoes, garlic, and basil."
+    ],
+    "caesar salad": [
+        "A Caesar salad typically consists of romaine lettuce, croutons, Parmesan cheese, and dressing made with egg yolks, anchovies, and garlic.",
+        "Distinct features of Caesar salad include lettuce, croutons, parmesan cheese, and dressing with anchovy; recognizable by its crunchy and tangy flavor.",
+        "A Caesar salad typically consists of romaine lettuce, croutons, Parmesan cheese, and dressing, with the option of adding grilled chicken or shrimp.",
+        "Caesar salad typically has romaine lettuce, croutons, parmesan cheese, and Caesar dressing while other foods may have different ingredients and textures.",
+        "The visual cue unique to Caesar salad is the presence of large croutons and long strips of Parmesan cheese on top."
+    ],
+    "cannoli": [
+        "Cannoli is an Italian dessert consisting of fried pastry dough filled with sweet ricotta cheese and often topped with chocolate chips.",
+        "Cannoli can be recognized by their tube-shaped pastry shell, creamy ricotta filling, and dusting of powdered sugar.",
+        "Cannoli is a pastry with a cylindrical shape, filled with sweet ricotta cheese, and usually decorated with pistachios or chocolate chips.",
+        "Cannoli are typically tubular-shaped pastry shells filled with sweet ricotta cream, decorated with chocolate chips, and dusted with powdered sugar.",
+        "The ridged cylindrical shape with a crispy outer shell and creamy filling makes cannoli unique and easily recognizable among all food."
+    ],
+    "caprese salad": [
+        "Caprese salad is a simple Italian dish made with sliced tomatoes, fresh mozzarella cheese, basil leaves, drizzled with olive oil.",
+        "Caprese salad is characterized by its traditional Italian ingredients: fresh mozzarella, tomatoes, fresh basil leaves, olive oil, and balsamic vinegar.",
+        "Caprese salad is a simple Italian dish consisting of sliced tomatoes, fresh mozzarella, basil leaves, and olive oil, served cold.",
+        "Caprese salad typically consists of sliced tomatoes, mozzarella cheese, and basil leaves arranged in a circular pattern, while other foods vary in color, texture, and shape.",
+        "The combination of sliced tomatoes, fresh mozzarella cheese, and basil leaves arranged in layers is a unique visual cue of caprese salad."
+    ],
+    "carrot cake": [
+        "Carrot cake is a dessert typically made with shredded carrots, spices, and cream cheese frosting, and has a moist and dense texture.",
+        "Carrot cake has a light brown hue, a moist and dense texture, visible shreds of carrot, and often topped with cream cheese frosting.",
+        "Carrot cake can be identified by its distinct orange-brown color, soft texture, and visible bits of carrot and nuts.",
+        "Carrot cake is typically round, brown, and has a crumbly texture, while other foods can vary in shape, color, and texture.",
+        "The presence of small flecks of orange suggests the presence of grated carrots which is a visual cue unique to carrot cake."
+    ],
+    "ceviche": [
+        "Ceviche is a popular seafood dish typically made with raw fish, citrus juices, and spices, often served with vegetables.",
+        "Ceviche is a raw seafood dish marinated in citrus juice, with diced onions, peppers, and herbs, often served with avocado.",
+        "Ceviche is typically a seafood dish consisting of raw fish that has been marinated in citrus juices and spices. It has a distinct texture and appearance, with a translucent firmness and a bright, colorful mix of vegetables and herbs.",
+        "Ceviche is a dish made of raw fish marinated in citrus juice, with a distinct opaque appearance, while other foods may have a different texture and color.",
+        "Ceviche features raw seafood that has been marinated in citrus juice, giving it a distinctive opaque, white, cooked appearance."
+    ],
+    "cheese plate": [
+        "A cheese plate typically consists of a selection of different cheeses, often arranged with crackers, bread, fruit, nuts, and spreads.",
+        "Some distinct features of a cheese plate for recognition could be its circular or rectangular shape, various types of cheeses, and accompanying crackers or fruits.",
+        "Cheese plates typically consist of a variety of cheeses, often accompanied by fruits, nuts, and crackers, presented on a platter.",
+        "Cheese plates typically consist of various cheese types and accompaniments arranged on a platter, with distinct colors, textures, and shapes.",
+        "Cheese plate usually consists of a variety of cheeses, arranged in an attractive way, often with fruits, nuts, and crackers, facilitating taste exploration."
+    ],
+    "cheesecake": [
+        "Cheesecake is a dessert that typically consists of a graham cracker crust with a creamy, smooth filling made from cream cheese, sugar, and eggs.",
+        "The distinct features of cheesecake for recognition are its circular shape, smooth creamy texture, and crumbly crust on the bottom.",
+        "Cheesecake can be identified by its creamy texture, graham cracker crust, and usually topped with fruits or sauces, served in slices.",
+        "Cheesecake has a crumbly crust and a creamy, smooth filling with a slightly browned top, while other food may have different textures, colors, and shapes.",
+        "The creamy, smooth texture and dense consistency of cheesecake is a unique visual cue that sets it apart from other foods."
+    ],
+    "chicken curry": [
+        "Chicken curry is a dish with a thick, spicy and aromatic sauce, typically yellow or red in color, served with rice or bread.",
+        "Chicken curry usually has a saucy texture with chunks of chicken, a yellow/orange color from turmeric, and spices like cumin and coriander.",
+        "Chicken curry is a dish that consists of chicken pieces cooked in a spiced sauce, often accompanied by vegetables and rice.",
+        "Chicken curry usually has a yellow to red color and a thick sauce, while other foods can vary in color, texture, and sauce consistency.",
+        "The unique visual cue of chicken curry is a vibrant, yellow-orange color due to the use of turmeric in the sauce."
+    ],
+    "chicken quesadilla": [
+        "A chicken quesadilla typically looks like a toasted tortilla wrap filled with seasoned shredded chicken, melted cheese, and toppings.",
+        "Some distinctive features of chicken quesadilla are its tortilla base, melted cheese, shredded chicken, green peppers, onions, and tomatoes.",
+        "A chicken quesadilla is a Mexican dish with a flour tortilla filled with grilled chicken, melted cheese, and other toppings like onions and peppers.",
+        "Chicken quesadilla usually has a tortilla filled with melted cheese, chicken, and vegetables, while other foods vary in shape, color, and texture.",
+        "The melted cheese oozing out of the edges of a folded tortilla is a visual cue unique to chicken quesadilla."
+    ],
+    "chicken wings": [
+        "Chicken wings are small, crispy, and browned pieces of chicken with a distinctive bone-in shape served as finger food.",
+        "The distinct features of chicken wings are their shape, texture, size, crispy outer layer, and bone structure with meat attached.",
+        "Chicken wings can be identified by their small size, unique shape with two bones, crispy texture, and often coated in sauce or seasoning.",
+        "Chicken wings are small, bone-in pieces of chicken with a distinct shape and texture, usually coated in sauce or seasoning.",
+        "The unique visual cue of chicken wings is their distinctive shape: flat, angular, and resembling the letter \"V\"."
+    ],
+    "chocolate cake": [
+        "Chocolate cake is a dessert typically baked in a round shape with a rich, moist chocolatey texture and topped with chocolate frosting or ganache.",
+        "A chocolate cake can be recognized by its dark brown color, moist texture, layered structure, cocoa powder dusting, and possibly frosting or decorations.",
+        "A chocolate cake typically has a brown color, a soft texture, and is often topped with frosting or sprinkles.",
+        "Chocolate cake is rich, brown, and has a soft, fluffy texture. It often has frosting or drizzled chocolate on top.",
+        "The brown chocolatey color and crumbly texture with possible frosting or toppings are the unique visual cues for chocolate cake."
+    ],
+    "chocolate mousse": [
+        "Chocolate mousse is a creamy and fluffy dessert made from whipped chocolate and cream, usually served chilled in a glass cup or bowl.",
+        "Chocolate mousse is a type of dessert with a creamy, airy texture and rich chocolate flavor, often served chilled and garnished with whipped cream.",
+        "Chocolate mousse is a dessert with a creamy, smooth texture and a dark brown color that resembles whipped chocolate pudding.",
+        "Chocolate mousse is a creamy dessert with a smooth texture and light brown color, distinguished by its fluffy, whipped appearance.",
+        "The smooth and velvety texture combined with the dark brown color and air bubbles are unique visual cues of chocolate mousse."
+    ],
+    "churros": [
+        "Churros are long, tube-shaped fried pastries with ridged surfaces dusted in cinnamon sugar. They are crispy on the outside and chewy on the inside.",
+        "Churros are long, thin and cylindrical fried dough pastries with a ridged surface and a caramelized exterior, commonly served with chocolate sauce.",
+        "Churros have a long, cylindrical shape with ridges and are deep-fried until golden brown, topped with sugar and cinnamon.",
+        "Churros have a thin, elongated shape with ridges and a golden brown color, while other foods vary in size, shape, and color.",
+        "The unique visual cue of churros is their long, cylindrical shape with ridges along the surface and a curved end."
+    ],
+    "clam chowder": [
+        "Clam chowder is a creamy soup that usually contains clams, potatoes, onions, and celery, served in a bread bowl.",
+        "Clam chowder has a creamy base with chunks of potatoes and clams, typically served in a bowl with a spoon.",
+        "Clam chowder is a thick soup made of clams, potatoes, onions, and cream, often topped with bacon or crackers.",
+        "Clam chowder is a creamy soup made with clams, potatoes, and vegetables. It has a thick consistency, white color, and visible clam pieces.",
+        "The unique visual cue of clam chowder is its creamy white broth with chunks of potatoes and clams."
+    ],
+    "club sandwich": [
+        "Club sandwich is a type of sandwich with toasted bread, bacon, turkey or chicken, lettuce, tomato, and mayonnaise, often served with fries.",
+        "Club sandwich is a triple-decker sandwich made with turkey, bacon, lettuce, tomato, mayo, and typically cut into quarters.",
+        "A club sandwich consists of three slices of bread with chicken or turkey, bacon, lettuce, and tomato stacked in layers.",
+        "Club sandwiches typically consist of three layers of bread and two layers of filling while other foods have different shapes, sizes, and ingredients.",
+        "The unique visual cue of a Club Sandwich is its layered composition of bread, lettuce, bacon, tomato, chicken or turkey, and mayo."
+    ],
+    "crab cakes": [
+        "Crab cakes are small, round and golden brown in color, consisting of rich, moist flakes of succulent crab meat.",
+        "Crab cakes can be recognized by their round, flat shape with a golden brown crust and visible chunks of crab meat.",
+        "Crab cakes appear as circular patties with a golden brown crust, exhibiting chunks of crab meat, breadcrumbs, herbs, and spices.",
+        "Crab cakes are usually round, flat, and have a golden brown crust, while other foods can vary in shape and color.",
+        "The distinguishing visual cue of crab cakes is the circular patty shape with visible chunks of crab meat and breadcrumbs."
+    ],
+    "creme brulee": [
+        "Creme brulee is a dessert that usually comes in a small ramekin. It has a custard base and a caramelized sugar topping.",
+        "Distinct features of creme brulee include a creamy custard base, a caramelized sugar crust, and often served in a ramekin.",
+        "Creme brulee is a dessert with a caramelized sugar crust on top of a creamy custard base, served in a ramekin.",
+        "Creme brulee is a creamy dessert with a caramelized sugar crust on top, distinct from other food by its texture and appearance.",
+        "The distinctive visual feature of creme brulee is its caramelized sugar crust that cracks and shatters when tapped."
+    ],
+    "croque madame": [
+        "Croque madame is a French sandwich made with ham, cheese, and bechamel sauce, topped with a fried egg. It is decadent and delicious.",
+        "The distinct features of croque madame are a grilled ham and cheese sandwich with a fried egg on top.",
+        "Croque Madame is a French sandwich that consists of ham, cheese, and b\u00e9chamel sauce with a fried egg on top.",
+        "Croque madame is a French pressed sandwich with ham, cheese and b\u00e9chamel sauce, topped with a poached egg, easily distinguishable from other sandwiches.",
+        "The visual cue unique to Croque Madame is a sunny-side up egg on top of the sandwich, creating a distinct and recognizable appearance."
+    ],
+    "cup cakes": [
+        "Cupcakes are small, individual cakes with a soft sponge base topped with sweet icing, often decorated with sprinkles or other embellishments.",
+        "Distinct features of cup cakes include small size, circular shape, decorative toppings, and its use of cup-shaped molds for baking.",
+        "I can identify cupcakes based on their round shape, fluted sides, individual serving size, and topped with frosting and decorations.",
+        "Cupcakes usually have a cupcake liner and are smaller in size, while other foods don't have liners and come in different shapes and sizes.",
+        "The unique visual cue of cupcake is its small size, individual serving and aesthetic decoration on top using frosting, sprinkles, or sugar paste."
+    ],
+    "deviled eggs": [
+        "Deviled eggs are typically white with a yellow yolk center and may be topped with paprika or other seasonings.",
+        "Deviled eggs have a distinct shape, with halved boiled eggs filled with a mixture of yolks, mayo, and mustard, often topped with paprika.",
+        "Deviled eggs are boiled and halved egg whites filled with a creamy mixture of mashed yolks and spices. They have a distinctive oval shape and yellowish-white color.",
+        "Deviled eggs are usually halved hard-boiled eggs with the yolk mixed with mayonnaise, mustard, or other seasonings and piped back into the white.",
+        "Deviled eggs have a distinctive halved boiled egg shape with a yellow yolk filling topped with paprika or other spice."
+    ],
+    "donuts": [
+        "Donuts are typically round with a hole in the middle, fried pastry dough coated in sugar or glaze, often with colorful sprinkles.",
+        "Donuts usually have a round shape, a hole in the middle, a sweet glaze or frosting on top, and a textured surface.",
+        "By detecting circular shapes, identifying shades of brown with a hole in the center and recognizing sprinkles or glaze toppings.",
+        "Donuts are typically circular with a hole in the center and a glazed or sugared surface, while other foods vary in shape, texture, and topping.",
+        "The unique visual cue of donuts is their circular shape with a hole in the center and a glazed or decorated top."
+    ],
+    "dumplings": [
+        "Dumplings are small, round food items made of dough and filled with various ingredients, typically served boiled, fried, or steamed.",
+        "Dumplings have a distinctive shape, usually round or crescent-shaped, with a pleated or crimped edge and a wrinkle-free surface.",
+        "Dumplings can be identified by their small, doughy, and often rounded appearance, usually filled with meat, vegetables, or other savory ingredients.",
+        "Dumplings are small, round, and typically have folds or pleats. They are usually filled with meat or vegetables and boiled or steamed.",
+        "The pleated edges and spherical shape are unique visual cues that distinguish dumplings from other food items."
+    ],
+    "edamame": [
+        "Edamame is a popular Japanese dish consisting of immature soybeans in the pod, typically steamed or boiled and salted.",
+        "Edamame typically has green pods containing small, rounded, and beige-colored beans that can be easily recognizable due to their unique shape and color.",
+        "Edamame is a type of soybean commonly served as a snack or appetizer in its pod, with a smooth, oval shape and bright green color.",
+        "Edamame pods are green with small green beans inside, while other foods may have varying colors and shapes like red, round tomatoes.",
+        "Edamame beans are distinct due to their bright green color, elongated shape, and furry texture of the pods."
+    ],
+    "eggs benedict": [
+        "Eggs Benedict is a popular breakfast dish consisting of an English muffin, topped with Canadian bacon, poached eggs, and hollandaise sauce.",
+        "Eggs Benedict is a breakfast dish that consists of a poached egg on top of an English muffin with Canadian bacon and hollandaise sauce.",
+        "Eggs benedict is a dish consisting of two halves of an English muffin, topped with a poached egg, ham or bacon, and hollandaise sauce.",
+        "Eggs benedict consists of a toasted English muffin, topped with Canadian bacon, poached egg, and hollandaise sauce, while other foods have different ingredients and presentations.",
+        "The hollandaise sauce on top of the poached egg and English muffin is a unique visual cue for eggs benedict."
+    ],
+    "escargots": [
+        "Escargots are a French delicacy consisting of cooked snails served in their shells with garlic herb butter sauce.",
+        "Escargots have a spiral-shaped shell, are small in size and have a distinct light brown color with a slimy texture.",
+        "Escargots appear as cooked land snails in their shell, usually served with garlic butter and parsley, and are distinct from other foods.",
+        "Escargots are small, spiral-shaped shellfish with a soft body, compared to other foods like meat or vegetables which have a different texture and shape.",
+        "The spiral-shaped shell of escargots is a unique visual cue among all food due to its distinctive and recognizable shape."
+    ],
+    "falafel": [
+        "Falafel is a small, round, crispy, and flavorful vegetarian patty made from ground chickpeas spiced with herbs and onions.",
+        "The distinct features of falafel for recognition among all food are round shape, crispy outer layer, and green herbs visible inside.",
+        "Falafel is a small, round, fried or baked patty made of ground chickpeas mixed with spices, herbs, and onions.",
+        "Falafel is a small, round, fried patty made from ground chickpeas and spices, typically served in a pita. It has a distinctive green color.",
+        "One visual cue unique to falafel is its crispy exterior and green flecks from the herbs mixed into the mixture."
+    ],
+    "filet mignon": [
+        "Filet mignon is a small, thick, and circular cut of beef that is known for being tender, juicy, and rich in flavor.",
+        "Filet mignon is a lean, tender cut of beef that is cylindrical in shape, pinkish-red in color, and has a buttery texture.",
+        "Filet mignon is a beef steak cut from the tenderloin, typically cylindrical or heart-shaped, with a smooth surface and minimal visible fat.",
+        "Filet mignon typically appears as a small, thick, round cut of tenderloin steak with a light pinkish-brown color and minimal fat.",
+        "Filet mignon typically has a round or cylindrical shape with a pinkish-red center, surrounded by a light brown crust or sear."
+    ],
+    "fish and chips": [
+        "Fish and chips is a popular English dish that typically consists of crispy battered fish served with thick-cut fries.",
+        "Distinct features for fish and chips recognition include: oblong shape, battered and fried fish, thick-cut crispy fries, and sometimes served with tartar sauce.",
+        "Fish and chips can be identified by their crispy golden brown batter surrounding a fillet of fish and traditional thick cut fries.",
+        "Fish and chips are typically rectangular in shape, with a crispy and golden brown exterior, while other foods have varying shapes and textures.",
+        "Fish and chips is typically characterized by its combination of fried fish fillets and thick-cut, crispy potato chips or fries."
+    ],
+    "foie gras": [
+        "Foie gras is a luxury food made from duck or goose liver, with a rich, creamy texture and a distinct, savory flavor.",
+        "Foie gras is a luxury food made of the liver of a duck or goose, characterized by its smooth texture, rich flavor, and light brown color.",
+        "Foie gras typically appears as a smooth, creamy, and buttery textured food with a pale pinkish-beige color and a distinctive liver flavor.",
+        "Foie gras is a rich, buttery and smooth liver p\u00e2t\u00e9 made from the specially fattened liver of duck or goose, different from regular liver in color and texture.",
+        "Foie gras has a smooth, velvety texture and a distinct marbled appearance with varying shades of pink, red, and white."
+    ],
+    "french fries": [
+        "French fries are thin, golden and crispy potato sticks, usually served hot and salty as a popular side dish.",
+        "The visual features of French fries include their elongated shape, golden crispy texture, and symmetrical size with distinct potato shapes.",
+        "French fries are typically thin, elongated strips of potato that are fried until golden brown and crispy with a smooth surface.",
+        "French fries are long, thin, and crispy potato strips with a golden brown color, while other food items have varying shapes, sizes, and colors.",
+        "The elongated and slender shape with a crispy golden brown exterior and soft interior texture is unique to French fries."
+    ],
+    "french onion soup": [
+        "French onion soup is a savory soup with caramelized onions, beef broth, and melted cheese on top, often served in a crock.",
+        "French onion soup usually has caramelized onions, beef broth, and toasted bread topped with melted Gruyere cheese. It is brownish in color and served hot.",
+        "French onion soup is usually served in a small brown crock with melted cheese and crusty bread visible on top, with a dark, rich broth underneath.",
+        "French onion soup is a rich, brown broth with caramelized onions and a toasted bread topping with melted cheese.",
+        "The stringy, melted cheese on top of the soup is a unique and recognizable visual cue for French onion soup."
+    ],
+    "french toast": [
+        "French toast is a breakfast dish made by soaking bread in a mixture of eggs and milk, then frying until golden-brown.",
+        "French toast is typically made with slices of bread soaked in a mixture of eggs, milk, and cinnamon, and then fried until golden brown.",
+        "French toast appears as a golden-brown, bread-based dish that typically features a slightly custard-like texture and may be topped with syrup or fruit.",
+        "French toast is made from bread soaked in eggs and milk and cooked until golden brown, while other food looks different.",
+        "The browning and caramelization of the bread surface, often with characteristic grill marks, is unique to French toast."
+    ],
+    "fried calamari": [
+        "Fried calamari is typically a dish of breaded and deep-fried squid, served hot and crispy with lemon wedges and a dipping sauce.",
+        "Distinct features of fried calamari are its circular shape, golden-brown crispy crust, and visible texture of the squid rings.",
+        "Fried calamari is a deep-fried seafood dish made from battered squid rings that have a crispy golden-brown appearance.",
+        "Fried calamari has a distinct ring-shaped and light golden brown appearance compared to other foods that may be round or irregularly shaped and differently colored.",
+        "The unique visual cue of fried calamari is its golden-brown crispy coating and distinctive ring-shaped texture of the squid meat inside."
+    ],
+    "fried rice": [
+        "Fried rice is a savory dish made with cooked rice, mixed with vegetables, and sometimes with eggs, protein, or soy sauce, often served in a bowl or on a plate.",
+        "Fried rice typically has small grains of rice coated with oil, mixed with diced vegetables, meat or seafood, and often scrambled egg.",
+        "Fried rice is a dish made of cooked rice stir-fried with vegetables, eggs, and sometimes meat or seafood. It has a grainy texture and golden brown color.",
+        "Fried rice has a distinct yellowish color with visible grains of rice that are separate and slightly crispy, compared to other foods.",
+        "The unique visual cue of fried rice is the presence of small, colorful, and evenly distributed chopped vegetables mixed with the rice."
+    ],
+    "frozen yogurt": [
+        "Frozen yogurt is a smooth and creamy dessert resembling soft-serve ice cream, often topped with fruits, nuts, and syrups.",
+        "Distinct features of frozen yogurt include its soft, creamy texture, pastel-colored appearance, and toppings like fruit, candy, and granola.",
+        "Frozen yogurt is a semi-solid dessert with a smooth, creamy texture, often served in a cup or cone with toppings.",
+        "Frozen yogurt typically appears smoother and creamier than regular yogurt, and it's frozen, while other foods may vary widely in appearance.",
+        "The smooth, creamy texture of frozen yogurt distinguishes it from other foods, with a frozen appearance and often vibrant colors."
+    ],
+    "garlic bread": [
+        "Garlic bread appears as a slice or loaf of bread saturated with garlic and butter, often served as a side dish or appetizer.",
+        "Garlic bread can be recognized by its sliced bread base, crispy toasted texture, and distinct aroma of garlic and butter.",
+        "Garlic bread is a type of bread that is typically sliced, toasted, and topped with garlic butter or oil, herbs, and sometimes cheese.",
+        "Garlic bread is a baked bread with garlic, butter, and herbs on top, usually sliced. It has a distinctive golden brown colour and a fragrant garlic aroma.",
+        "Garlic bread is typically distinguishable by its long, crusty bread shape with garlic butter spread on top, often served sliced."
+    ],
+    "gnocchi": [
+        "Gnocchi is a type of Italian pasta made from potatoes and flour, shaped into small dumplings and served with various sauces.",
+        "Gnocchi is recognized by its small, round shape, distinct ridges, soft and pillowy texture, made from potato, flour, and egg.",
+        "Gnocchi is a small, oval-shaped pasta made of potato and flour, often with visible lines or ridges and a soft, doughy texture.",
+        "Gnocchi is a small, soft, and pillowy pasta made of potato, while other food such as pasta and rice have different shapes and textures.",
+        "The unique visual cue of gnocchi among all foods is its small, pillowy and irregular shape, often marked with fork tines."
+    ],
+    "greek salad": [
+        "Greek salad typically consists of sliced tomatoes, cucumbers, red onion, peppers, feta cheese, olives, oregano, and olive oil dressing.",
+        "Greek salad has tomato, cucumber, red onion, bell pepper, feta cheese, olives, and is typically dressed with olive oil and lemon juice.",
+        "Greek salad usually contains tomatoes, cucumbers, onions, olives, and feta cheese, all arranged in a distinct pattern with a light dressing.",
+        "Greek salad typically consists of lettuce, tomatoes, cucumbers, feta cheese, red onions, and olives with an olive oil dressing, distinguished by its Mediterranean flavors.",
+        "The unique visual cue of Greek salad is the inclusion of feta cheese, which is typically crumbled over the top."
+    ],
+    "grilled cheese sandwich": [
+        "A grilled cheese sandwich is a sandwich that usually consists of two slices of bread with melted cheese in between.",
+        "Distinct features of grilled cheese sandwich include two slices of bread with melted cheese in between, often with grill marks.",
+        "A grilled cheese sandwich is usually rectangular in shape, with melted cheese in between two slices of bread, and toasted on both sides.",
+        "Grilled cheese sandwiches have a crispy, golden-brown exterior, while other foods may have a different color, texture, and shape.",
+        "The melted cheese oozing out of the sandwich is a visual cue unique to grilled cheese that distinguishes it from other food."
+    ],
+    "grilled salmon": [
+        "Grilled salmon has a distinctive pink color, opaque flesh, and crispy skin; often served with lemon wedges and green garnishes.",
+        "Grilled salmon has a pinkish-orange color with a distinctive smoky aroma, char marks, flaky texture, and a buttery flavor.",
+        "Grilled salmon appears as a pinkish-white to orange flesh with grill marks, slightly crispy skin, and a flaky texture.",
+        "Grilled salmon has a pinkish-orange color with visible grill marks and a flaky texture, while other foods have different colors, textures, and shapes.",
+        "Grilled salmon is uniquely distinguished by its pinkish-orange color and distinct flaky texture, with distinct grill marks."
+    ],
+    "guacamole": [
+        "Guacamole is a greenish dip made from mashed avocado, mixed with tomatoes, onions, and lime juice, often served with tortilla chips.",
+        "Green color, texture of mashed avocados, cilantro flecks, and small chunks of tomato and onion are distinctive features of guacamole.",
+        "Guacamole is a green, creamy dip that has a mashed avocado base and usually contains ingredients like lime, onion, and tomato.",
+        "Guacamole is generally green in color with a chunky texture that includes visible pieces of avocado, tomato, onion, and cilantro.",
+        "The green color and texture of mashed avocado mixed with diced onions, tomatoes, cilantro, garlic, and lime juice are unique to guacamole."
+    ],
+    "gyoza": [
+        "Gyoza is a Japanese dumpling with a thin, crispy dough filled with savory minced pork and cabbage, often served with soy sauce.",
+        "Distinct features of gyoza include its semi-circular shape, thin dough, filling consisting of ground meat and vegetables, and pan-fried texture.",
+        "Gyoza typically has a thin wrapper with a pleated edge, and is filled with ground meat and vegetables, then pan-fried or steamed.",
+        "Gyoza is a Japanese dumpling with a thin, chewy wrapper and a crescent shape, while other foods may have different shapes, sizes, and textures.",
+        "The signature pleated wrapper, a semicircle shape filled with minced pork or vegetables, is unique to gyoza among all food."
+    ],
+    "hamburger": [
+        "A hamburger is typically a sandwich made of a beef patty served between two buns, often with toppings like lettuce, tomato, cheese, and condiments.",
+        "Distinct features of hamburger for recognition: round patty, sliced tomatoes, lettuce, buns, cheese, and condiments such as ketchup and mayo.",
+        "A hamburger typically consists of a beef patty, sliced tomatoes, onions, lettuce, pickles, cheese, and a bun.",
+        "Hamburger typically has a round bun, circular patty, lettuce, tomato, and cheese; while other food may not have these characteristics.",
+        "The visual cue unique to a hamburger is the presence of a patty sandwiched between two buns, often accompanied by condiments."
+    ],
+    "hot and sour soup": [
+        "Hot and sour soup is a slightly viscous soup that is typically reddish-brown in color, with visible minced mushrooms, tofu, and bamboo shoots.",
+        "Hot and sour soup features ingredients such as tofu, wood ear mushrooms, vinegar, and chili pepper, giving it a tart and spicy flavor.",
+        "Hot and sour soup has a clear, broth-like appearance with visible ingredients such as mushrooms, tofu, and bamboo shoots. It has a tangy taste.",
+        "Hot and sour soup typically has a translucent broth with sliced veggies and protein, while other foods vary in color, texture, and shape.",
+        "The unique visual cue of hot and sour soup is the presence of red chili flakes and black pepper specks floating on the broth."
+    ],
+    "hot dog": [
+        "A hot dog is a type of sausage sandwich commonly served on a bun, typically made with a grilled or boiled sausage and topped with condiments.",
+        "Distinct features of hot dogs for recognition are cylindrical shape, grilled lines, brown color, and sausage texture with condiments such as ketchup and mustard.",
+        "A hot dog typically has a long cylindrical shape with a smooth surface and a distinct texture from the casing.",
+        "Hot dogs have a cylindrical shape, smooth surface with distinctive grill marks, and are usually served in a bun. Other foods may vary in shape, texture, and serving style.",
+        "The elongated shape, texture of the bun, and placement of condiments vertically along the sausage are unique visual cues of a hot dog."
+    ],
+    "huevos rancheros": [
+        "Huevos rancheros is a traditional Mexican breakfast dish featuring sunny-side up eggs on top of a tortilla with salsa, beans, and avocado.",
+        "Huevos rancheros is a Mexican dish consisting of fried eggs, spicy tomato sauce, beans, and corn tortillas, typically served for breakfast.",
+        "Huevos rancheros are a traditional Mexican dish consisting of fried eggs on a tortilla topped with tomato-based salsa and beans.",
+        "Huevos rancheros typically consist of fried eggs on a tortilla covered in tomato-chili sauce, cheese, and beans, distinguishing them from other dishes.",
+        "The dish huevos rancheros is typically distinguished by the presence of fried eggs sitting on a bed of saucy tomato-chili pepper sauce."
+    ],
+    "hummus": [
+        "Hummus is a beige, creamy spread made from chickpeas, tahini, olive oil, lemon juice, garlic, and spices.",
+        "Distinct features for hummus recognition may include smooth texture, beige color, and small visible flecks of chickpea or herbs.",
+        "Hummus has a beige or light brown color, a thick and creamy texture, and is typically served in a bowl or container.",
+        "Hummus is a dip made from chickpeas and has a beige or light brown color, while other foods differ in texture and color.",
+        "The visual cue unique to hummus is its distinct beige or tan color and smooth, creamy texture often garnished with olive oil."
+    ],
+    "ice cream": [
+        "Ice cream is a frozen dessert that is creamy and sweet in taste. It often comes in various flavors and colors.",
+        "Distinct features of ice cream include its creamy texture, colorful appearance, rounded scoops, various toppings, and cone or bowl presentation.",
+        "Ice cream can be identified by its smooth, creamy texture, pastel colors, scooped or swirled appearance, and waffle cone accompaniment.",
+        "Ice cream is usually round, comes in a variety of colors, has a creamy texture, and is often served in a cone or bowl with toppings.",
+        "The creamy texture and bright colors of ice cream distinguish it from other foods, making it a uniquely fun and indulgent treat."
+    ],
+    "lasagna": [
+        "Lasagna typically has multiple layers of pasta sheets, meat or vegetarian sauce, ricotta or b\u00e9chamel cheese, and is baked until golden brown.",
+        "Lasagna features include flat pasta sheets layered with hearty meat sauce, creamy ricotta cheese filling, and delicious melty mozzarella cheese on top.",
+        "Lasagna is a layered dish with pasta sheets, meat sauce, cheese, and sometimes, vegetables, baked to a golden brown color.",
+        "Lasagna typically has layers of flat pasta, meat sauce, and cheese, while other foods may have various shapes, colors, and textures.",
+        "The visual cue that is unique to lasagna is its layered structure of alternating strips of pasta, meat, cheese, and sauce."
+    ],
+    "lobster bisque": [
+        "Lobster bisque is a creamy, orange-pink soup made with cooked lobster meat, cream, broth, and seasoned with spices and herbs.",
+        "Lobster bisque often appears as a creamy, reddish-orange soup. It has chunks of lobster meat, herbs like thyme, and a seafood flavor.",
+        "Lobster bisque can be identified by its creamy, orange-pink color, specks of lobster meat, and sometimes garnished with herbs.",
+        "Lobster bisque has a creamy, orange-pink hue with chunks of lobster meat, while other foods may have different colors and textures.",
+        "Lobster bisque can be visually distinguished by its creamy texture and distinct orange color, often garnished with chopped lobster meat."
+    ],
+    "lobster roll sandwich": [
+        "A lobster roll sandwich is a classic New England dish, featuring chunks of lobster meat stuffed in a buttered, toasted hot dog bun.",
+        "Some distinct features of a lobster roll sandwich are: buttered toasted bread, chunky lobster meat, mayonnaise, lemon, and seasoning.",
+        "Lobster roll sandwich is a type of sandwich typically made with fresh lobster meat placed on a toasted hot dog bun with various condiments.",
+        "Lobster roll sandwich has a distinctive appearance characterized by a buttery, soft bread roll and chunks of succulent, fresh lobster meat.",
+        "The visual cue unique to lobster roll sandwich is the chunks of fresh lobster meat piled high on a toasted split-top bun."
+    ],
+    "macaroni and cheese": [
+        "Macaroni and cheese is a common and popular dish made of elbow-shaped pasta, cheese sauce, and sometimes breadcrumbs or meat.",
+        "Distinct features of macaroni and cheese include elbow-shaped pasta, yellow cheese sauce, and sometimes breadcrumbs on top for recognition.",
+        "Macaroni and cheese appears as cooked elbow macaroni coated in a creamy cheese sauce, usually served in a bowl or on a plate.",
+        "Macaroni and cheese has a yellowish color, small elbow-shaped pasta, and a creamy texture compared to other foods.",
+        "One visual cue that is unique to macaroni and cheese is the bright orange color of the cheese sauce."
+    ],
+    "macarons": [
+        "Macarons are small, round and colorful French confections made of almond flour, egg whites, and sugar with a creamy filling.",
+        "Macarons have a circular, sandwich-like shape with a smooth, shiny surface and a distinctive filling visible in the center.",
+        "Macarons can be identified by their small size, round shape, flat tops and bottoms, and colorful exteriors with filling visible in the center.",
+        "Macarons are small, round, flat cookies with a smooth top and a ruffled edge while other food differs significantly in shape, color and texture.",
+        "The unique visual cue of macarons is their small, round shape with a smooth and shiny shell and a flat base."
+    ],
+    "miso soup": [
+        "Miso soup is a traditional Japanese soup consisting of a savory broth with soybean paste, tofu, seaweed, and other ingredients.",
+        "Distinct features of miso soup include a clear broth, tofu cubes, chopped green onions, and small seaweed flakes/filaments.",
+        "Miso soup is a traditional Japanese soup that is light in color and consists of broth, miso paste, and ingredients like tofu and seaweed.",
+        "Miso soup is typically light-colored, watery and has small tofu and seaweed bits. Other foods can have varying colors, textures, and shapes.",
+        "The visual cue that is unique to miso soup is the presence of small tofu cubes and seaweed floating in the broth."
+    ],
+    "mussels": [
+        "Mussels are a type of seafood with a hard outer shell and softer, chewy flesh inside that ranges in color from pale beige to orange.",
+        "Distinct features of mussels include their dark brown or blackish-blue shells, oblong shape, and the presence of a beard or byssus threads for attachment.",
+        "Mussels can be identified by their oval-shaped shells, dark blue-black color, and distinctive brownish beard or tuft that protrudes from their hinge area.",
+        "Mussels are small, elongated shellfish with blue-black shells and yellowish meat. They differ from other food in appearance due to their distinct shell and soft insides.",
+        "Mussels have a distinct oblong shape with a dark blue-black exterior and a lighter, cream-colored interior with a distinct curve."
+    ],
+    "nachos": [
+        "Nachos are typically composed of tortilla chips topped with melted cheese and various toppings such as jalape\u00f1os, sour cream, and guacamole.",
+        "Distinct features of nachos are their triangular shape, layered toppings, melted cheese, corn chips, and often accompanied by salsa or guacamole.",
+        "Nachos can be identified by their triangular shape with crispy edges, topped with cheese sauce or melted cheese along with toppings like salsa and jalapenos.",
+        "Nachos typically have a triangular shape, are made of corn chips, and are topped with cheese, meat, beans, and guacamole.",
+        "The visual cue unique to nachos is the assembly of tortilla chips, melted cheese, and toppings like beans, meat, and vegetables."
+    ],
+    "omelette": [
+        "An omelette is a dish made from beaten eggs mixed with cheese, vegetables, and sometimes meat, folded into a half-moon shape and cooked until golden brown.",
+        "Omelette is a flat, circular dish made from beaten eggs cooked with butter or oil. It has a thin and yellowish texture with visible fillings.",
+        "An omelette is a cooked dish made with beaten eggs, typically folded with cheese, vegetables, and/or meat and has a flat, round appearance.",
+        "Omelettes typically have a flat, round shape with a yellow, cooked exterior and a soft, fluffy interior, while other foods vary in color, shape, and texture.",
+        "The most unique visual cue of an omelette is its folded shape, resembling a half-moon with fillings visible in the middle."
+    ],
+    "onion rings": [
+        "Onion rings are typically circular, fried and crispy with a golden-brown outer layer and a soft, slightly sweet onion center.",
+        "Onion rings have a distinctive circular shape, golden brown color, crispy texture, and visible onion layers that are recognizable visual features.",
+        "Onion rings are typically round, breaded and fried with a distinct golden crunchy texture, often served as a side dish.",
+        "Onion rings are circular, often with a round hole in the center, golden brown in color, and have a crispy texture.",
+        "The unique visual cue of onion rings is their circular shape and the distinct pattern of the breaded coating around the onion."
+    ],
+    "oysters": [
+        "Oysters are small, oblong-shaped shellfish with irregularly shaped shells. They have a soft, slimy texture and are often served raw on the half shell.",
+        "Distinct features of oysters for recognition are: Grayish-white color, rough shell, irregular shape, pearly appearance, and a characteristic briny smell.",
+        "Oysters have a shell with a concave, uneven surface and a pronounced hinge. The interior contains a distinctive, greyish-white flesh.",
+        "Oysters have a rough, irregular shell with a pearly interior, while other foods don't have shells and have different shapes and textures.",
+        "The unique visual cue of oysters among all food is their distinct shell shape and pattern, resembling two connected halves."
+    ],
+    "pad thai": [
+        "Pad Thai is a stir-fried noodle dish consisting of rice noodles, vegetables, peanuts, tofu, shrimp and a sweet-sour sauce.",
+        "Distinct features of pad thai for recognition include its flat rice noodles, crushed peanuts, bean sprouts, egg, tamarind sauce, and shrimp or chicken.",
+        "Pad Thai is a stir-fried noodle dish that usually contains shrimp, bean sprouts, eggs, and peanuts and is garnished with lime.",
+        "Pad Thai typically has thin, flat rice noodles stir-fried with eggs, vegetables, peanuts, and tofu or meat, while other foods may vary in appearance.",
+        "Pad thai is typically characterized by its flat and wide rice noodles stir-fried with various ingredients, including tofu, bean sprouts, eggs, and peanuts."
+    ],
+    "paella": [
+        "Paella is a traditional Spanish dish, consisting of saffron-infused yellow rice, mixed with meats, seafood, vegetables & spices, cooked in a wide, shallow pan.",
+        "Paella is a Spanish rice dish typically made with saffron, chorizo, chicken, and seafood, cooked in a wide shallow pan.",
+        "Paella is a Spanish dish that typically features saffron-colored rice, various meats and/or seafood, and vegetables all cooked in a large, shallow pan.",
+        "Paella typically has yellow rice with saffron, mixed seafood or meats, and vegetables, while other dishes may have different colors, textures, and ingredients.",
+        "The yellow color of the rice is a distinctive visual cue and a defining feature of traditional paella dishes."
+    ],
+    "pancakes": [
+        "Pancakes are round and flat with a golden-brown color and a fluffy texture, often served with syrup and butter.",
+        "The distinct features of pancakes are circular shape, flat surface, brown color, visible texture, and often served with toppings.",
+        "Pancakes can be identified through their round and flat shape, golden brown color, and smooth texture with visible pores or bubbles.",
+        "Pancakes are round, flat, and have a golden brown color with a fluffy texture. Other foods may vary in shape, color, and texture.",
+        "The circular shape and uneven surface texture with visible pockets or bubbles are unique visual cues that identify pancakes."
+    ],
+    "panna cotta": [
+        "Panna cotta is a creamy Italian dessert with a silky texture, typically served in a small dish or ramekin with fruit or sauce toppings.",
+        "Panna cotta is a creamy Italian dessert that is recognized by its smooth texture, jiggly consistency, and served in small cups or ramekins.",
+        "Panna cotta is a smooth and creamy Italian dessert that is typically white or pale yellow in color and often served with fruit or chocolate sauce on top.",
+        "Panna cotta is a smooth, creamy, and jiggly dessert typically served in a single dish, with a custard-like texture and no crust.",
+        "The smooth, creamy texture of panna cotta is its most unique visual cue, often served in a small, round dish."
+    ],
+    "peking duck": [
+        "Peking duck is a Chinese dish with crispy skin on the outside and tender meat on the inside, usually served with thin pancakes, scallions and hoisin sauce.",
+        "Peking duck is a roasted duck dish with crispy skin, plump meat, served with thin pancakes, scallions, cucumber, and hoisin sauce.",
+        "Peking duck is a dish made from a roasted duck with crispy skin and a thin layer of fat, served with pancakes, scallions, and hoisin sauce.",
+        "Peking duck has crispy and shiny skin, thin and soft meat, and is typically served with thin pancakes, cucumber, and scallions.",
+        "The crispy, golden-brown skin of Peking duck is the unique visual cue that sets it apart from other types of food."
+    ],
+    "pho": [
+        "Pho is a Vietnamese noodle soup with a clear broth, rice noodles, herbs, and meat (usually beef or chicken).",
+        "Pho features are thin rice noodles, clear aromatic broth, protein (meat or tofu), and fresh herbs like basil, lime, and bean sprouts.",
+        "Pho is a Vietnamese noodle soup with clear broth, rice noodles, sliced meat, herbs, and spices often served with lime and bean sprouts.",
+        "Pho is a clear broth-based Vietnamese soup with thin rice noodles, herbs, and meat, while other foods may differ in texture, color, and ingredients.",
+        "One unique visual cue of pho is its clear and savory broth, typically served with rice noodles, herbs, bean sprouts and meat."
+    ],
+    "pizza": [
+        "Pizza is a savory dish made with dough, sauce, cheese, and toppings such as vegetables, meat, and herbs, often baked in a circular shape.",
+        "Distinct features of pizza include round shape, flat crust, melted cheese, tomato sauce, toppings, and often a distinct aroma.",
+        "Pizza can be identified among all food based on its round shape, thin crust, visible toppings like cheese sauce and vegetables.",
+        "Pizza usually has a round shape with a flat dough base, topped with tomato sauce, cheese and various toppings, while other foods have different shapes and appearances.",
+        "The circular shape with a border of crust, topped with tomato sauce, cheese and various toppings makes pizza visually distinct."
+    ],
+    "pork chop": [
+        "A pork chop is a rectangular or oval-shaped piece of meat obtained from the loin region of a pig. It is typically browned and seasoned with salt, pepper, and other spices.",
+        "Some distinct features of pork chop include its thick, bone-in cut, visible marbling, and pale pink color when cooked.",
+        "A pork chop is a rectangular-shaped cut of meat from a pig that has a light pinkish color and visible marbling in the flesh.",
+        "Pork chop often has a distinctive T-shaped bone and visible layers of fat, while other foods may have a different shape and texture.",
+        "The unique visual cue of a pork chop is the T-shaped bone in the middle of the meat that distinguishes it from other meats."
+    ],
+    "poutine": [
+        "Poutine is a Canadian dish consisting of fries, cheese curds, and gravy, resulting in a savory and indulgent dish.",
+        "Poutine is a Canadian dish featuring golden fries topped with cheese curds and gravy, making it identifiable by its distinctive appearance.",
+        "Poutine is a dish that consists of French fries, cheese curds, and gravy poured over the top, giving it a distinctive appearance.",
+        "Poutine consists of French fries topped with cheese curds and gravy, making it distinct from other dishes with its unique combination and texture.",
+        "Poutine's unique visual cue is the combination of thick-cut french fries, cheese curds, and brown gravy piled atop one another."
+    ],
+    "prime rib": [
+        "Prime rib is a large, juicy, and tender cut of beef with a rich marbling pattern and a browned, crispy exterior.",
+        "Prime rib has a bone-in cut, a marbled appearance, a dark charred exterior, and a juicy medium-rare center.",
+        "Prime rib can be identified by its large and thick cut, marbled texture, and a bone attached to it. It has a reddish-pink color and juicy appearance.",
+        "Prime rib is a large, bone-in cut of beef with well-marbled meat and a reddish-pink interior when cooked.",
+        "The marbling pattern of fat running through the meat, creating white lines of fat throughout, is a unique visual cue of prime rib."
+    ],
+    "pulled pork sandwich": [
+        "A pulled pork sandwich is a dish consisting of shredded pork shoulder, BBQ sauce, and toppings, served on a bun.",
+        "The pulled pork sandwich has a bread bun with shredded cooked pork, often topped with BBQ sauce and coleslaw.",
+        "A pulled pork sandwich typically consists of a bun with shredded pork, BBQ sauce, and often coleslaw on top. It's savory and messy.",
+        "A pulled pork sandwich typically consists of shredded pork in a bun, while other foods may vary in color, texture, shape, and ingredients used.",
+        "The presence of shredded pork with visible strands or chunks, often accompanied by BBQ sauce and served on a bun."
+    ],
+    "ramen": [
+        "Ramen is a Japanese noodle soup dish typically served with toppings such as sliced pork, dried seaweed, green onions, and a boiled egg.",
+        "Ramen can be recognized by its distinctive long, thin noodles, broth, and toppings such as sliced pork, boiled egg, and green onion.",
+        "Ramen can be identified by its noodles, broth, toppings, and bowl shape, often featuring pork slices, seaweed, and other savory ingredients.",
+        "Ramen noodles are thin and curly, served in a bowl with broth, while other foods vary greatly in size, shape, and presentation.",
+        "The distinctive visual cue of ramen is its curly and tangled noodles served in a bowl of flavorful broth and toppings."
+    ],
+    "ravioli": [
+        "Ravioli is a type of pasta filled with meat or cheese and shaped into small, square pillows, often served with sauce.",
+        "Ravioli has a distinct circular or square shape with a filling visible through a thin layer of pasta dough.",
+        "Ravioli can be identified by its circular shape, folded edges, and filling visible through the pasta. Typically served in a sauce.",
+        "Ravioli has a round, doughy exterior with a filling inside, while other foods vary in size, shape, texture, and filling.",
+        "The unique visual cue of ravioli is its shape, which is characterized by a stuffed pasta pocket with sealed edges."
+    ],
+    "red velvet cake": [
+        "Red velvet cake is a chocolate sponge cake with a distinct reddish color, topped with smooth cream cheese frosting and decorated with cake crumbs.",
+        "The distinct features of red velvet cake are its red color, light texture, cream cheese frosting, and subtle cocoa flavor.",
+        "Red velvet cake typically has a deep red color, a moist texture, and a cream cheese frosting with a slightly tangy flavor.",
+        "Red velvet cake has a deep red color with cream cheese frosting and a moist texture, distinguishing it from other baked goods.",
+        "The bright red color of the cake's interior caused by cocoa powder and food dye is unique to red velvet cake."
+    ],
+    "risotto": [
+        "Risotto is a creamy Italian dish made with arborio rice cooked in broth, usually combined with vegetables, Parmesan cheese, and white wine.",
+        "Distinct features of risotto for recognition: creamy texture, grainy appearance, saucy consistency, often contains Arborio rice, and can have various additional ingredients.",
+        "Risotto is traditionally a creamy Italian rice dish that is usually cooked with vegetables, meat, or seafood and has a distinctive granular appearance.",
+        "Risotto has a creamy texture due to the starch released from the Arborio rice, and is often served in a shallow bowl.",
+        "The creamy consistency of risotto due to the slow release of starch from the Arborio rice creates a unique visual cue."
+    ],
+    "samosa": [
+        "Samosa is a small triangular pastry filled with spiced vegetables or meat, usually served as a popular snack in South Asian cuisine.",
+        "Distinct features of a samosa include its triangular shape, flaky crust, filling of spiced potatoes or vegetables, and deep-fried texture.",
+        "Samosa can be identified by its triangular shape, crispy and golden brown outer crust, and a filling made of spiced potatoes or meat.",
+        "Samosas usually have a triangular shape with a crispy, golden-brown exterior and a filling of spiced potatoes, peas, and sometimes meat.",
+        "A triangular shape with a crispy crust, filled with spiced potatoes and peas, is the most distinctive visual cue for samosas."
+    ],
+    "sashimi": [
+        "Sashimi is a Japanese dish of thinly sliced fresh raw fish or seafood, served without rice or other accompaniments.",
+        "Sashimi is typically identified by its raw, thinly sliced fish presentation, often served on a bed of shredded daikon radish.",
+        "Sashimi appears as thinly sliced raw fish arranged on a plate with garnishes, distinct from other foods like sushi rolls.",
+        "Sashimi is a Japanese dish made of raw fish sliced into thin pieces, distinct from other foods by its transparency, texture, and freshness.",
+        "Sashimi is uniquely characterized by its thin slices of raw fish or meat, often accompanied by daikon, shiso leaf, or soy sauce."
+    ],
+    "scallops": [
+        "Scallops are a type of seafood that typically have a white and slightly shiny appearance, with a circular shape and ridged edges.",
+        "Scallops have a distinctive circular shape, ridged edges, and a creamy white appearance with pinkish-red highlights, making them easy to recognize.",
+        "Scallops are round, white or pinkish shellfish with ridged shells. Their tender meat has a unique sweet, delicate flavor.",
+        "Scallops have a circular shell with wavy, ridged edges and a fan-shaped adductor muscle. They are often white or pink in color.",
+        "Scallops have distinctive fan-shaped shells with radiating ribs and a small, crescent-shaped muscle that can be seen in cooked form."
+    ],
+    "seaweed salad": [
+        "Seaweed salad is a greenish-brown dish that includes thin slices or strips of seaweed, sesame seeds, and a tangy dressing.",
+        "Seaweed salad is typically green, has a slimy texture, is made from a variety of seaweeds, and is usually served cold.",
+        "Seaweed salad is typically green, slimy and made with wakame or kelp seaweed, vinegar, sesame oil, and soy sauce.",
+        "Seaweed salad is green and has thin, stringy, and slippery texture, while other food may vary in color, shape, and texture.",
+        "Seaweed salad has a unique vibrant green color and translucent texture due to the presence of seaweed strands and sesame seeds."
+    ],
+    "shrimp and grits": [
+        "Shrimp and grits is a Southern dish typically made with creamy grits, saut\u00e9ed shrimp, bacon, and a savory sauce.",
+        "Shrimp and grits typically consist of saut\u00e9ed shrimp, creamy buttery grits, and a brown gravy, with green onions and bacon for added flavor.",
+        "Shrimp and grits is a Southern dish consisting of saut\u00e9ed shrimp over creamy grits with a characteristic orange-pink color and texture.",
+        "Shrimp and grits typically consist of creamy grits topped with saut\u00e9ed shrimp, while other foods vary greatly in appearance.",
+        "Shrimp and grits uniquely feature a combination of creamy grits topped with saut\u00e9ed shrimp in a flavorful sauce, often garnished with crispy bacon bits."
+    ],
+    "spaghetti bolognese": [
+        "Spaghetti bolognese is a dish made with spaghetti pasta, meaty tomato sauce, grated parmesan cheese, and optionally, fresh herbs.",
+        "Spaghetti bolognese is recognized by its long, thin pasta noodles with a tomato-based sauce containing ground beef and herbs.",
+        "Spaghetti bolognese is a dish made of spaghetti pasta covered with tomato sauce containing ground meat and other ingredients.",
+        "Spaghetti bolognese is a pasta dish with tomato-based sauce and meat, while other foods have different shapes, colors, and ingredients.",
+        "Spaghetti bolognese typically has a distinctive red-orange meat-based sauce covering long, thin, pasta noodles, often with grated Parmesan cheese."
+    ],
+    "spaghetti carbonara": [
+        "Spaghetti Carbonara is a pasta dish with spaghetti noodles, bacon, eggs, and cheese in a creamy sauce with a yellowish color.",
+        "Spaghetti carbonara is creamy, has a white sauce with egg, bacon or pancetta bits, and grated Parmesan cheese on top.",
+        "Spaghetti carbonara is a pasta dish consisting of spaghetti, eggs, bacon or pancetta, and grated cheese, typically served hot.",
+        "Spaghetti carbonara usually has a creamy white sauce with bits of bacon and parsley, while other foods may have different colors, textures, and components.",
+        "Spaghetti carbonara is characterized by its creamy and glossy sauce made with eggs, cheese, and pork typically served with pasta."
+    ],
+    "spring rolls": [
+        "Spring rolls are typically small, cylindrical, and fried or baked, with a crispy wrapper filled with cooked vegetables or meat.",
+        "Spring rolls are cylindrical, crispy, and golden brown with transparent wrapping and a filling visible through the skin.",
+        "Spring rolls can be identified by their cylindrical shape, crispy outer layer, and translucent filling made from vegetables or meat.",
+        "Spring rolls are cylindrical, wrapped in thin wheat flour pastry, while other foods may have different shapes and textures.",
+        "The translucent wrapper made from rice flour and water is the unique visual cue of spring rolls."
+    ],
+    "steak": [
+        "A thick piece of succulent meat, usually browned and slightly charred on the outside and pinkish-red on the inside.",
+        "The distinctive features of steak are its brown to black charred outer layer, pink to red center, grainy texture, and marbling pattern.",
+        "Steak is typically a piece of meat that is browned or charred on the outside with a juicy, pink interior.",
+        "Steak is typically a thick and juicy piece of meat that is browned on the outside and pinkish or red on the inside, while other foods have varying colors, shapes, and textures.",
+        "The visual cue unique to steak is the distinct grill marks or charred pattern on the surface, indicating it is cooked over an open flame."
+    ],
+    "strawberry shortcake": [
+        "Strawberry shortcake is a dessert that typically consists of a shortcake biscuit topped with whipped cream and fresh strawberries.",
+        "Strawberry shortcake features a sponge cake layered with whipped cream and fresh strawberries, often topped with more cream and berries.",
+        "Strawberry shortcake appears as a light yellow sponge cake with whipped cream and a layer of sliced strawberries on top.",
+        "Strawberry shortcake has layers of sponge cake, whipped cream, and fresh strawberries, making it distinct from other foods in appearance.",
+        "The unique visual cue of strawberry shortcake is the combination of strawberries, whipped cream, and yellow cake layered together."
+    ],
+    "sushi": [
+        "Sushi is a Japanese dish made with vinegared rice, topped with various ingredients such as raw fish or vegetables, and wrapped in seaweed.",
+        "Sushi can be recognized by its distinctive ingredients such as sticky rice, vinegar, fresh fish or vegetables, wasabi, and nori seaweed.",
+        "Sushi can be identified by its small, bite-sized shape, rice base, and various toppings such as fish, avocado, or cucumber.",
+        "Sushi typically consists of rice and fish rolled in seaweed, while other foods have different shapes, textures, and ingredients.",
+        "The visual cue unique to sushi is the marinade-seaweed-wrapped rice ball, often served with raw fish or other seafood on top."
+    ],
+    "tacos": [
+        "Tacos typically have golden crispy corn tortillas with a filling of seasoned meat, lettuce, cheese, and sour cream. Delicious and satisfying.",
+        "Distinct features of tacos for recognition are tortilla shells folded around fillings such as meat, vegetables, and cheese, often with salsa or guacamole on top.",
+        "Tacos typically have a folded tortilla filled with meat or vegetables, topped with cheese, salsa, and lettuce. They are distinctively shaped and sized.",
+        "Tacos typically consist of a tortilla shell filled with meat, cheese, lettuce, salsa, and other toppings, whereas other foods may have different shapes, textures, and colors.",
+        "Tacos contain a folded tortilla holding various fillings, such as beef, chicken, or veggies, accompanied by toppings such as salsa and cheese."
+    ],
+    "takoyaki": [
+        "Takoyaki is small, round, and savory Japanese snack consisting of diced octopus cooked with batter in a special pan.",
+        "Takoyaki is a ball-shaped Japanese snack made with flour batter, octopus pieces, green onion, and ginger, topped with sauce and mayo.",
+        "Takoyaki are small, round, ball-shaped Japanese snacks that are typically filled with octopus, cooked in a special pan, and topped with savory sauce and bonito flakes.",
+        "Takoyaki is round-shaped, ball-like, made of batter, and contains small pieces of octopus inside, while other food has different shapes and ingredients.",
+        "Takoyaki has a unique round shape with crispy brown exterior and soft doughy interior, filled with pieces of tender octopus."
+    ],
+    "tiramisu": [
+        "Tiramisu is a layered Italian dessert made with ladyfinger cookies dipped in coffee, layered with mascarpone cheese, and dusted with cocoa powder.",
+        "Tiramisu can be recognized by its layered structure consisting of ladyfingers dipped in coffee, creamy mascarpone filling, and cocoa powder dusting.",
+        "Tiramisu is a dessert with layers of ladyfingers soaked in coffee and mascarpone cheese, dusted with cocoa powder on top.",
+        "Tiramisu is a layered dessert made of ladyfingers soaked in coffee and layered with mascarpone cream, cocoa, and sometimes rum.",
+        "The distinct layering of ladyfingers soaked in coffee, mascarpone cheese, and cocoa powder is a unique visual cue of tiramisu."
+    ],
+    "tuna tartare": [
+        "Tuna tartare is a dish composed of very finely chopped raw tuna served with various ingredients like avocado, soy sauce, and sesame seeds.",
+        "The distinct features of tuna tartare for recognition include diced raw tuna, avocado, and sesame seeds mixed with soy sauce and citrus.",
+        "Tuna tartare typically appears as a mixture of finely chopped raw tuna with seasonings and served as a spread or a mound on a plate.",
+        "Tuna tartare typically appears chopped or diced, while other food may be whole or sliced. It is usually served cold and seasoned with herbs and citrus.",
+        "The unique visual cue of tuna tartare is the finely chopped raw tuna mixed with various ingredients, such as diced avocado and cucumber."
+    ],
+    "waffles": [
+        "Waffles are a breakfast staple consisting of two round grids of batter, crispy on the outside and soft on the inside, often served with syrup.",
+        "Waffles have a grid pattern, circular shape, golden color, raised edges, and are served with syrup/butter/fruit, making them distinctive for recognition.",
+        "Waffles are typically round or square in shape, with a grid-like pattern on the surface. They are usually golden brown in color and may have small pockets of air.",
+        "Waffles are generally round or square with partitioned sections, thicker than pancakes, with a crispy exterior and a soft interior.",
+        "The square grid pattern imprinted on the surface of waffles is a unique visual cue distinguishing it from other foods."
+    ]
+}

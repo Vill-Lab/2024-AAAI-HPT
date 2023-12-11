@@ -1,0 +1,72 @@
+{
+    "Annual Crop Land": [
+        "Annual Crop Land appears as regularly patterned and often symmetrical patches of vegetation amidst other land cover types in a satellite image.",
+        "Distinct features of Annual Crop Land in a satellite photo are uniform and organized patterns, regular shape, and distinct color variations.",
+        "Annual crop land can be identified by its texture, uniform color, and regularly spaced rows or patterns in the satellite photo.",
+        "Annual Crop Land appears as regularly spaced and organized greenish areas, while other types of land appear, unpredictable, and less uniform.",
+        "The presence of regularly spaced and geometrically aligned rectangular or square patches is a unique visual cue for Annual Crop Land."
+    ],
+    "Forest": [
+        "Forests appear as dense areas of green foliage in a centered satellite photo, surrounded by lighter-colored grasslands and open spaces.",
+        "Distinct features of forests for recognition include green vegetation, diverse vegetation height, canopy cover, and irregular pattern of tree crowns.",
+        "Characteristics of forests, such as density, color, and texture, can be identified in a satellite photo to distinguish them from other land types.",
+        "Forests typically appear as darker shades of green compared to other land types in a satellite photo due to their denser vegetation cover.",
+        "The unique visual cue of a forest in a centered satellite photo is the presence of a dense canopy of trees."
+    ],
+    "Herbaceous Vegetation Land": [
+        "Herbaceous Vegetation Land appears as a green and lush area with no visible trees or woody plants in a satellite photo.",
+        "Herbaceous Vegetation Land can be recognized by its green color, low height, dense vegetation, and lack of visible woody stems or trunks.",
+        "Herbaceous Vegetation Land appears as a green area with a mix of small and large patches of vegetation in a centered satellite photo.",
+        "Herbaceous Vegetation Land appears greener and has more distinct, fine-grained textures compared to other types of land in satellite photos.",
+        "The high reflectance in the near-infrared (NIR) portion of the electromagnetic spectrum is a unique visual cue for herbaceous vegetation land."
+    ],
+    "Highway or Road": [
+        "A highway or road appears as a linear feature of contrasting color, usually gray or black, amidst surrounding land cover.",
+        "A highway or road appears as a linear strip with regular and parallel edges, often with adjacent lane markings and vehicles.",
+        "Highway or road in satellite photos can be identified based on its linear structure, distinct pattern of width and presence of adjoining infrastructure.",
+        "Highways or roads are straight and narrower with parallel lines, while other types of land are less organized, larger, and curved.",
+        "The long straight patterns of black asphalt or concrete roads and highways are a unique visual cue among all types of land."
+    ],
+    "Industrial Buildings": [
+        "Industrial buildings appear as large, rectangular or square-shaped structures with flat roofs, often surrounded by parking lots and loading docks.",
+        "Large size, flat roof, rectangular shape, minimal windows, parking lots, and proximity to other industrial buildings are distinct features of industrial buildings.",
+        "Industrial buildings can be identified by their rectangular or square shape with a large roof, and often have loading docks and parking lots.",
+        "Industrial buildings are typically larger, box-like structures with flat roofs and are often surrounded by parking lots and loading docks, while other types of land have a more diverse and natural appearance.",
+        "A visual cue unique to industrial buildings is the presence of large smokestacks or chimneys often emitting visible plumes of smoke."
+    ],
+    "Pasture Land": [
+        "Pasture land in a centered satellite photo appears as a green, open area with scattered trees or bushes, often with some livestock present.",
+        "Clumped pattern of green vegetation with varying shades, often bordered by trees, and less distinct pattern and texture compared to crop fields.",
+        "Pasture land can be identified in a satellite photo by its green color and regular patterns of vegetation that are evenly spaced.",
+        "Pasture land appears as open grasslands with occasional patches of trees, while other types of land may have different colors, textures or shapes.",
+        "The presence of green vegetation with scattered trees and bushes in a centered satellite photo indicates the area as a Pasture Land."
+    ],
+    "Permanent Crop Land": [
+        "Permanent crop land appears as small, evenly spaced circles or rectangles that are green in color, distinct from surrounding land cover.",
+        "Permanent Crop Land typically has repetitive patterns, regular shapes, and smaller size compared to other land types with visible vegetation.",
+        "Permanent crop land can be identified by the presence of evenly spaced, geometrically shaped plots with distinct patterns and colors.",
+        "Permanent Crop Land appears as a regular pattern of vegetation rows while other land types appear as irregular and varied patterns.",
+        "The regular geometric shapes of the crop rows and the consistent green texture of vegetation are unique visual cues of Permanent Crop Land."
+    ],
+    "Residential Buildings": [
+        "Residential buildings in a centered satellite photo appear as clusters of mostly rectangular and regular-shaped structures, surrounded by greenery and roads.",
+        "Residential buildings can be recognized by their rectangular shape, regular spacing, and distinct roofs with chimney or protrusions in a centered satellite photo.",
+        "Residential buildings appear as smaller rectangular or square structures with distinct features such as roofs, windows, and doors on the satellite photo.",
+        "Residential buildings appear as clustered rectangular shapes, while other types of land exhibit different geometric shapes and textures such as vegetation.",
+        "Residential buildings typically have a regular grid pattern of roofs with sharp edges, distinct from the irregular shapes of natural land."
+    ],
+    "River": [
+        "A river in a centered satellite photo typically appears as a thin blue line winding through green or brown land.",
+        "The distinct features of a river in a centered satellite photo are its blue color, elongated shape, meandering pattern, and surrounding vegetation.",
+        "A river appears as a long, winding, blue strip amidst greenery or land, with a lighter shade indicating shallow areas.",
+        "Rivers appear as thin snaking lines with a darker shade of blue compared to other land features in a centered satellite photo.",
+        "The unique visual cue for River in a centered satellite photo is a distinct, sinuous, and meandering blue or green line indicating water flow."
+    ],
+    "Sea or Lake": [
+        "In a centered satellite photo, a sea or lake appears as a large, circular or irregularly shaped body of blue water surrounded by land.",
+        "Distinct features for recognizing a sea or lake in a centered satellite photo include blue color, continuous boundary, and lack of vegetation.",
+        "Look for blue color indicating water, shoreline patterns and flatness of the area. Exclude urban or vegetation features nearby.",
+        "In a satellite photo, seas or lakes appear as blue, flat, and reflective bodies of water, while land appears as varying shades of green, brown, or grey with topographic features.",
+        "An extensive blue area with no visible structures or features, surrounded by land, indicates a sea or lake in a centered satellite photo."
+    ]
+}

@@ -1,0 +1,702 @@
+{
+    "face": [
+        "A face is a unique arrangement of features that includes eyes, nose, mouth, ears and facial expressions that identifies a person.",
+        "Facial recognition features include distance between eyes, nose width, jaw shape, and depth of eye sockets. These are unique to individuals.",
+        "Facial recognition algorithms identify unique facial features, such as eyes, nose, mouth, and face shape, using machine learning models.",
+        "Faces have similar features such as eyes, nose, and mouth, while other objects can have various shapes, sizes, and textures.",
+        "The visual cue that is unique to face among all objects is the presence of facial features such as eyes, nose, and mouth."
+    ],
+    "leopard": [
+        "A leopard is a carnivorous, spotted feline with a muscular body, four legs, short fur, sharp claws, and keen eyesight.",
+        "The distinct features of leopard are its spotted coat, muscular body, large paws, and distinctive facial markings including its black \"tear\" lines.",
+        "Leopards are large felines with yellowish-brown fur covered in black rosettes, a long tail, and short legs.",
+        "Leopards have distinctive black spots on their fur, a muscular build, and a long tail. They are larger and more powerful than most cats.",
+        "The rosette-shaped spots on a leopard's coat are a unique visual cue that helps to distinguish them from other animals."
+    ],
+    "motorbike": [
+        "A motorbike typically has two wheels, a seat, handlebars for steering, and an engine for propulsion. It may have a fairing or luggage compartments.",
+        "Some distinctive features of a motorbike are its two wheels, handlebars, engine, exhaust pipes, headlights, taillights, and saddle for seating.",
+        "Motorbike can be identified by its unique features like two wheels, handlebar, seat, and petrol tank, exhaust pipes, and engine.",
+        "Motorbikes typically have two wheels, a seat, handlebars, and an engine, unlike other objects that don't have these specific features.",
+        "The visual cue that is unique to motorbikes is their two-wheel design, with the rider sitting atop the frame."
+    ],
+    "accordion": [
+        "Accordion is a handheld musical instrument with a box-shaped bellows and a keyboard, typically used in folk and traditional music.",
+        "Some of the distinct features of the accordion for recognition among all objects are bellows, keyboard keys, buttons, and reed chambers.",
+        "Accordion can be identified by its unique long box-shaped appearance with buttons or keys on one side and folds on the other.",
+        "An accordion is a musical instrument with bellows, buttons or keys, and piano-like keys, which sets it apart from other objects.",
+        "The unique visual cue of an accordion is its bellows, which are pleated folds on the sides used for producing sound."
+    ],
+    "airplane": [
+        "An airplane has a streamlined body, wings, a cockpit, engines, and tail fins, and is designed for flying through the air.",
+        "Distinct features of airplane for recognition are fuselage, wings, engines, tail, cockpit, landing gear, windows, and aerodynamic shape.",
+        "I can identify an airplane by looking for its unique features, such as wings, fuselage, engines, and tail fin.",
+        "Airplanes have a distinctive fuselage, wings, engines and tail fins that distinguish them from other objects like cars, buildings, and animals.",
+        "Airplanes have wings, a fuselage, engines, and a tail. The combination of these features is unique to airplanes."
+    ],
+    "anchor": [
+        "Anchors are small rectangles with different sizes and aspect ratios that are used as reference points for object detection models.",
+        "Anchor boxes are pre-defined boxes with different sizes and aspect ratios used to predict object location and size in object detection tasks.",
+        "An anchor can be identified in appearance by its recognizable shape, typically a heavy weight with curved or pointed ends.",
+        "Anchors are heavy metal objects used to secure a ship, while other objects can vary in appearance depending on their classification.",
+        "An anchor typically has a heavy metal material, a hook or flukes at one end, and a buoy at the other end."
+    ],
+    "ant": [
+        "An ant is a small, six-legged insect with a distinct head, thorax, and abdomen, and often has antennae and mandibles for feeding.",
+        "Ants have six legs, segmented antennae, a distinctive thorax, and a small head with mandibles, making them easy to distinguish.",
+        "The identifying features of an ant include segmented body, six legs, large pincers (in some species), and narrow waist.",
+        "Ants are small, usually black or brown, with six legs and antennae. They have narrow waists and often move in lines or clusters.",
+        "The narrow constriction between the thorax and abdomen, known as the petiole, is a visual cue unique to ants."
+    ],
+    "barrel": [
+        "A barrel is a cylindrical container made of wood, metal, or plastic, with flat ends and a bulging middle.",
+        "Barrels are cylindrical objects typically having staves, hoops, and heads, with a hollow center used for storage and transport of liquids or solids.",
+        "I can identify a barrel based on its shape, typically cylindrical with rounded edges, and often made of wood or metal.",
+        "Barrels have a cylindrical shape, often with wider ends, and are made of wood or metal with visible hoops.",
+        "The barrel is characterized by its cylindrical shape and its bulging center, which distinguishes it from other objects."
+    ],
+    "bass": [
+        "Bass is a fish with a torpedo-shaped body, smooth scales, large mouth, and two dorsal fins, commonly found in freshwater and saltwater.",
+        "Bass can be identified through its elongated body shape, dorsal fin structure, coloration, scales, and the general size and appearance.",
+        "Bass can be identified by their elongated shape, scales covering their body, large mouth and fins positioned on the underside.",
+        "Bass have a distinct elongated body with fins, scales and a mouth at the front, unlike other objects.",
+        "The visual cue unique to bass is their lateral line which is a distinct line running along each side of their body."
+    ],
+    "beaver": [
+        "A beaver is a large, semiaquatic rodent with a broad, flat tail, webbed hind feet, and two large incisor teeth.",
+        "The distinct features of beavers are their wide, flat tails, buck teeth, webbed feet, and brown fur with a flat head.",
+        "Beavers are large, brown rodents with flat tails, small ears, and prominent front teeth used for gnawing and building dams.",
+        "Beavers have distinctive large flat tails, brown fur, and sharp teeth for felling trees, whereas other objects lack these characteristics.",
+        "The flattened, scaly tail of the beaver is unique among all objects and can be used as a visual cue."
+    ],
+    "binocular": [
+        "Binoculars are a pair of handheld devices with two lenses and a central hinge used for enhanced vision and magnification.",
+        "Binocular disparity refers to the difference in perspectives between the two eyes, allowing for depth perception and object recognition.",
+        "Binoculars can be identified by their characteristic shape and design consisting of two lenses side by side for viewing objects at a distance.",
+        "Binoculars typically have two symmetrical cylinders with lenses on the ends, whereas other objects have varying shapes and features.",
+        "The unique visual cue of binoculars is their double lenses, which are positioned side-by-side and aligned to provide stereoscopic vision."
+    ],
+    "bonsai": [
+        "Bonsai is a small ornamental tree or shrub grown in a pot and pruned to maintain its shape and size.",
+        "Distinct features of bonsai include miniature size, intricate pruning, unique shapes, and easy recognition of individual tree species.",
+        "Bonsai can be identified by its miniature size, intricate branching patterns, and distinctively shaped and colored leaves, often seen in plant nurseries.",
+        "Bonsai trees have miniature proportions, an aged and gnarled appearance, and intricate branching patterns. They differ from other objects in scale and complexity.",
+        "The miniature size of the tree is the unique visual cue of bonsai. It is small enough to fit on a tabletop."
+    ],
+    "brain": [
+        "The human brain is a pinkish-gray organ with a wrinkly surface that resembles a large walnut, located inside the skull.",
+        "The human brain uses a combination of visual, spatial, and contextual processing to recognize and differentiate between different objects.",
+        "Brain can be identified by its distinct shape, greyish-white color and unique wrinkled texture in medical images such as MRI.",
+        "Brain is a soft, convoluted, pink mass with distinct folds and grooves, while other objects vary in size, shape and texture.",
+        "The convoluted surface of the cerebral cortex, visible in brain imaging scans, is a unique visual cue that distinguishes the brain from other objects."
+    ],
+    "brontosaurus": [
+        "Brontosaurus is a large herbivorous dinosaur with a long neck, small head, and four thick legs that lived during the Jurassic period.",
+        "Distinct features of brontosaurus include long neck and tail, massive body, four sturdy legs, and small head with spoon-shaped teeth.",
+        "Brontosaurus is a long-necked, herbivorous dinosaur with a small head, cumbersome body, and a long tail.",
+        "Brontosaurus is a large, long-necked dinosaur with a small head and a long tail, unlike other objects in appearance.",
+        "Bontosaurus had a long neck and small head relative to its body, a unique combination not seen in any other object."
+    ],
+    "buddha": [
+        "Buddha typically appears as a serene and meditative figure with a bald head, closed eyes, and crossed legs in a lotus position.",
+        "The distinct features of Buddha for recognition are the elongated earlobes, the topknot on the head, the serene expression, and the crossed legs.",
+        "Buddha is commonly depicted with a serene expression, elongated earlobes, topknot hair, and wearing monk robes with a begging bowl.",
+        "Buddha is typically depicted as a humanoid with elongated earlobes, a top knot, and a serene expression, unlike other objects.",
+        "The most unique visual cue of Buddha is the Ushnisha, a protuberance on top of his head symbolizing his superior knowledge."
+    ],
+    "butterfly": [
+        "Butterfly is an insect with two pairs of brightly colored wings, a slender body, and long antennae. It undergoes metamorphosis.",
+        "Butterflies have varied patterns, colors, wing shape and size, antennae, and six legs, aiding in their recognition and classification.",
+        "Butterflies can be identified by their brightly-colored wings, small size, and unique wing patterns with intricate designs and irregular shapes.",
+        "Butterfly has distinct wings with vibrant colors and unique pattern, six legs, and a slender body. Other objects lack these features.",
+        "A unique visual cue specific to butterflies is the presence of symmetrical patterns on their wings, often with bright colors."
+    ],
+    "camera": [
+        "A camera typically looks like a rectangular device with a lens on the front and a viewing screen on the back.",
+        "Camera features for object recognition include resolution, aperture, focal length, sensor size, auto-focus, and image stabilization.",
+        "To identify a camera in appearance, one can look for a lens, flash, buttons, and an LCD screen.",
+        "Cameras typically have lens, viewfinder, and controls, while other objects don't. Cameras also have distinct shapes and sizes.",
+        "Camera lenses have a distinct circular shape with multiple convex or concave elements inside, allowing them to capture and focus light."
+    ],
+    "cannon": [
+        "A cannon is a large cylindrical piece of artillery that fires heavy projectiles and is often mounted on wheels or a carriage.",
+        "A cannon is a large cylindrical piece of artillery that fires heavy projectiles and is often mounted on wheels or a carriage.",
+        "Identifying a cannon in appearance requires detecting a long cylindrical barrel, wheels or a stationary platform, and possibly a cannonball.",
+        "A cannon is a large, cylindrical weapon used for firing projectiles, distinguishable by its size, shape, and artillery wheels.",
+        "Cannons usually have a cylindrical barrel, typically made of metal, mounted on wheels or a stationary base used for firing projectiles."
+    ],
+    "car side": [
+        "A car side typically features four wheels, two doors, a roof, windows, mirrors, and a body with a distinct shape.",
+        "Distinct features of a car side include its shape, size, color, windows, doors, wheels, side mirrors, and body design.",
+        "Car sides have distinct features such as doors, windows, and wheels, allowing their identification in comparison to other objects.",
+        "The main differences between car side and other objects in appearance are shape, size, color, texture, and the presence of features like wheels or windows.",
+        "The horizontal alignment of wheels and door handles on the side of the car distinguishes it from other objects."
+    ],
+    "ceiling fan": [
+        "A ceiling fan typically consists of five or more blades that are attached to a motor and is suspended from a ceiling.",
+        "Distinct features of a ceiling fan include blade shape, number of blades, motor housing, and location of pull chain.",
+        "Ceiling fans typically have long blades attached to a central motor that is mounted on the ceiling in a circular fashion.",
+        "Ceiling fans have spinning blades attached to a central motor and are typically mounted on the ceiling, unlike other objects.",
+        "A unique visual cue of a ceiling fan is its spinning blades around a central axis, producing air currents for cooling."
+    ],
+    "cellphone": [
+        "Cellphones are rectangular objects with a flat touch screen, a camera, buttons for volume and power, and a charging port.",
+        "Cellphones can be recognized by their rectangular shape, screen in the center, buttons or ports on the edge, and camera module.",
+        "Cellphones can be identified by their rectangular shape, screen display, and buttons or touchpad for input, as well as camera lenses.",
+        "Cellphones typically have a rectangular shape, a touch screen display, a camera, buttons for navigation, and are smaller in size compared to other objects.",
+        "Cellphones have a rectangular shape with a screen typically positioned in the center of the device, often accompanied by buttons or a camera."
+    ],
+    "chair": [
+        "A chair is a furniture piece that typically has a backrest, seat, and four legs to support a person sitting upright.",
+        "Some distinct features of a chair for recognition are its four legs, backrest, seat, and armrest (if any).",
+        "A chair typically has a seat, a backrest, and legs, providing support for a person to sit on and elevate them from the ground.",
+        "A chair typically has a seat, a backrest, and four legs, while other objects may lack one or more of these features.",
+        "The visual cue that is unique to chair is its elevated horizontal surface or seat used for sitting and backrest support."
+    ],
+    "chandelier": [
+        "A chandelier is a decorative lighting fixture usually suspended from the ceiling that features multiple arms or branches holding bulbs.",
+        "Chandeliers have distinct features like multiple hanging branches with lights and decorative elements such as crystals or beads.",
+        "A chandelier can be identified by its ornate design and hanging crystal or glass pieces that reflect light in various directions.",
+        "Chandeliers are usually decorative lighting fixtures suspended from ceilings with branches and dangling crystals, while other objects differ in structure and function.",
+        "The sparkly crystal or glass droplets hanging from the metal frame are a unique visual cue to identify a chandelier."
+    ],
+    "cougar body": [
+        "A cougar body is a large, tan, muscular feline with a distinctive long tail and pointed ears.",
+        "Distinct features of cougar's body for recognition include muscular build, tan or reddish-brown coat, and a long tail with a black tip.",
+        "Cougars have a sleek and muscular body with a tan or reddish-brown coat, black-tipped ears, and a long tail.",
+        "The cougar's body is a large, muscular, feline with short fur, a round face, and distinctive black spots on its ears and fur.",
+        "The unique visual cue of a cougar body is its muscular build with a slender waist, large paws, and a long tail."
+    ],
+    "cougar face": [
+        "A cougar face is typically brown with a noticeable black outline around the eyes and distinctive black spots on the muzzle area.",
+        "Distinct features of cougar face for recognition include felines' sleek muzzle, almond-shaped eyes, large ears, and black whisker marks.",
+        "A cougar face typically has a short muzzle, rounded ears, and a distinctive black spot on the bridge of its nose.",
+        "Cougar face has distinct features such as spots, forward-facing eyes, and sharp teeth which differentiate it from other objects.",
+        "The visual cue unique to cougar face is its distinctive black outlining around the upper lip, nose and eyes."
+    ],
+    "crab": [
+        "A crab typically has a hard exoskeleton, ten legs, pincers, and a rounded body with two eyes and antenna-like structures.",
+        "The distinct features of a crab include its hard exoskeleton, 8 legs with pincers, prominent eyes on stalks, and a broad carapace.",
+        "Crabs have a distinct appearance characterized by their hard exoskeleton, two claws, and sideways walking movement.",
+        "Crabs have a hard exoskeleton, two claws, eight legs, and a curved body shape that distinguishes them from other objects.",
+        "The pair of pincers or claws on the front of the crab's body is a unique visual cue."
+    ],
+    "crayfish": [
+        "Crayfish is a freshwater crustacean with a hard exoskeleton, ten legs, two large claws, and a segmented body.",
+        "Crayfish have a hard exoskeleton, two large claws, segmented body with antennae, compound eyes, and five pairs of walking legs.",
+        "Crayfish have a long, segmented body, two large claws, four sets of legs, and a distinct head with antennae.",
+        "Crayfish have a lobster-like appearance with a hard exoskeleton, pinchers, and five pairs of legs, whereas other objects may not.",
+        "Crayfish have a segmented body, 10 legs including two large claws, and two connected eyes on long stalks."
+    ],
+    "crocodile": [
+        "Crocodile is a large reptile with a long, powerful tail, a broad and flat snout, sharp teeth and scaly skin.",
+        "Distinct features of a crocodile: elongated snout, sharp teeth, scaly skin, armored plates, powerful tail, and webbed feet for swimming.",
+        "Crocodiles have a large, elongated body covered with rough, scaly skin, a long snout, powerful jaws, and four short legs.",
+        "Crocodiles have a long snout, sharp teeth, heavily armored body, and tapered tail, which differentiate them from other objects.",
+        "The presence of large, powerful jaws with teeth visible even when the mouth is closed is a unique visual cue of a crocodile."
+    ],
+    "crocodile head": [
+        "The crocodile head has a long, pointed snout, prominent teeth, scaly and rough skin, and two eyes on the top of its head.",
+        "The features that can be used for crocodile head recognition include the shape of snout, eye position, and teeth arrangement.",
+        "To identify a crocodile head, look for a long, narrow snout with sharp teeth, raised eyes, and scaly skin texture.",
+        "Crocodile heads have long and pointed snouts, sharp teeth, scaly skin, visible nostrils, and prominent eyes compared to other objects.",
+        "The unique visual cue of a crocodile head is its elongated snout with sharp teeth and scaly skin texture."
+    ],
+    "cup": [
+        "A cup is a cylindrical or cone-shaped vessel, usually with a handle, used for drinking hot or cold liquids.",
+        "Cups can be recognized by their cylindrical shape, handle, flat circular base, and often a curved lip at the top.",
+        "The cup can be identified based on its round shape, handle, and its ability to hold liquid, often made of ceramic or glass material.",
+        "Cups typically have a curved shape, handle, and an opening on the top, while other objects may not have these features.",
+        "The handle is a unique visual cue to a cup, distinguishing it from other objects due to its shape and position."
+    ],
+    "dalmatian": [
+        "Dalmatian is a large breed of dog with a white coat covered in distinctive black spots and floppy ears.",
+        "Dalmatian has distinct spots on a white coat, long slim body, and athletic build with a friendly expression on the face.",
+        "A dalmatian can be identified by its white coat with black spots, floppy ears, and muscular build with a distinctive trot.",
+        "Dalmatians have a distinctive white coat with black or liver spots while other objects have different shapes, colors, and textures.",
+        "The visual cue unique to Dalmatians is their white coat covered in black or liver-colored spots of various sizes and shapes."
+    ],
+    "dollar bill": [
+        "A dollar bill is rectangular, green, and has a portrait of a famous American figure on the front with a national monument on the back.",
+        "Distinct features of dollar bill: president's portrait, denomination value, freedom seal, serial number, green color, and unique patterns.",
+        "Dollar bills can be identified by their rectangular green shape, unique intricate designs, and numbering conventions, often featuring the faces of historical figures.",
+        "Dollar bills typically have a green color, portraits of presidents, unique serial numbers, and patterns, while other objects vary in color, shape, and texture.",
+        "The unique visual cue of a dollar bill is the depiction of the face of George Washington, the first President of the United States."
+    ],
+    "dolphin": [
+        "A dolphin is a marine mammal with a streamlined body, grayish-blue skin, a pointed dorsal fin, and a curved mouth that resembles a smile.",
+        "Distinct features of a dolphin for recognition include streamlined body, pointed snout, curved dorsal fin, and flippers used for swimming.",
+        "Dolphins have a streamlined body with a dorsal fin on their back, a beak-like snout, and flippers for swimming.",
+        "Dolphins have a streamlined body, pointed snout, curved dorsal fin, and distinctive coloring with a gray back and white belly.",
+        "The dorsal fin of a dolphin is unique among all objects, as it is curved and located on the dolphin's back."
+    ],
+    "dragonfly": [
+        "Dragonflies are colorful flying insects with elongated bodies, large compound eyes, four wings, and a long, slender abdomen with a sting.",
+        "The distinct features of a dragonfly for recognition are its compound eyes, transparent wings, and elongated body with bright colors.",
+        "Dragonflies have large, transparent wings, a long and slender body with bright colors, and large multifaceted eyes.",
+        "Dragonflies have long, thin bodies with large, colorful wings and eyes that take up most of the head. They also have strong jaws.",
+        "The unique visual cue of a dragonfly is its large, translucent wings that are veined and have a distinct pattern."
+    ],
+    "electric guitar": [
+        "An electric guitar usually has a solid body, a long neck with frets, and pickups that convert string vibrations into electric signals.",
+        "Electric guitar can be recognized based on its unique features like pickup, volume/tone knobs, whammy bar, cutaway design, and fretboard.",
+        "An electric guitar has a distinctive body shape with a long neck and six strings, typically with multiple pickups and volume/tone controls.",
+        "Electric guitars have unique shapes with pickups, knobs, and strings, unlike other objects that lack these features commonly.",
+        "The metal strings stretched over the elongated body and neck, and the pickups attached to it distinguishes an electric guitar from other objects."
+    ],
+    "elephant": [
+        "An elephant is a large mammal with a gray skin, long trunk, floppy ears, four pillar-like legs, and two ivory tusks.",
+        "Elephants typically have large protruding ears, a long trunk, and tusks, as well as a thick, wrinkled gray hide.",
+        "Elephant has a large gray body with a long trunk, two tusks, big ears, and four sturdy legs.",
+        "Elephants have a distinct gray skin texture, long trunks, enormous ears, and tusks that other objects lack in size and shape.",
+        "The elongated trunk is a unique visual cue of an elephant because no other animal has such a distinct elongated nose."
+    ],
+    "emu": [
+        "An emu is a large bird that stands about 6 feet tall with long legs, shaggy grey-brown feathers and a distinctive throat patch.",
+        "Emus are distinguished by their large size, long necks, small beaks, feather-covered bodies with brown coloration, and distinctive gait.",
+        "Emus are large, flightless birds with brown feathers, long necks, and legs. They have a distinctive patch of blue skin on their necks.",
+        "Emus have a long neck and legs, a distinctive beak, and brown feathers, distinguishing them from other objects in size, shape, and color.",
+        "Emus have distinct feathers that lack the afterfeathers found in most birds, resulting in a shaggy appearance."
+    ],
+    "euphonium": [
+        "Euphonium is a brass instrument resembling a small tuba, with a wide bell, three or four valves, and a curved mouthpiece.",
+        "The euphonium has a curved shape with a wide bell and three or four valves for playing different notes.",
+        "Euphonium is a brass instrument with a large, curved shape and a bell at the top. It has valves and a mouthpiece.",
+        "Euphonium is a brass instrument with a curved shape, three or four valves, and a wide bell. It differs from other objects in shape, material, and size.",
+        "The euphonium is a brass musical instrument with a conical shape, four valves, a large bell, and a curved tube."
+    ],
+    "ewer": [
+        "An ewer is a vase-shaped jug with a wide mouth and a handle, typically made of ceramic or metal.",
+        "Ewer can be recognized by its distinctive shape, a narrow neck, a wide spout, a pronounced handle, and a flat base.",
+        "An ewer is a type of jug with a wide base, narrow neck, and spout for pouring liquids, often with decorative features.",
+        "Ewer is a narrow-necked pitcher, usually with a handle, spout, and a base. It distinguishes by its shape, size, materials used, and functionality.",
+        "The unique visual cue of an ewer is its long, curved spout and often a wide base for stability."
+    ],
+    "ferry": [
+        "A ferry is a type of boat with a flat bottom, commonly used to transport people, vehicles, or cargo across bodies of water.",
+        "Some distinct features of a ferry for recognition among all objects could include its size, shape, color, hull design, and passenger or cargo capacity.",
+        "A ferry can be identified by its distinct features such as the hull shape, multiple decks, and loading ramps on either end.",
+        "Ferry typically has a long and flat body, a pointed front, and a distinctive two-tier structure, while other objects lack these features.",
+        "A ferry is typically identified by its hull, which is a boat-shaped structure that floats on water and carries passengers or vehicles."
+    ],
+    "flamingo": [
+        "A flamingo is a tall, slender bird with long legs and a curved neck. Its feathers are mostly pink or orange in color.",
+        "Some distinct features of flamingos include their long, thin legs, curved beak, and bright pink feathers with black feathers on the wings.",
+        "Flamingos are long-legged wading birds with pink or reddish feathers, curved beaks, and distinctive downward-facing bills.",
+        "Flamingos have long S-shaped necks, pink to orange feathers, unique bills, webbed feet, and stand on one leg.",
+        "The unique visual cue of flamingo is their long, slender legs and curved neck, combined with their vibrant pink coloration."
+    ],
+    "flamingo head": [
+        "A flamingo head typically has a long, curved beak, a slender neck, and distinctive pink feathers on top of its head.",
+        "The distinct features of flamingo head are its long thin pink neck, curved beak, and distinct eyes with yellow irises.",
+        "Flamingo heads have long, thin necks, curved beaks, distinctive pink feathers, and black or pink eyes with a visible iris.",
+        "The flamingo head has a long, curved pink beak, round black eyes, and pink feathers on its head, distinguishing it from other objects.",
+        "A flamingo head has a long, curved neck and a distinctive beak that is hooked downwards, which is unique among other objects."
+    ],
+    "garfield": [
+        "Garfield is an orange cat with black stripes and a white belly, often seen sleeping or eating lasagna.",
+        "Garfield can be recognized by its distinctive orange fur, black stripes, round ears, and oval-shaped eyes with heavy lids.",
+        "Garfield can be identified by his orange fur, black stripes, white belly, and round eyes with white pupils.",
+        "Garfield is a cartoon cat with orange fur, black stripes, and a round face, whereas other objects differ in shape, color, and texture.",
+        "The visual cue unique to Garfield is his orange fur with black stripes and a white underbelly."
+    ],
+    "gerenuk": [
+        "Gerenuk is a long-necked, slender antelope with a reddish-brown coat, a white underbelly, and large ears found in East Africa.",
+        "The distinct features of gerenuk are long, slender neck and legs, elongated muzzle, large ears, and distinctive brown coat with white underparts.",
+        "Gerenuks have long necks, slender legs, and distinctively small heads with large ears and a long, narrow snout.",
+        "Gerenuk has a long neck, small head, pointed ears, and distinctive facial markings, which distinguish it from other objects.",
+        "The unique visual cue of gerenuk is its long, thin neck and small head, enabling it to reach high branches."
+    ],
+    "gramophone": [
+        "A gramophone is a vintage music player that typically features a circular turntable, horn speaker, and winding crank mechanism.",
+        "Gramophone can be recognized by its round base, horn speaker, turntable, tonearm, and stylus needle used to play vinyl records.",
+        "Gramophone can be identified by its horn-shaped speaker, circular turntable, arm with a needle, and a box-shaped body.",
+        "Gramophone is a vintage music player with a large horn, a turntable, and a crank. It looks distinct from modern music players.",
+        "The spiral grooves on a round flat disc (vinyl record) played on a turntable with a needle is unique to gramophone."
+    ],
+    "grand piano": [
+        "A grand piano is a large musical instrument with a horizontal frame, black and white keys, and a slightly curved lid.",
+        "Distinct features of a grand piano for recognition include its curved shape, strings, hammers, pedals, keyboard, lid, glossy finish, and soundboard.",
+        "A grand piano appears as a large, rectangular wooden frame with a curved side and strings inside, often with a raised lid.",
+        "The grand piano has a distinct shape with a long rectangular body, black and white keys and a raised lid.",
+        "Grand piano is unique due to its elongated shape, black and white keys, and large soundboard, which enables its unique sound production."
+    ],
+    "hawksbill": [
+        "A hawksbill is a sea turtle with a narrow head and curved beak, a patterned shell with overlapping scales, and flippers like wings.",
+        "Hawksbills have a pointed beak, four pairs of ribbed overlapping scutes on their carapace, and a mottled and irregularly patterned shell.",
+        "Hawksbill turtles can be identified by their narrow head, curved beak, overlapping scutes on their carapace, and pointed claws.",
+        "Hawksbill turtles have a pointed beak-like mouth, overlapping scutes on their shells, and distinct patterns of yellow, brown, and black.",
+        "The unique visual cue of a hawksbill turtle is its distinct overlapping scutes on its carapace (shell) with a serrated look."
+    ],
+    "headphone": [
+        "Headphones are typically worn over the ears, with two ear cups connected by a headband and a cable for audio input.",
+        "Acoustic drivers, ear cups, headband, cable, and microphone are distinct features of headphones for recognition among all objects.",
+        "Headphones can usually be identified by their distinct shape, with two padded ear cups and a headband connecting them.",
+        "Headphones are typically circular or oval-shaped and have ear pads. They also have an adjustable headband and a cord for connecting to audio devices.",
+        "The unique visual cue of headphones is its ear cups or ear pads that cover the ears to provide sound isolation."
+    ],
+    "hedgehog": [
+        "A hedgehog is a small, spiny mammal with a rounded body and a pointed snout, known for its cute and distinctive appearance.",
+        "Hedgehogs have distinct features that include their spiky coat, small size, round body, pointy nose, and short legs.",
+        "Hedgehogs have spiny bodies, small faces, round noses, and short legs. They are usually brown or grey with white bellies.",
+        "Hedgehogs have spiny quills covering their back, a round body, short legs, and a pointed snout, distinguishing them from other objects.",
+        "Hedgehogs have a distinctive coat of spines covering their body, which is a unique visual cue for identifying them."
+    ],
+    "helicopter": [
+        "A helicopter is a flying vehicle with rotors on top that allow it to take off and land vertically. It has a cockpit, fuselage, and tail.",
+        "Distinct features of helicopter are its rotor blades, tail rotor, cockpit, landing gear, fuselage, and distinctive sound signature.",
+        "Helicopter can be identified by its unique appearance through features like rotors, compact body, landing gear, and cockpit.",
+        "Helicopters have rotor blades on top, a pointed nose, and a tail rotor, distinguishing them from other objects in appearance.",
+        "The spinning rotor blades on top of the helicopter are a unique visual cue that distinguish it from other objects."
+    ],
+    "ibis": [
+        "Ibis is a medium-sized bird with a distinctive long bill, slender legs, and curved neck; usually white with blue, green or reddish hues.",
+        "The distinct features of ibis include a long curved beak, slender legs, a pointed tail, and striking plumage with distinct colors.",
+        "Ibis are large wading birds with long curved bills, long necks, slender legs, white or dark feathers, and distinctive bare skin around their eyes.",
+        "Ibis have long, curved beaks, distinctive feather patterns, and slender legs with flexible toes, which distinguish them from other objects.",
+        "The long, slender, curved beak of an ibis is a unique visual cue that distinguishes it from other objects."
+    ],
+    "inline skate": [
+        "An inline skate is a shoe with wheels in a one-line configuration attached to the underside of the shoe's sole.",
+        "The key features for recognizing inline skates typically include their wheel arrangement, boot design, and elongated frame with adjustable size.",
+        "Inline skates usually have four or five wheels arranged in a line, attached to a boot that is worn on the foot.",
+        "Inline skates have a sleek, low-profile design with long, narrow wheels, while other objects lack these distinctive features.",
+        "Inline skates have a unique set of wheels (usually four or five) arranged in a straight line rather than a square pattern."
+    ],
+    "joshua tree": [
+        "The Joshua tree is a distinctive desert tree, with a Y-shaped trunk and spiky evergreen leaves, native to Western North America.",
+        "Joshua tree has spiky branches with clusters of green needles, and distinct zigzag shape; not found in any other object.",
+        "Joshua tree is a tall, spiky and leafless tree with a cylindrical trunk, twisted and gnarled branches, and greenish-brownish coloration.",
+        "Joshua tree is a type of tree with spiky leaves and twisted branches, which distinguish it from other objects in appearance.",
+        "The unique visual cue of Joshua trees is their spiky and spiny foliage, which resembles a miniature cactus growing in the desert."
+    ],
+    "kangaroo": [
+        "A kangaroo is a marsupial mammal that has a long tail, powerful hind legs, and a pouch for carrying their young.",
+        "Kangaroos are distinguished by their strong hind legs, powerful tail, long pointed ears, and pouch for carrying young.",
+        "Kangaroos are marsupials with powerful hind legs, distinctive long tails, and characteristic hopping locomotion that distinguishes them from other animals.",
+        "Kangaroo have muscular legs, large feet and a long tail. They also have a distinctive pouch located on their belly.",
+        "The powerful hind legs of a kangaroo, adapted for hopping, are a unique visual cue that sets them apart from other objects."
+    ],
+    "ketch": [
+        "A ketch is a sailing boat with two masts, the aft mast being taller than the forward one, and a main sail and a mizzen sail.",
+        "Distinct features of a ketch for recognition include two masts, a large triangular sail, a smaller sail at the front, and a distinctive hull shape.",
+        "A ketch is a two-masted sailboat with a fore-and-aft mainmast and a taller mast located forward of the mainmast.",
+        "Ketch is a type of sailboat that typically has two masts and a main sail, distinguishing it from other boat types.",
+        "The visual cue unique to a ketch is its two masts, with the taller mainmast located toward the front of the vessel."
+    ],
+    "lamp": [
+        "A lamp typically has a tall, slender body with a bulbous light fixture at the top and sometimes a shade around it.",
+        "Distinct features of a lamp may include shape, texture, color, brightness, bulb type, and placement of the switch or cord.",
+        "Lamps typically have a bulb or light source and a stand or base that distinguishes them from other objects.",
+        "Lamps typically have a bulb or light source attached to a base or stand, whereas other objects may not have any light emitting parts.",
+        "Lamps are generally characterized by a light bulb and a lampshade or cover to diffuse the light it emits."
+    ],
+    "laptop": [
+        "A laptop typically has a rectangular body with a screen attached and a keyboard below it for input and typing. It may also have a touchpad or trackpad for navigation.",
+        "Distinct laptop features for recognition could include keyboard, trackpad, screen, hinge, webcam, ports, logo, and overall rectangular shape.",
+        "Laptop has a rectangular shape with a screen, keyboard, and trackpad on the top surface, and ports and vents on the sides or back.",
+        "Laptops typically have a rectangular shape with a screen and a keyboard, while other objects vary in shape, size, and purpose.",
+        "The unique visual cue of a laptop is its clamshell design with a thin display attached to a keyboard base."
+    ],
+    "llama": [
+        "A llama is a fluffy 4-legged creature with long neck, small ears, and often has a saddle on its back.",
+        "Llamas have a distinctive long neck, fluffy fur, short tail, and characteristic feature of their face and ears.",
+        "Llamas have long necks, woolly coats, straight ears, and a distinctive camel-like appearance, with a unique, fluffy underbite.",
+        "Llamas have long necks, curved ears, fluffy fur, and are usually tan or brown in color. They are also larger than most other farm animals.",
+        "The long, curved neck and fluffy wool covering the body are the unique visual cues that distinguish a llama from other objects."
+    ],
+    "lobster": [
+        "The lobster typically has a hard, shell-like body with ten legs and claws, antennae, and protruding eyes on its head.",
+        "Distinct features of a lobster include its bright red color, hard exoskeleton, segmented body, two large claws, and two pairs of antennae.",
+        "Lobster can be identified by its elongated body with ten legs, two claws, a shell-like exoskeleton, and red-orange coloration.",
+        "Lobsters have two large claws, a segmented body, antennae, and a distinctive red coloration, distinguishing them from other objects.",
+        "The unique visual cue of a lobster is its distinctively shaped tail, which is long and tapered with flipper-like ends."
+    ],
+    "lotus": [
+        "Lotus is a flower with large petals, a round center, and long stalks that grows in shallow freshwater ponds.",
+        "Distinct features of lotus: pink/white petals, round/oval shaped leaves, long stem, water lilies, and stigma (center part).",
+        "Lotus has pink or white petals arranged around a yellow center, and large green leaves floating on water in ponds.",
+        "Lotus is a pink or white flower with distinctive petals, green leaves, and long stems, unlike other objects like rocks or animals.",
+        "The unique visual cue of a lotus is its large, vibrant, spherical flower with multiple layers of petals and a distinct seedpod in the center."
+    ],
+    "mandolin": [
+        "A mandolin is a small, stringed musical instrument with a pear-shaped body, a fretted fingerboard, and four pairs of strings.",
+        "Some features that could be used for mandolin recognition are its unique shape, double strings, narrow neck, frets, and bridge design.",
+        "Mandolin can be identified in appearance as a stringed instrument with a pear-shaped body, a fretted fingerboard, and four double courses of strings.",
+        "Mandolins have a distinct symmetrical body, a long fretted neck, and four pairs of tuning pegs, distinguishing them from other objects.",
+        "The mandolin typically has a teardrop-shaped body with a flat top and a curved back, and double strings attached to the headstock."
+    ],
+    "mayfly": [
+        "Mayfly is an insect with a long, slender body, large wings, and three long tails, typically found near bodies of water.",
+        "Mayflies have a fragile, winged body with two or three long tails, flattened broad heads, large eyes, and short antennae.",
+        "Mayflies can be identified by their large, transparent wings, long antennae, slender bodies, and three long tails at the back.",
+        "Mayflies have delicate wings, long antennae, and a slender body. They resemble other insects, but their short lifespan sets them apart.",
+        "Mayflies have two pairs of wings that are triangular in shape and held vertically above the body when at rest."
+    ],
+    "menorah": [
+        "A menorah is a 9-branched candelabrum typically made of metal or glass and used during Hanukkah to hold candles.",
+        "The menorah typically has a central stem with six branches, each holding a candle, and is often decorated with symbolic figures or patterns.",
+        "A menorah typically has seven or nine branches, is used in Jewish worship, and resembles a candelabrum or lampstand.",
+        "A menorah is a seven-branched candelabrum used in Jewish ceremonial worship, distinguishable by its unique form and symbolic significance.",
+        "The menorah has nine branches, with eight of them being equal in height and the ninth one being taller."
+    ],
+    "metronome": [
+        "A metronome is a small, portable device with a pendulum that swings back and forth to keep rhythm while playing music.",
+        "The distinct features of a metronome include its cylindrical shape, swinging pendulum, adjustable tempo markings, and ticking sound with each swing.",
+        "Metronome can be identified by its typical pendulum design, adjustable tempo markings, and audible ticking or clicking sound when activated.",
+        "A metronome appears as a small, cylindrical device with a swinging pendulum, while other objects differ in size, shape, and function.",
+        "The visual cue unique to a metronome is its pendulum, which swings back and forth to maintain a steady rhythm."
+    ],
+    "minaret": [
+        "A minaret is a tall, slender tower traditionally found in Islamic architecture, often part of a mosque and used for the call to prayer.",
+        "Minaret can be recognized by its tall, narrow, cylindrical shape with a pointed top and often adorned with intricate geometric patterns.",
+        "A minaret is a tall, slim tower typically found beside a mosque with a narrow balcony from which Muslims are called to prayer.",
+        "A minaret is a tall, slender tower, typically found on mosques, with a distinct shape and intricate designs, unlike other structures.",
+        "The tall, slender tower with a pointed or onion-shaped dome, often found near mosques, is a unique visual cue for minarets."
+    ],
+    "nautilus": [
+        "Nautilus is a marine creature with a spiral shell, multiple tentacles, and a soft body. It resembles a miniature submarine.",
+        "Nautiluses have distinctive outer shells with coiled chambers, a ridged texture, and a central opening for recognition.",
+        "Nautilus has a spiral shell with numerous chambers that gradually increase in size and are separated by septa.",
+        "Nautiluses have a spiral shell with numerous chambers, a distinct siphuncle, and tentacle-like appendages called cirri that are absent in other marine animals.",
+        "The unique visual cue of nautilus is its spiral shell with a series of chambers separated by septa visible on the exterior."
+    ],
+    "octopus": [
+        "Octopuses have eight arms, rounded mantle, bulbous eyes, and are usually reddish-brown in color, with various patterns and textures.",
+        "Octopuses have eight long arms with distinctive suckers on them, a distinctive head, and a bulbous mantle that contains its organs.",
+        "Octopus can be identified by its eight arms, bulbous shape, two large eyes, lack of bones, and suction cups on its arms.",
+        "Octopuses have eight arms, a soft body, bulging eyes, and a beak, which differentiate them from other objects.",
+        "The visual cue unique to octopus is their eight arms that are lined with numerous suckers used for gripping and manipulating objects."
+    ],
+    "okapi": [
+        "Okapi is a mammal that resembles a cross between a giraffe and a zebra with brown fur and white stripes on its legs.",
+        "Distinct features of the Okapi are its brown coat with white stripes, long legs, and a long tongue used for feeding.",
+        "Okapi is a mammal with a reddish-brown coat, a white striped pattern on its legs, and a long neck.",
+        "Okapis have a dark brown coat with white stripes on their legs and hindquarters, distinct from other similar-looking ungulates.",
+        "Okapi has a unique zebra-like stripes on its legs and hindquarters, but the rest of its body is a solid brown color."
+    ],
+    "pagoda": [
+        "Pagoda is a tall, multi-tiered tower with curved roofs, commonly found in East Asian countries, used for religious or cultural purposes.",
+        "Distinct features of pagoda for recognition among all objects include its multi-tiered roof, curved eaves, and architectural elements such as pillars and carvings.",
+        "A pagoda can be identified by its distinct tiered and curved roof structure, typically with upturned eaves, often accompanied by a temple.",
+        "Pagodas are distinct compared to other objects due to their tiered structure, pointed roofs, and often include intricate ornamentation.",
+        "A multi-tiered, roofed tower with curved eaves and corners that turn up is the unique visual cue of a pagoda."
+    ],
+    "panda": [
+        "A panda is a black and white bear with a rotund body, round head, distinctive markings, and a gentle demeanor.",
+        "Panda features include large black patches around the eyes, white face and belly, and distinctive black and white coat patterns.",
+        "To identify a panda, look for black and white fur with distinct eye patches, rounded ears, and a round body shape.",
+        "Panda has black and white fur with distinctive eye patches, while other objects lack these features and have different shapes and colors.",
+        "The black patches around the eyes, on the ears, and across the body are unique visual cues of a panda."
+    ],
+    "pigeon": [
+        "A pigeon is a grey bird with a plump body, small head, and short beak, often seen in urban areas.",
+        "Distinct features of pigeon include plump body, small head, short neck, round eyes, and iridescence on feathers.",
+        "Pigeons have plump bodies covered in feathers that are typically gray or white, with distinctive wing patterns and small heads with beaks.",
+        "Pigeons have a plump body, small head, round eyes, short beak, and distinctive feather patterns (including iridescent neck feathers).",
+        "The unique visual cue of pigeons is their distinctive feather pattern with iridescent colors, particularly on their necks and wings."
+    ],
+    "pizza": [
+        "Pizza typically appears as a circular, flat bread with sauce, cheese, and toppings like pepperoni, mushrooms, and vegetables.",
+        "Some possible features of pizza for recognition are round shape, crust texture, cheese color, and toppings variety.",
+        "To identify pizza, I look for a circular shape, flat surface, red sauce, melted cheese, and toppings such as pepperoni or vegetables.",
+        "Pizza is typically circular, with a doughy crust, tomato sauce, and toppings such as cheese, meat, and vegetables. Other objects differ in shape, texture, and color.",
+        "The circular shape and distinct arrangement of toppings, including tomato sauce and melted cheese, are unique visual cues of pizza."
+    ],
+    "platypus": [
+        "The platypus is a unique mammal that has a beaver-like tail, webbed feet, a duck-like bill, and a furry body.",
+        "Distinct features of platypus for recognition are its bill, webbed feet, electroreception, lack of nipples, and venomous spurs.",
+        "Platypus have webbed feet, a flat tail, and a bill resembling a duck's with a distinctive flat snout. They also have a brown fur.",
+        "Platypus have a unique combination of features such as a duck-like bill, webbed feet, and beaver-like tail, that distinguish them from other objects.",
+        "The unique visual cue of a platypus is its bill, which is flat and beak-like, but also has a sensitive electroreceptor system."
+    ],
+    "pyramid": [
+        "A pyramid is a four-sided structure with a triangular base that converges to a point at the top, often used as a tomb or temple.",
+        "Pyramid for recognition employs multiscale image representation which extracts features from objects at different levels of granularity, aiding in recognition.",
+        "A pyramid can be identified by its four triangular sides meeting at a single point, forming a polygonal base.",
+        "Pyramids have a distinct geometrical shape, consisting of a base and triangular sides that meet at a point, unlike other objects.",
+        "The layered structure with a wider base tapering towards the top is a visual cue that is unique to pyramids."
+    ],
+    "revolver": [
+        "A revolver is a hand-held firearm with a rotating cylinder that contains multiple chambers for cartridges to be fired sequentially.",
+        "Cylinder, barrel, trigger, hammer, cylinder release, sights, and grip are the key features for revolver recognition.",
+        "A revolver typically has a long metal barrel, revolving cylinder, handle, trigger, and ammunition chamber. It is a handheld firearm.",
+        "Revolver is a firearm with a cylindrical chamber, a barrel, and a handle, which distinguishes it from other objects in shape and function.",
+        "A cylindrical barrel with multiple chambers and a distinctive hammer mechanism is unique to a revolver among all objects."
+    ],
+    "rhino": [
+        "Rhinos are large, gray, herbivorous mammals with a distinctive horn on their nose. They have a stocky build and thick, folded skin.",
+        "Rhinos can be recognized by their large and bulky appearance, distinct horn on their snout, and thick gray skin.",
+        "Rhinos are large, grey, herbivorous mammals with a thick fold of skin and a single horn protruding from their nose.",
+        "Rhinos have a distinctive horn, a thick body, and leathery skin with folds, which sets them apart from other animals.",
+        "Rhinos have a distinctive horn on their snout which sets them apart from other animals and makes them easily identifiable."
+    ],
+    "rooster": [
+        "A rooster is a bird with a distinctive red comb and wattle, a pointed beak, a long tail, and colorful feathers.",
+        "Distinct features for rooster recognition include comb, wattle, feathers, eye, beak, claw, neck, and body shape.",
+        "Roosters generally have a larger body, pointed crest or comb, long tail feathers, a visible wattle, and distinct coloring/markings.",
+        "Roosters typically have brightly colored feathers, a distinct comb on their heads, and a long tail, distinguishing them from other objects.",
+        "The comb on top of the rooster's head is a unique visual cue, which sets it apart from other objects."
+    ],
+    "saxophone": [
+        "Saxophone is a musical instrument made of metal with a curved shape, a mouthpiece, and several keys for playing different notes.",
+        "Distinct features of a saxophone include its elongated metal body, its curved design, its keys and finger placements, and its bell-shaped end.",
+        "Saxophone typically has a curved shape, a long neck, a bell-shaped opening, and keys along the body.",
+        "Saxophones have a unique shape with a curved body, a bell-like opening, and a long neck, while other objects differ in shape, size, and texture.",
+        "The unique visual cue of a saxophone is its curved, metal body with keys and a mouthpiece attached."
+    ],
+    "schooner": [
+        "A schooner is a sailing vessel with two or more masts, the foremast being shorter than the mainmast. Typically used for cargo transportation.",
+        "The distinct features of a schooner include two or more masts with fore-and-aft sails, a bowsprit, and a triangular topsail.",
+        "A schooner is a sailing vessel with two or more masts that are rigged with fore-and-aft sails, and has a sharp bow and stern.",
+        "Schooners are sailing ships with multiple masts, fore-and-aft sails, and a distinctive hull shape, whereas other objects lack these features.",
+        "Schooners have two or more masts with fore-and-aft sails on the lower mast and square sails on the upper mast."
+    ],
+    "scissors": [
+        "Scissors typically have two elongated metal blades that pivot at a point with finger holes for users to grip and use for cutting various materials.",
+        "Distinct features for recognizing scissors include two elongated cutting blades, a pivot point, and handles for grasping and manipulating.",
+        "Scissors can be identified by their long straight blades and handles used for cutting materials such as paper or fabric.",
+        "Scissors have two sharp blades, are symmetrical, have two finger holes, a hinge, and a straight body, distinguishing them from other objects.",
+        "The unique visual cue of scissors is the presence of two elongated blades joined together at a central pivot point."
+    ],
+    "scorpion": [
+        "A scorpion looks like an arachnid with a lobster-like tail, two pincers, eight legs, and a stinger on its back.",
+        "The distinct features of scorpion for recognition are eight legs, pincers, segmented body, and a stinger at the end of its tail.",
+        "A typical scorpion has eight legs, a pair of pincers, a long curved tail, and venomous stingers at the end of the tail.",
+        "Scorpions have eight legs, a pair of claws, a segmented body, and a curved tail with a venomous stinger at the end.",
+        "The scorpion has a distinctive segmented tail ending in a venomous stinger located on its posterior abdomen."
+    ],
+    "sea horse": [
+        "A sea horse is a marine fish that is typically small in size, has a long snout, a curved tail, and a horselike appearance.",
+        "Sea horses have long snouts, bony plates, and a prehensile tail, making them distinct and easily recognizable among other objects.",
+        "A sea horse can be identified by its long snout, upright posture, curved tail, and bony body covered in spiny plates.",
+        "Sea horses have a long snout, a flexible neck, a spiny body, a curled tail, and a distinctive head, which is different than other objects.",
+        "The curled tail of a sea horse is a unique visual cue that is not found in any other object."
+    ],
+    "snoopy": [
+        "Snoopy is a small white dog with black ears, a black nose, and a red collar. He often stands upright and has a happy expression.",
+        "Snoopy has a white body with black ears, snout, and tail. He also has big round eyes and a black nose.",
+        "Snoopy can be identified in appearance by his white fur, black ears and nose, round belly, and overall dog-like shape.",
+        "Snoopy has a white body, black ears, a black nose, and a black tail. He has a round head with a small snout and droopy black eyes.",
+        "Snoopy usually appears as a black and white beagle with a long snout, floppy ears, and a short tail."
+    ],
+    "soccer ball": [
+        "A soccer ball is a round, black and white pentagon-shaped object made of leather or synthetic materials used in soccer.",
+        "Soccer ball has a black and white patterned surface with pentagons and hexagons, spherical shape, and standardized size and weight.",
+        "Soccer balls can be identified by their round shape, black and white pattern, and characteristic hexagonal stitching design.",
+        "Soccer balls are spherical with black and white patches, while other objects have different shapes, sizes, colors, and textures.",
+        "The unique visual cue of a soccer ball is its black and white, pentagonal pattern made up of 32 panels."
+    ],
+    "stapler": [
+        "A typical stapler is a handheld device with a base, a spring, a lever, and a metal strip that fastens papers together.",
+        "Distinct features of a stapler for recognition could include its shape, metal construction, hinge mechanism, and presence of a staple cartridge.",
+        "Staplers can be identified by their elongated, often metallic body with a hinge mechanism and a slot for loading staples.",
+        "Staplers typically have a rectangular body with a metal hinge and a curved head, while other objects have distinctive shapes and features.",
+        "The visual cue unique to a stapler is its ability to bind papers together using metal staples, visible on the device."
+    ],
+    "starfish": [
+        "Starfish are sea creatures that have a distinctive star shape with five or more arms, typically varying in color and texture.",
+        "Starfish have a distinctive star-shaped body, with five or more arms radiating from a central disc, covered in suction cups.",
+        "Starfish can be identified by their five-point radial symmetry, spiny texture, and typically having a red or orange coloration.",
+        "Starfish have a radially symmetrical shape with distinct arms, a spiny texture, and no distinct head, unlike other objects.",
+        "The radial symmetry of its five arms makes starfish unique, as no other object in nature possesses this feature."
+    ],
+    "stegosaurus": [
+        "Stegosaurus is a herbivorous dinosaur with bony plates on its back, spiky tail, and a small head with leaf-shaped teeth.",
+        "Distinct features of stegosaurus include a spiked tail, large plates along its back, and a small head with sharp teeth.",
+        "Stegosaurus has a distinctive bony plate pattern on its back, a small head with short and thick legs, and a spiked tail.",
+        "Stegosaurus has a distinctive spiked tail and large bony plates on its back, unlike other animals or objects.",
+        "The unique visual cue of stegosaurus is its double row of bony plates along its back, resembling a saw-toothed ridge."
+    ],
+    "stop sign": [
+        "A stop sign is an octagonal-shaped red sign with white letters spelling the word \"STOP\" in the center.",
+        "Octagonal shape, red color, white border, and the word \"STOP\" in bold, white letters are the main features of a stop sign.",
+        "Stop signs are octagonal in shape, with a red background, a white border, and the word \"STOP\" in bold, white letters.",
+        "Stop sign has a distinctive octagonal shape, red color, and white lettering, which distinguishes it from other objects.",
+        "The unique visual cue of a stop sign is its octagonal shape with a white border and bold, red, capitalized letters spelling \"STOP\"."
+    ],
+    "strawberry": [
+        "A strawberry is a small, red fruit with green leaves on top, round shape and tiny black seeds on its surface.",
+        "The distinct features of a strawberry are its bright red color, small size, round shape, green stem, and seeded texture.",
+        "Strawberries typically have a red, heart-shaped appearance with a textured surface and small, green leaves on their stems.",
+        "Strawberries have a bright red color, small seeds on their surface, and a distinct green stem, while other objects do not.",
+        "The seeds on the surface of a strawberry are a unique visual cue, distinguishing it from all other objects."
+    ],
+    "sunflower": [
+        "A sunflower is a type of flower with a large yellow bloom and circular, symmetrical petals surrounding a dark center disk.",
+        "The distinct features of sunflower are: large yellow petals, dark central disk, and rough stem with triangular leaves.",
+        "Sunflower can be identified by its bright yellow petals arranged around a dark center disk, and a tall stem with broad leaves.",
+        "Sunflowers have large bright yellow petals that surround a dark center, while other objects have different colors and shapes.",
+        "The yellow petals arranged in a radial pattern around a dark center disk is a unique visual cue to sunflower."
+    ],
+    "tick": [
+        "A tick is a small arachnid with a brown or black oval-shaped body and eight legs, often found on animals or in wooded areas.",
+        "Ticks have eight legs, a round body, a head with a mouthpart, and a distinguishing shield-shaped plate on their back.",
+        "A tick can be identified through its small size, eight legs, oval body shape, and often a distinct dark pattern on its back.",
+        "Ticks have a round, small body size with 8 legs and a unique scutum on its back compared to other objects.",
+        "The visual cue unique to tick is the presence of eight legs and a pointed head with biting mouthparts."
+    ],
+    "trilobite": [
+        "A trilobite is an extinct marine arthropod with a distinctive three-lobed body, jointed legs, and a hard exoskeleton.",
+        "Trilobites are arthropods with distinctive 3-lobed body, segmented exoskeleton, compound eyes, and distinctive facial sutures used for taxonomy.",
+        "Trilobites have a distinctive three-lobed body with a hard exoskeleton and jointed legs, similar to modern-day crustaceans.",
+        "Trilobites have a distinct three-lobed body and segmented exoskeleton, distinguishing them from other objects in appearance.",
+        "A distinguishing feature of trilobites is their three-lobed body consisting of a head, thorax, and pygidium, which is unique among all objects."
+    ],
+    "umbrella": [
+        "An umbrella is generally a handheld portable device made of fabric material with a shaft and ribs used for protection from rain or sun.",
+        "The distinct features of an umbrella for recognition are its canopy shape, handle structure, size, material texture, and color.",
+        "Umbrellas can be identified in appearance through their distinct shape and features such as a canopy, handle, and usually a pointed end.",
+        "Umbrella has a unique shape with a canopy to protect from rain/sun while other objects lack canopy and usually have different shapes.",
+        "The unique visual cue of an umbrella is its canopy or fabric which is used to protect from rain or sunlight."
+    ],
+    "watch": [
+        "A watch is a small device worn on the wrist that displays time and sometimes date and other functions. Common designs include metal, leather, and digital displays.",
+        "The distinct features of a watch for recognition include its circular face, hour and minute hands, numbers or markings, and band.",
+        "A watch can be identified by its round shape, wristband attachment, numbers or markers indicating time, and the presence of watch hands.",
+        "A watch typically has a circular or rectangular face with hands/numbers, a band or bracelet, and is worn on the wrist.",
+        "The evenly spaced and numbered markings on the outer edge of a watch face are a unique visual cue."
+    ],
+    "water lilly": [
+        "A water lily is a floating aquatic plant with large leaves and showy flowers that rise above the water surface.",
+        "The distinctive features of water lilies for recognition are broad floating leaves with wavy edges and showy flowers with many petals.",
+        "Water lilies have circular green leaves with notched edges and elegant flowers with large flat petals in shades of white, pink and yellow.",
+        "Water lilies have round, flat leaves that float on the surface of the water, and large, showy flowers with many petals.",
+        "The round shape and wavy texture of water lily leaves are distinctive visual cues that make them unique among other objects."
+    ],
+    "wheelchair": [
+        "A wheelchair is a device used for mobility that has four wheels, a seat, and handles for pushing and steering.",
+        "Distinct features of a wheelchair for recognition include its four wheels, armrests, footrests, and the absence of pedals or handlebars.",
+        "A wheelchair can be identified by its distinctive appearance, which typically includes a seat, backrest, armrests, and two large wheels.",
+        "Wheelchairs typically have a large frame, handles, and seat with wheels attached, while other objects have differing shapes and components.",
+        "The presence of large wheels, often with push rims, positioned on the sides of a frame that supports a seated person."
+    ],
+    "wild cat": [
+        "A wild cat is a feline predator with sharp teeth and retractable claws, covered in fur with various colors and patterns.",
+        "Distinct features of wild cats include their pointed ears, whiskers, large eyes, fur pattern, and sharp claws for hunting.",
+        "Wild cats usually have slender bodies, short fur, sharp retractable claws, and distinctive facial features such as pointed ears and whiskers.",
+        "Wild cats have distinctive features such as sharp claws, luminous eyes and a fur coat with unique patterns, unlike other objects.",
+        "Wild cats have unique pointed ears, sharp claws, feline body structure and a patterned coat that distinguishes them from other objects."
+    ],
+    "windsor chair": [
+        "A Windsor chair typically has a spindle back and legs, with a saddle-shaped seat and often, armrests and a slightly curved top rail.",
+        "The distinct features of a Windsor chair include a solid wood seat, spindle back, and turned legs joined with a wedge-tenon joint.",
+        "A Windsor chair typically has a hooped back, a solid seat, and spindles connecting the seat to the legs and back.",
+        "A Windsor chair usually has a spindle back and legs attached to a solid, saddle-shaped seat, distinguishing it from other chairs.",
+        "The unique visual cue of a Windsor chair is the presence of a solid, carved or shaped seat that is attached to the legs and spindles of the chair."
+    ],
+    "wrench": [
+        "A typical wrench has a long handle with a fixed square or hexagonal socket at one end used to turn nuts and bolts.",
+        "Wrench can be recognized through its shape, size, and the distinctive pattern of its opening or adjustable jaw.",
+        "By analyzing edges, contours, and shapes, and comparing them with previously learned features to identify the wrench in the image.",
+        "A wrench typically has a long handle, a fixed jaw and an adjustable jaw, while other objects lack these features.",
+        "The unique visual cue of a wrench is its adjustable jaw, which allows the user to tighten or loosen bolts of different sizes."
+    ],
+    "yin yang": [
+        "Yin yang is a circular symbol divided into two complementary parts, one black and one white, representing dualism in Chinese philosophy.",
+        "Yin yang symbol has a circular shape with two halves, one in black and the other in white, interlocked and complementary.",
+        "Yin yang can be identified by a symmetrical design with two halves, one black and one white, in a circular shape.",
+        "Yin yang is a circular symbol with black and white halves interlocked, while other objects have different shapes, colors, and textures.",
+        "The yin yang symbol consists of two opposing halves, one white and one black, connected in a circular shape."
+    ]
+}

@@ -1,0 +1,709 @@
+{
+    "Apply Eye Makeup": [
+        "A person doing Apply Eye Makeup might look like they are holding a makeup brush and applying makeup to their eyelids or under-eye area, with a focused expression.",
+        "Distinct features of a person applying eye makeup for recognition include hand movements, presence of makeup products, and eye focus.",
+        "To identify a person applying eye makeup, look for close-up shots of the eyes, use of brushes or applicators, and a concentration on the eye area.",
+        "Applying Eye Makeup involves using specific cosmetic products to enhance the eyes, while other actions may involve hair styling or clothing choices.",
+        "The unique visual cue of a person doing Apply Eye Makeup is the use of small, precise movements around the eye area."
+    ],
+    "Apply Lipstick": [
+        "A person doing apply lipstick will have a small cylindrical object near their mouth while holding a mirror and applying color.",
+        "The distinct features of a person applying lipstick include the use of a lipstick tube, hand movements around the mouth and focused attention on the lips.",
+        "I can identify a person doing Apply Lipstick by looking for specific facial movements and the use of a lip product.",
+        "Apply Lipstick involves movement around the face, small hand movements, and specific product use, while other appearance actions vary.",
+        "The visual cue unique to a person doing Apply Lipstick is the movement of the hand bringing the lipstick to the lips."
+    ],
+    "Archery": [
+        "A person doing archery usually stands still, holding a bow and arrow, taking aim, and releasing the arrow towards a target.",
+        "Distinct features of a person doing archery include holding a bow, pulling the string, aiming, and a straight posture with focused eyes.",
+        "Identifying a person doing archery in appearance can be done by observing the person holding a bow, pulling back the string, and releasing the arrow towards a target.",
+        "Person doing Archery typically holds a bow and arrow, with a forward-facing posture and a hand near the cheek.",
+        "The unique visual cue in archery is the positioning of the archer's bow arm and the drawing hand holding the arrow."
+    ],
+    "Baby Crawling": [
+        "A person doing baby crawling would be on all fours with their knees and hands touching the ground and moving forward by shifting their weight.",
+        "Distinct features of Baby Crawling for recognition include crawling motion, low body height, arm and leg movement, and limited range of motion.",
+        "I can identify a person doing baby crawling by looking for a person on their hands and knees, crawling forward with their belly close to the ground.",
+        "Baby crawling involves being on all fours and using hands and knees to move forward, while other actions can vary in position, movement, and body parts used.",
+        "The main visual cue unique to a person doing Baby Crawling is the position of hands and knees on the ground."
+    ],
+    "Balance Beam": [
+        "A person doing Balance Beam displays precise movements and balance as they walk across a narrow beam off the ground.",
+        "The distinct features of a person doing balance beam for recognition would include: body balance, posture, hand movements, foot placement, and facial expressions.",
+        "The person doing balance beam will be in a gymnastics outfit, standing on a narrow beam, performing acrobatic movements with balance.",
+        "A person doing Balance Beam will have arms stretched out, straight legs, and will be standing on a narrow beam.",
+        "The visual cue unique to a person doing Balance Beam is their body's centered movement and balance on a narrow beam."
+    ],
+    "Band Marching": [
+        "A person doing band marching typically wears a uniform, carries an instrument, and moves in unison with a group of other marchers.",
+        "Distinct features of a person doing band marching are uniformed clothes, musical instrument held, straight posture, synchronized marching steps, and formation.",
+        "The system can identify a person doing band marching based on their marching posture, uniform, instrument, and synchronized movement with others.",
+        "In Band Marching, people move in synchronized formation with musical instruments, while other actions may involve different postures, movements, and equipment.",
+        "The synchronized movement of multiple individuals in a formation is a unique visual cue of Band Marching."
+    ],
+    "Baseball Pitch": [
+        "A person doing a baseball pitch is typically shown in a full-body view, with the arm extended back and the ball in hand.",
+        "The distinct features of a person doing Baseball Pitch include arm extension, leg lift, forward body inclination, and hand and wrist movement.",
+        "A person doing a Baseball Pitch can be identified by their arm retracted and then extended movement, torso rotation, and leg balancing.",
+        "During a Baseball Pitch, the arm is wound back and then thrown forward quickly. Other actions won't have the same motion.",
+        "The arm rotation and throwing motion with an extended arm are unique visual cues to a person doing Baseball Pitch."
+    ],
+    "Basketball": [
+        "A person doing basketball may be seen running, dribbling, shooting or jumping while holding or dribbling a ball on a court.",
+        "Distinct features of a person doing basketball for recognition include dribbling ball, shooting, jumping, running, and hand and arm movements.",
+        "I can identify a person doing basketball by looking for specific body movements like dribbling, shooting, jumping, and running with a basketball.",
+        "A person doing basketball might be seen jumping, dribbling, shooting while someone doing other actions may have different movements & poses.",
+        "Dribbling a basketball while moving, bouncing the ball repeatedly on the floor with one hand, eyes focused on the ball."
+    ],
+    "Basketball Dunk": [
+        "A person doing a basketball dunk typically shows a moment of high vertical jump with one or two hands holding onto the ball.",
+        "Distinct features of a person doing Basketball Dunk for recognition may include body position, arm motion, and ball location in mid-air.",
+        "Identifying a person doing Basketball Dunk involves recognizing a human figure jumping high, holding a ball and forcefully throwing it downwards into a hoop.",
+        "Basketball Dunks involve jumping and slamming the ball into the hoop, while other actions may involve running, walking, or standing still.",
+        "The visual cue unique to a person doing basketball dunk is the upward motion and extension of the arms while jumping high towards the basket."
+    ],
+    "Bench Press": [
+        "A person doing bench press typically lies flat on a bench, lifts a weighted barbell off a rack, lowers it to their chest, then presses it back up.",
+        "Distinct features of a person doing Bench Press for recognition include a lying position, arms extending, and pushing weights upwards.",
+        "A person doing bench press can be identified by their lying position on a bench and lifting weights up and down in a controlled manner.",
+        "A person doing Bench Press will have their arms extended and retracting, whereas other actions may involve different limb and body movements.",
+        "The unique visual cue for bench press is the horizontal movement of the barbell towards and away from the person's chest."
+    ],
+    "Biking": [
+        "A person doing biking is typically seen wearing a helmet, riding a bike, and pedaling with their legs while outdoors in a scenic environment.",
+        "Distinct features of a person doing biking for recognition are helmet, cycling clothing, pedal movement, posture, and presence of a bicycle.",
+        "I can identify a person doing biking by recognizing their riding position, helmet, and the presence of a bike.",
+        "Biking typically involves a person sitting on a saddle while pedaling, with the legs and feet moving in a circular motion. This is different from actions like running, walking, or jumping which involve more vertical movement and different leg motions.",
+        "The circular motion of the legs and feet pushing down and pulling up on the pedals is unique to Biking."
+    ],
+    "Billiards": [
+        "A person playing billiards would be characterized by holding a cue stick and leaning over a table with balls on it for aim and striking.",
+        "Some distinct features of a person playing Billiards for recognition could be the cue stick, the pool table, the balls, and the player's stance and posture.",
+        "Identifying a person playing Billiards involves recognizing cues, cue ball, pockets, table, and player's stance, movements, and clothing.",
+        "A person doing Billiards may be holding a cue stick and bending over a table, while other actions may involve different postures and equipment.",
+        "A person playing billiards has a cue stick in hand and is leaning over the table, aiming at a ball."
+    ],
+    "Blow Dry Hair": [
+        "A person doing Blow Dry Hair would likely be standing in front of a mirror holding a blow dryer and a hairbrush, lifting and blow-drying sections of their hair.",
+        "The distinct features of a person doing Blow Dry Hair include holding a dryer, angled posture, focused movement, and use of brush.",
+        "To identify a person doing Blow Dry Hair, I would look for someone holding a hair dryer and using a brush while aiming it at their head, creating airflow.",
+        "Blow drying hair is characterized by holding a hair dryer and using a brush, while other actions may involve different tools or body movements.",
+        "A person doing Blow Dry Hair would be holding a hair dryer and using it to point at a section of wet hair while applying heat."
+    ],
+    "Blowing Candles": [
+        "A person doing blowing candles is typically sitting or standing in front of a cake with candles and is blowing out the candles.",
+        "Distinct features of a person blowing candles include open mouth, focused face, upward hand motion, and the presence of candles.",
+        "Look for a person leaning over a cake with lit candles and pursed lips appearing to blow out the candles.",
+        "Blowing candles involves a person exhaling while their lips are pursed, while other actions may involve different body movements or facial expressions.",
+        "The unique visual cue for Blowing Candles is the act of exhaling towards a small, lit object with puffy cheeks."
+    ],
+    "Body Weight Squats": [
+        "A person doing Body Weight Squats typically stands with feet shoulder-width apart and lowers their body by bending their knees while maintaining a straight back.",
+        "Distinct features of a person doing Body Weight Squats for recognition include knee and hip joint flexion, upright torso, and foot positioning.",
+        "A person doing bodyweight squats would have their feet shoulder-width apart and would lower their body until their thighs are parallel to the ground.",
+        "Body Weight Squats involve bending at the knees and hips, while other actions may involve different body movements and positions.",
+        "The visual cue unique to a person doing body weight squats is the synchronized bending of the knees and hips while keeping the back straight."
+    ],
+    "Bowling": [
+        "A person doing bowling typically appears holding a bowling ball, facing the pins, and executing a throwing motion with the ball.",
+        "The distinct features of a person doing Bowling for recognition could be the stance, arm swing, leg movement, and release position.",
+        "Look for a person holding and swinging a bowling ball, wearing bowling shoes, standing on a bowling lane and ready to throw the ball.",
+        "During bowling, a person typically wears bowling shoes and carries a bowling ball, while other actions could involve different attire and equipment.",
+        "The act of a person holding and swinging a bowling ball towards a set of pins is the unique visual cue during bowling."
+    ],
+    "Boxing Punching Bag": [
+        "A person doing Boxing Punching Bag is likely to have a stance with raised fists, throwing jabs and hooks at the bag with force and precision.",
+        "Distinct features of a person doing Boxing Punching Bag for recognition include hand and body movements, footwork, and facial expression.",
+        "A person doing Boxing Punching Bag can be identified by their stance, fists wrapped in gloves, and punching motions towards a hanging bag.",
+        "A person doing Boxing Punching Bag appears to be wearing gloves and hitting a stationary target with specific movements and techniques.",
+        "A person doing Boxing Punching Bag has a distinct fist and arm movement, and their body pivots to generate force."
+    ],
+    "Boxing Speed Bag": [
+        "A person doing Boxing Speed Bag appears as a dynamic, high-energy movement with quick and repeated punching motions aimed at the bag.",
+        "Distinct features of a person doing Boxing Speed Bag for recognition include gloves, punching movement, fast speed, and upper body engagement.",
+        "I can look for a person wearing boxing gloves, hitting a small bag rapidly with both fists, in a standing or moving position.",
+        "Boxing Speed Bag involves punching and hitting a small bag quickly while other actions may involve jumping, running, or lifting.",
+        "The rapid and repetitive movement of the fists hitting a small bag suspended from above is unique to Boxing Speed Bag."
+    ],
+    "Breast Stroke": [
+        "A person doing Breast Stroke is lying in the water facing forward and moving both arms simultaneously with their legs kicking behind them.",
+        "Distinct features of breaststroke include arms move in a circular motion, legs move together, and head must break the surface for breathing.",
+        "I can identify a person doing breaststroke by looking for the signature movement of their arms and legs in a forward and backward motion while swimming.",
+        "Breaststroke involves simultaneous arm and leg movement with the head above water, while other actions may involve different body positions and movements.",
+        "The unique visual cue in Breast Stroke is the simultaneous extension of both arms forward followed by a simultaneous pull towards the body."
+    ],
+    "Brushing Teeth": [
+        "A person doing Brushing Teeth would be seen as standing near a sink, holding a toothbrush, with their mouth foamed up.",
+        "Distinct features for recognizing a person brushing teeth may include toothbrush in hand, motion of brushing, location of brushing (bathroom), and mouth open.",
+        "Brushing Teeth can be identified by looking for a person with a toothbrush in their hand, open mouth and foam.",
+        "In brushing teeth, the person typically holds a toothbrush and faces the sink, while other actions may involve different body positions and objects.",
+        "The visual cue unique to a person brushing teeth is the vertical hand motion accompanied by a foaming substance inside the mouth."
+    ],
+    "Clean And Jerk": [
+        "A person doing Clean and Jerk can be identified by the barbell held at shoulder height, followed by lifting overhead in a swift motion.",
+        "Distinct features of a person doing Clean and Jerk include grip on the barbell, body posture, leg and arm position, and overall fluidity of the movement.",
+        "Clean and Jerk involves lifting a barbell from the ground, moving it to the shoulders, then thrusting it overhead. It's distinct in form and movement.",
+        "Clean and Jerk involves lifting a barbell from the ground to the shoulders and then overhead, while other actions may vary in posture, movements, and equipment used.",
+        "The person lifts a barbell from the floor to their shoulders, then explosively lifts it overhead while dipping their body."
+    ],
+    "Cliff Diving": [
+        "A person doing cliff diving is typically leaping off a high point over a body of water, with arms and legs extended, showing excitement.",
+        "Distinct features of a person doing Cliff Diving: High altitude, free fall, aerial movements, diving posture, splash upon entering water.",
+        "A person doing cliff diving appears in mid-air position with arms and legs spread out, ready to enter the water.",
+        "Cliff diving involves a person jumping off a high platform into water, visually distinct from other actions such as running or cycling.",
+        "The visual cue unique to cliff diving is the person jumping off a high platform or cliff into water below."
+    ],
+    "Cricket Bowling": [
+        "A person doing cricket bowling typically has a straight arm and is propelling a ball towards the opposing team's player.",
+        "Distinct features for cricket bowling: Player's run-up, release action, arm position, follow-through, ball location, and body posture during action.",
+        "I can identify a person doing Cricket Bowling by looking for specific body positioning, arm movement, and ball release during action.",
+        "A person doing Cricket Bowling typically has one arm raised and is facing away from the target, while other actions vary widely.",
+        "The unique visual cue in Cricket Bowling is the bending of the elbow beyond a certain angle, which is considered as an illegal action."
+    ],
+    "Cricket Shot": [
+        "A person doing a cricket shot would be holding a bat, bent at the knees, and swinging their arms to hit a ball.",
+        "Distinct features of a person doing a cricket shot include: stance, grip, backlift, bat movement, stride, and follow through.",
+        "A person doing a cricket shot would be recognized by their stance, holding a bat, and swinging it with a specific trajectory.",
+        "In Cricket Shot, a person swings their bat in a specific manner. This motion is distinct and differs from other actions in appearance.",
+        "The unique visual cue of a Cricket Shot is the swinging of the bat, usually in an arc, towards the incoming ball."
+    ],
+    "Cutting In Kitchen": [
+        "A person doing cutting in the kitchen can be recognized as someone holding a knife and chopping vegetables or fruits on a cutting board.",
+        "Distinct features of a person doing Cutting In Kitchen include holding a knife, chopping motion, and proximity to a cutting surface.",
+        "To identify a person doing Cutting In Kitchen, focus on their hand movements with a kitchen knife while standing by a counter.",
+        "Cutting in kitchen involves holding a knife and cutting ingredients, while other actions may involve different tools or body gestures.",
+        "The use of a knife and a cutting board is unique to Cutting in Kitchen, distinguishing it from other types of actions."
+    ],
+    "Diving": [
+        "A person doing diving is usually seen in a mid-air posture, with arms spread apart and legs extended down in a diving position.",
+        "Distinct features of a person doing diving include a streamlined body position, extended limbs, and a vertical or diagonal trajectory.",
+        "Diving typically involves a person jumping or falling into water headfirst with their arms extended, wearing a swim cap and goggles.",
+        "Divers wear diving gear like wetsuits and flippers, and are often submerged in water, while other actions don't have these features.",
+        "The visual cue unique to a person doing Diving is their body position with arms extended above their head and toes pointed."
+    ],
+    "Drumming": [
+        "A person doing drumming would typically be sitting down and using their hands to hit a set of drums or percussion instruments.",
+        "The distinct features of a person drumming include specific hand movements, coordinated movements of hands and feet, and rhythmic body motions.",
+        "I can identify a person doing drumming by looking for drumsticks in their hands, and observing their arms and upper body motions.",
+        "During Drumming, the person may appear to be sitting, holding drumsticks, and striking a drum surface rhythmically, while other actions may differ in posture, tools, and movement.",
+        "The unique visual cue for someone doing drumming is the repetitive motion of the hands and arms hitting the drum in a rhythmic pattern."
+    ],
+    "Fencing": [
+        "A person doing fencing appears in a defensive stance with a sword in hand, wearing a protective suit and mask.",
+        "Distinct features of a person doing Fencing include use of long stick-like weapons (foils), quick footwork, and lunging movements.",
+        "Some identifying features of a person fencing could include holding a foil sword, wearing a mask, protective gear, and lunging movements.",
+        "A person doing fencing usually wears a mask, jacket, and holds a sword, while other actions may involve different clothing and props.",
+        "The unique visual cue for fencing is the extension of the arm while holding a sword (foil, epee, or saber) in a defensive or offensive stance."
+    ],
+    "Field Hockey Penalty": [
+        "A person doing a field hockey penalty may be seen holding a stick, looking towards the goal, and preparing to hit the ball.",
+        "The distinct features for recognizing Field Hockey Penalty are: player standing still, stick on the ground, arm raised, and ball positioned on the penalty spot.",
+        "Recognizing a person doing Field Hockey Penalty involves looking for specific body movements, stick position, and the ball's trajectory towards the goalpost.",
+        "In Field Hockey Penalty, the player holds a stick and tries to hit the ball while other actions may involve different body movements and equipment.",
+        "The unique visual cue for a person doing Field Hockey Penalty is the dribbling motion towards the net while looking at the goalie."
+    ],
+    "Floor Gymnastics": [
+        "A person doing floor gymnastics would be performing various tumbling and acrobatic movements with precision and fluidity on a flat mat surface.",
+        "Distinct features include body shape, specific movements, clothing, equipment, and location such as a mat and identifiable poses.",
+        "I can look for body movement patterns such as flips, cartwheels, and handstands that are unique to floor gymnastics.",
+        "Floor gymnastics involves complex movements that require high flexibility and overall body control, while other actions vary in form and intensity.",
+        "The visual cue unique to a person doing Floor Gymnastics is their acrobatic movements and transitions performed on a padded surface."
+    ],
+    "Frisbee Catch": [
+        "A person doing Frisbee Catch would look like someone reaching out with one hand while their other arm is extended for balance.",
+        "Distinct features for Frisbee Catch recognition could be body posture, hand and arm movements, distance to Frisbee, and direction of eyesight.",
+        "A person doing Frisbee Catch can be identified by their outstretched arms, focused gaze, and the circular disc flying mid-air.",
+        "A person doing Frisbee catch usually has their hands up in the air and their eyes focused on the Frisbee.",
+        "The visual cue unique to a person doing Frisbee Catch is their arm extended upward and outward while tracking the Frisbee's trajectory."
+    ],
+    "Front Crawl": [
+        "A person doing Front Crawl is swimming freestyle with alternating arm strokes, kicking their legs, and taking breaths to the side.",
+        "Distinct features of a person doing Front Crawl include the flutter kick, arm strokes, and head alignment with water level.",
+        "A person doing Front Crawl can be identified by their continuous arm and leg movement, head down in the water, and alternate breathing.",
+        "Front Crawl appears as continuous arm movements and flutter kicking, unlike other actions, which have different patterns of movement.",
+        "The alternating arm stroke with the head in line with the body and the legs kicking continuously is unique to Front Crawl."
+    ],
+    "Golf Swing": [
+        "A person doing a golf swing typically has a club in hand, standing on a manicured grass surface, and positioned towards a target.",
+        "Distinct features for recognizing a person doing Golf Swing could include their body posture, arc of the swing, position of club, and stance.",
+        "I can look for a person holding a golf club and making a swinging motion with their body in a specific sequence.",
+        "A person doing Golf Swing generally has a more extended posture, with their arms and legs in specific positions, compared to other actions.",
+        "The unique visual cue of a person doing a golf swing is the position and movement of their arms and legs during the swing."
+    ],
+    "Haircut": [
+        "A person doing a haircut would be classified under the \"personal grooming\" category, specifically under the subcategory of \"hair care\".",
+        "Distinct features for person doing a haircut recognition could include scissor usage, motion of hands around head, and presence of hair.",
+        "To identify a person doing a haircut, focus on the presence of scissors or other hair tools, and the position of the subject or client in a sitting position.",
+        "Haircut involves cutting hair with scissors/razors. Other actions in appearance include applying makeup, shaving, and styling hair with tools.",
+        "The unique visual cue for a person doing a haircut is the presence of scissors or some other cutting tool in their hand."
+    ],
+    "Hammering": [
+        "A person doing hammering typically appears with one hand holding a hammer and the other holding the material being hammered.",
+        "The distinct features of a person doing Hammering include swinging arm motion, tool in hand, and repetitive striking motion.",
+        "I can look for a person holding a hammer or a hammer-like object, while making a distinct motion of swinging or hitting an object repeatedly.",
+        "A person hammering may have a tool in hand, make repetitive up and down movements, and produce loud noises.",
+        "The unique visual cue for hammering is the swinging motion of the arm, with the hammer hitting an object repeatedly."
+    ],
+    "Hammer Throw": [
+        "A person doing hammer throw can be recognized by the circular motion of the hammer around their body before throwing.",
+        "The distinct features of a person doing Hammer Throw for recognition include swinging the hammer and rotating in a circular motion with a wide stance.",
+        "Look for a person holding a metal ball connected to a grip by a steel wire, spinning and releasing it in a circular motion.",
+        "While doing Hammer Throw, a person holds a hammer and spins before releasing it, which makes it different from other actions in appearance.",
+        "The unique visual cue of Hammer Throw is the athlete spinning rapidly in a circle with a heavy hammer held by a wire."
+    ],
+    "Handstand Pushups": [
+        "The person doing a Handstand Pushup would be upside down with their hands on the ground, pushing themselves up and down.",
+        "Handstand Pushup: Inverted body, hands on floor shoulder-width apart, head touches ground, legs straight up, toes pointed, arms extended.",
+        "Look for a person standing upside down with their hands on the ground, while performing a pushing movement with their arms and shoulders.",
+        "Handstand Pushups involve the individual being inverted and supporting their weight on their hands, whereas other actions do not.",
+        "The most unique visual cue for a person doing Handstand Pushups is the upside-down position with the feet elevated against a surface."
+    ],
+    "Handstand Walking": [
+        "A person doing handstand walking is upside down on their hands, with legs hovering in the air, moving forward in a walking motion.",
+        "Distinct features for Handstand Walking could be head down, legs elevated above head, arms extended, and continuous movement on hands.",
+        "A person doing handstand walking will be upside down, with their hands on the ground and their feet in the air, moving forward.",
+        "Handstand Walking involves standing upside down on hands and walking, while other actions involve the body in an upright position.",
+        "The unique visual cue of handstand walking is the inverted position of the body with hands and feet on the ground."
+    ],
+    "Head Massage": [
+        "A person doing head massage can be classified under the action category of \"Healthcare\", with a focus on \"Personal Care\".",
+        "The distinct features of a person doing Head Massage for recognition are facial expressions, hand movements, focused on the head, soft movements, and no sudden jerks.",
+        "I would focus on the presence of one person seated with another person standing behind them and massaging their scalp with their fingers.",
+        "During Head Massage, the person's hands are primarily focused on the scalp, while in other actions, they might be doing different activities.",
+        "The unique visual cue is the hand movement pattern where the hands make circular motions on the scalp and temples."
+    ],
+    "High Jump": [
+        "A person doing high jump appears to be jumping upwards with their arms raised, back arched, and legs doing a scissor-like movement.",
+        "A person doing High Jump can be recognized by the body posture, jump height, arm and leg orientation, approach speed, and landing position.",
+        "A person doing High Jump can be identified by their running start, deliberate steps towards the bar, and explosive jumping motion.",
+        "In high jump, a person runs towards a bar and jumps over it, while other actions may involve different body positions and movements.",
+        "The unique visual cue for High Jump is the curved approach run followed by a high jump over a horizontal bar."
+    ],
+    "Horse Race": [
+        "A person doing horse race can be seen in a dynamic posture with their hands holding the reigns, seated on a galloping horse.",
+        "Briefly, key features include a vertical pose, extended and front-facing legs, and a leaning forward motion from the upper body.",
+        "I would look for a person on the back of a galloping horse, typically dressed in jockey attire and holding reins.",
+        "A person doing Horse Race typically appears to be riding a horse and wearing jockey attire, while other actions would have different clothing and body postures.",
+        "The unique visual cue for a person doing Horse Race is the position of their arms extended forward as if holding reins while running."
+    ],
+    "Horse Riding": [
+        "A person doing horse riding typically appears wearing riding attire and a helmet while seated on a horse, holding the reins and steering it.",
+        "Distinct features of a person doing horse riding include sitting on a horse, holding reins, wearing a riding helmet and boots, and having a forward-leaning posture.",
+        "To identify a person doing horse riding, look for a person sitting atop a saddled horse, holding reins and wearing riding boots and helmet.",
+        "A person doing horse riding may have a helmet, boots, and may be holding reins, while other actions may involve different clothing and equipment.",
+        "The unique visual cue for Horse Riding is the rider's legs being positioned on either side of the horse's body."
+    ],
+    "Hula Hoop": [
+        "A person doing Hula Hoop would be classified as a type of dance or physical activity that involves rotating a hoop around the waist or other body parts.",
+        "Some distinct features of a person doing Hula Hoop for recognition are circular motion, continuous movement, and balanced posture.",
+        "Looking for specific body movements including circular hip rotation, arm movement, and a hula hoop circling around the waist.",
+        "A person doing Hula Hoop exhibits circular and continuous waist movements, while other actions may involve non-circular motions and pauses.",
+        "A person doing Hula Hoop would have a circular motion around their waist that is distinct from other types of actions."
+    ],
+    "Ice Dancing": [
+        "A person doing Ice Dancing would be wearing skates and a costume, performing synchronized dance moves on an ice rink.",
+        "Distinct features of a person doing ice dancing for recognition include fluid body movements, intricate footwork, synchronized partner movements, and graceful arm and hand gestures.",
+        "Distinctive costume, intricate choreography and graceful movements distinguish ice dancers from other types of action.",
+        "Ice Dancing involves graceful and synchronized movements with fluidity, while other actions may be more abrupt and athletic in appearance.",
+        "The synchronized movement of two people in close proximity while performing intricate footwork and lifts on ice."
+    ],
+    "Javelin Throw": [
+        "A person doing javelin throw would appear in an athletic stance, holding a long spear and winding up before launching it forward.",
+        "Distinct features of a person doing Javelin Throw include arm position, leg drive, torso lean, and grip during the throw.",
+        "To identify a person doing Javelin Throw, look for a person throwing a spear-like object while standing still or running.",
+        "A person doing javelin throw holds a long spear like object and throws it with a running start, unlike other actions.",
+        "A person doing Javelin Throw has a distinctive movement of extending the arm backwards while holding a long spear-like object."
+    ],
+    "Juggling Balls": [
+        "A person doing juggling balls can be recognized through their repeated throwing and catching motion of small objects with both hands.",
+        "Distinct features for person doing Juggling Balls can be multiple balls in the air, continuous motion, quick hand movements, and focused gaze.",
+        "A person doing juggling balls can be identified by their repeated tossing and catching of multiple objects in a rhythmic pattern.",
+        "Juggling balls appear as multiple objects being thrown and caught in a repetitive motion, while other actions have varying gestures and movements.",
+        "The unique visual cue to a person doing juggling balls is the repetitive and coordinated motion of their hands and arms catching and throwing the objects in an upwards trajectory."
+    ],
+    "Jumping Jack": [
+        "A person doing Jumping Jacks involves jumping while simultaneously raising arms and legs horizontally, resembling an \"X\" shape in mid-air.",
+        "The distinct features of a person doing Jumping Jack include simultaneous arm and leg movement, and full body extension in a jumping motion.",
+        "A person doing Jumping Jack can be identified by their repeated jumping movement while simultaneously raising and lowering their arms and legs.",
+        "Jumping Jack involves both arms and legs moving simultaneously, while other actions may only involve one or the other.",
+        "The simultaneous movement of both arms and legs, extending outwards and then returning back to the body, is unique to Jumping Jacks."
+    ],
+    "Jump Rope": [
+        "A person doing Jump Rope appears upright, with arms at their side, and jumping repeatedly while swinging a rope.",
+        "Distinct features of a person doing Jump Rope include swinging arms, jumping up and down, and rotating rope in a circular motion.",
+        "Jump Rope can generally be identified by a person's continuous up and down movement while holding a rope and circling it.",
+        "Jump Rope involves a repeated bouncing motion of the rope and the body, while other actions vary in motion and body positioning.",
+        "The unique visual cue for a person doing Jump Rope is the constant circular motion of the rope around the body."
+    ],
+    "Kayaking": [
+        "A person doing kayaking would typically be seated in a small, slender boat, using a paddle to propel themselves along water.",
+        "Distinct features of a person doing kayaking can include body position, paddle movement, and the presence of a kayak and water.",
+        "To identify a person doing kayaking, look for a seated position, holding a paddle while propelling a small, boat-like vessel on water.",
+        "Kayaking involves a person sitting in a kayak and using a paddle to move on water, while other actions involve different body positions and props.",
+        "A person doing kayaking has a paddle and is seated in a low-lying narrow boat while continuously paddling forward."
+    ],
+    "Knitting": [
+        "A person doing Knitting would be seated with knitting needles and yarn in hand, moving their hands in a repetitive motion.",
+        "Distinct features for recognizing someone knitting: holding knitting needles, a ball of yarn, hand movements forming loops, fingers interlocking, sitting position.",
+        "I can identify someone doing knitting by looking for them holding two knitting needles and manipulating yarn to create stitches.",
+        "In knitting, the person uses yarn and two needles to create a fabric texture. The posture and hand movements are distinct.",
+        "A visual cue unique to knitting is the use of knitting needles and yarn manipulated in a specific way to create a patterned fabric."
+    ],
+    "Long Jump": [
+        "A person doing Long Jump typically runs and then jumps forward while extending their arms and legs in a horizontal position.",
+        "Distinct features of a person doing Long Jump include body position, leg movement, arm swinging, and landing posture.",
+        "The person would be running towards a mark, performing a jump with an extended body, landing in a sand pit.",
+        "In Long Jump, the athlete runs and then propels themselves horizontally through the air, while other actions involve different movements.",
+        "The unique visual cue in Long Jump is the athlete running with a sudden push off one foot to jump horizontally."
+    ],
+    "Lunges": [
+        "A person doing lunges would be standing with one leg forward and the other leg back, bending both knees and lowering their body towards the ground.",
+        "Distinct features of a person doing Lunges for recognition are standing on one leg while the other is stretched behind, front knee bent at 90 degrees.",
+        "Identifying a person doing lunges can be done by observing a repeated stepping motion, with one leg extended back.",
+        "Lunges involve one leg stepping forward while bending both knees, while other actions may involve different limb positions or movements.",
+        "The unique visual cue for a person doing lunges is their knee bending at a 90-degree angle while keeping their back straight."
+    ],
+    "Military Parade": [
+        "A person doing military parade would appear disciplined, uniformed, and coordinated, with synchronized movements and precise execution of drills and maneuvers.",
+        "Distinct features of a person doing Military Parade include uniform, body posture, marching style, formation, and weapon handling.",
+        "A person doing military parade can be identified by their uniform, precise movements, and the presence of a weapon or flag.",
+        "A person doing Military Parade appears formal with uniform and proper marching technique. Other actions may vary in clothing and movement.",
+        "The visual cue unique to a person doing Military Parade is their uniform and the precise and synchronized movements they make."
+    ],
+    "Mixing": [
+        "A person doing Mixing is typically seen holding a utensil while combining ingredients in a bowl or shaker.",
+        "Mixing for recognition involves frequent hand movements, audio adjustments, and visual monitoring of multiple sources to create a cohesive output.",
+        "By detecting the presence of equipment such as turntables, mixer and headphones, along with hand gestures and body movement.",
+        "Mixing involves combining two or more substances, while other actions can vary in appearance, such as cutting, pouring, or stirring.",
+        "The unique visual cue for mixing is the circular motion of the hand while holding a utensil such as a spoon or a shaker."
+    ],
+    "Mopping Floor": [
+        "A person doing mopping floor would be seen as a person holding a mop and moving it back and forth on the ground, while standing upright.",
+        "The person performing mopping floor can be distinguished based on the posture, hand movement, and presence of a mop.",
+        "Mopping floor can be identified by a person holding a mop and bucket, standing and moving in a repetitive motion.",
+        "Mopping Floor involves a person holding a mop, bending forward, and performing sweeping motions; other actions may involve different postures and objects.",
+        "The visual cue unique to a person mopping the floor is the back and forth motion of the mop in their hand."
+    ],
+    "Nunchucks": [
+        "A person doing nunchucks would appear as a fast, rhythmic and fluid movement, involving quick hand and arm coordination with the nunchucks.",
+        "The distinct features of a person doing Nunchucks include swinging of the nunchucks, hand-eye coordination, body balance, and fluidity of movement.",
+        "Nunchucks movements involve holding two sticks. Visual cues include arm motions, circular swinging, and gripping the sticks with both hands.",
+        "A person doing Nunchucks appears to use fast, coordinated movements with two sticks, while other actions have a varied appearance.",
+        "The swinging motion created by the two connected sticks is a unique visual cue of a person doing nunchucks."
+    ],
+    "Parallel Bars": [
+        "A person doing parallel bars looks like they are performing a gymnastics routine, using their upper body strength to lift themselves between two bars.",
+        "Distinct features for Parallel Bars recognition include the person's body position, the shape of their arms/legs, and the angle of the bars.",
+        "I can recognize a person doing parallel bars by identifying the characteristic hand placement on bars and the shape of the body.",
+        "Parallel Bars: upright body, arms straight, legs together, hands on bars. Other actions: varying body postures, different arm and leg movements.",
+        "The visual cue unique to a person doing Parallel Bars is their body moving in a horizontal plane while holding onto bars parallel to the ground."
+    ],
+    "Pizza Tossing": [
+        "A person doing pizza tossing would likely be classified as a food-related activity and involve hand-eye coordination and dexterity.",
+        "Distinct features of a person doing Pizza Tossing include hand and arm movements, dough rotation, and use of a pizza paddle.",
+        "I can identify a person doing Pizza Tossing by detecting the circular hand motion and the presence of a round pizza dough.",
+        "Pizza tossing involves circular hand movements, throwing and catching dough, while other actions may involve linear or rapid movements.",
+        "The circular motion of tossing and spinning a flat disc of dough in mid-air is unique to pizza tossing."
+    ],
+    "Playing Cello": [
+        "A person playing cello typically sits down, holds a large instrument between their knees, and moves their fingers along the strings.",
+        "Some distinct features of a person playing cello for recognition include the arm and hand positions, body posture, and the cello instrument itself.",
+        "I can use a combination of shape analysis, texture analysis, and edge detection to identify the unique features of playing cello.",
+        "A person playing cello would typically be sitting down, holding a large string instrument, with their arms and fingers positioned accordingly.",
+        "The unique visual cue of a person playing the cello is the instrument being held between their knees while they use a bow to produce sound from the strings."
+    ],
+    "Playing Daf": [
+        "A person playing Daf appears to be striking the instrument with their palm while pivoting their wrist and arm rhythmically.",
+        "Distinct features of a person playing Daf include hand movement, rhythmic pattern, instrument placement, body posture, facial expression, and clothing.",
+        "I can identify a person playing Daf by looking for a person holding and striking a circular drum with their hands in a rhythmic manner.",
+        "Playing Daf involves holding a large drum and hitting it with both hands, whereas other actions may involve different body movements or objects.",
+        "The visual cue unique to playing Daf is the circular drum-shaped instrument with a wooden frame and a goat or fish skin membrane."
+    ],
+    "Playing Dhol": [
+        "A person playing dhol would typically be seen in a sitting position, with both hands beating the drum with rhythmic movements.",
+        "Distinct features of a person playing dhol for recognition can include body posture, arm movements, facial expressions, and instrument position.",
+        "I can identify a person playing dhol by looking for someone holding a cylindrical drum and striking it with sticks.",
+        "Playing dhol involves a person sitting down, holding a drumstick and hitting the dhol while other actions may involve standing, moving or manipulating objects.",
+        "A unique visual cue of someone playing dhol is the rhythmic movement of their hands and the protruding tops of the large drumsticks."
+    ],
+    "Playing Flute": [
+        "A person playing flute would typically be seen sitting or standing in a relaxed posture, holding a flute to their lips and blowing air into it, while using their fingers to play different notes.",
+        "Distinct features of a person playing flute are facial expression, hand position, body posture, and movement of lips and fingers.",
+        "I can identify a person playing the flute based on the unique positioning of their hands, mouth, and instrument.",
+        "The person playing flute will have their hands on the instrument, head slightly tilted and lips positioned for blowing.",
+        "The unique visual cue for Playing Flute is the placement of the musician's fingers on the instrument's keys while blowing into the flute's mouthpiece."
+    ],
+    "Playing Guitar": [
+        "A person playing guitar typically has a seated or standing posture, holding a guitar with fingers positioned on frets and strumming or plucking strings.",
+        "Distinct features of a person playing guitar include arm and hand positioning, posture, finger movements, and presence of a guitar.",
+        "A person playing guitar may have a guitar in hand, strumming or picking strings, while positioning their fingers on the fretboard.",
+        "Playing guitar involves holding a guitar, positioning fingers on strings and strumming. Other actions may involve different body positions and gestures.",
+        "The hand and finger positioning on the guitar strings and fretboard, along with the use of a guitar pick or fingers for strumming or plucking the strings."
+    ],
+    "Playing Piano": [
+        "A person playing piano sits in front of a keyboard with their hands positioned over the keys and may sway or tap their foot.",
+        "Distinct features of a person playing piano include hand positioning, finger movements, body posture, and interaction with instrument keys.",
+        "A person playing the piano is identified by the presence of a piano, a seated position, use of hands/fingers to play keys, and concentration.",
+        "Playing Piano involves sitting, hands positioned on keys, fingers constantly moving, while other actions vary in posture, movement and object involvement.",
+        "The unique visual cue for someone playing piano is the specific position of both hands on the keyboard and their coordinated movement."
+    ],
+    "Playing Sitar": [
+        "A person playing sitar would typically have crossed legs, a sitar on their lap and their hands plucking the strings while their head is slightly tilted.",
+        "Distinct features of a person playing sitar can include their hand and finger movements, sitting position, facial expressions, and instrument placement.",
+        "I can identify a person playing Sitar through the instrument in their lap, their hand positioning on the strings, and their sitting posture.",
+        "Playing sitar involves sitting cross-legged, holding a music instrument and plucking strings, while other actions have different postures and activities.",
+        "The unique visual cue for Playing Sitar is the person sitting cross-legged with the sitar placed on the lap and playing the strings."
+    ],
+    "Playing Tabla": [
+        "A person playing tabla is sitting cross-legged, holding two small drums, striking them with specific hand movements, and creating rhythmic beats.",
+        "Distinct features of a person playing tabla are hand movements, drumstick positions, body posture, and facial expressions.",
+        "I can identify a person playing tabla by looking for the distinct drum-like instrument, finger movements, and rhythmic patterns.",
+        "A person playing tabla will typically have their hands positioned on the instrument and be rhythmically tapping the drumhead, whereas other actions will have different body postures and movements.",
+        "The unique visual cue of a person playing tabla is the hand movements and finger placements on the tabla drums."
+    ],
+    "Playing Violin": [
+        "A person doing Playing Violin would likely have their hands positioned on a violin bow and fingerboard while holding the violin between their chin and shoulder.",
+        "Distinct features of a person playing violin for recognition can include holding the violin, bowing, finger movements, and unique body posture.",
+        "By analyzing the person's body position and movement, as well as the presence of the violin and bow in their hands.",
+        "The person playing violin will have a violin instrument, bow, and likely a seated posture compared to standing and other actions.",
+        "The unique visual cue for playing violin is the presence of a violin held under the chin and a bow in hand, moving across the strings."
+    ],
+    "Pole Vault": [
+        "A person doing pole vault will typically be seen running with a pole, jumping over a bar, and landing on a mat.",
+        "The distinct features for recognizing a person doing Pole Vault may include the body position, hand and arm placement, and leg movements.",
+        "I can identify a person doing Pole Vault by looking for someone running with a long pole and jumping over a bar.",
+        "Pole Vault involves using a pole to clear a bar. It looks different from walking, running, or jumping due to the height and technique used.",
+        "The person's body is positioned upside down with their legs extended upwards and their hands holding onto the pole."
+    ],
+    "Pommel Horse": [
+        "A person doing Pommel Horse looks like an individual performing gymnastic movements, using the horse apparatus while rotating their body.",
+        "Distinct features of a person doing Pommel Horse are circular hand motion, legs circling around the Pommel, and upright posture.",
+        "A person doing Pommel Horse will have both hands on the handle and their body will be rotating around it on top of the horse.",
+        "Pommel horse involves circular movements with legs apart, while other actions may involve jumping, running, and using arms more.",
+        "The unique visual cue of a person doing Pommel Horse is the sequence of circular and scissor-like swings using the handles."
+    ],
+    "Pull Ups": [
+        "A person doing Pull Ups appears to be hanging from a bar with arms bent, pulling up body until chin is above hands.",
+        "Distinct features of a person doing Pull Ups that can be used for recognition include extended arms, vertical movement, and engaged core muscles.",
+        "A person doing Pull Ups will have their body hanging vertically while pulling themselves up towards a horizontal bar.",
+        "The differences in appearance between a person doing Pull-Ups and other actions can be seen in arm and shoulder muscles engagement.",
+        "The distinctive visual cue of a person doing Pull Ups is their arms pulling their body upwards towards the overhead bar."
+    ],
+    "Punch": [
+        "A person doing a \"Punch\" action typically has a closed fist aimed forward with their arm extended towards a target.",
+        "Some features that can distinguish a person doing a punch are the position and movement of the fists, shoulders, and hips, as well as the body's overall stance and posture.",
+        "By analyzing the position of the limbs, the trajectory of motion, the speed, and the impact zone on a target.",
+        "A punch involves extending the arm outwards with a closed fist while other actions may have different body postures and movements.",
+        "A person doing a punch usually has a clenched fist with the arm extended forward and rotated to align the knuckles vertically."
+    ],
+    "Push Ups": [
+        "A person doing push-ups can be seen with their body in a raised position, arms extended, and lowering their body towards the ground.",
+        "The distinct features of a person doing Push Ups are the bent arms, straight back, and vertical movement of the torso.",
+        "A person doing push-ups can be identified by their prone position with extended arms and body, and repetitive up and down motion.",
+        "During push-ups, the person's body will be in a straight line with arms and legs extended, while other actions may have distinct variations.",
+        "During a Push Up, the person's entire body, including arms, core and legs, move up and down in a synchronized manner."
+    ],
+    "Rafting": [
+        "A person doing rafting is engaged in an outdoor water sport, seated with a paddle, wearing a life jacket and helmet.",
+        "Distinct features of a person doing Rafting are: boat, paddle, life vest, helmet, fast flowing water, and body leaning forward while paddling.",
+        "A person doing rafting will usually be wearing a life jacket, helmet and paddling with a group of people on a river rapid.",
+        "Person Rafting: Wearing helmet and life jacket, paddle in hand, splashing water, sitting in a raft. Other actions: Different clothing, no paddles, not in water, different environments.",
+        "The visual cue unique to a person doing Rafting is holding a paddle and navigating turbulent water while sitting in a raft."
+    ],
+    "Rock Climbing Indoor": [
+        "A person doing indoor rock climbing is typically suspended on a colorful wall while holding onto grips and using their feet to push up.",
+        "Distinct features of a person doing indoor rock climbing for recognition are body posture, hand and foot placement, grip and muscle activation patterns.",
+        "A person doing indoor rock climbing would be seen wearing specialized gear, climbing up a vertical wall using holds and grips, and using safety equipment.",
+        "Rock Climbing Indoor involves the use of a harness and ropes, while other actions like running or jumping do not. Climbers may use specialized shoes and chalk.",
+        "Rock Climbing Indoor involves unique hand and foot movements on a vertical wall, which is a distinctive visual cue."
+    ],
+    "Rope Climbing": [
+        "A person doing Rope Climbing will typically be seen hanging onto a rope and pulling themselves up while using their arms and legs for support.",
+        "Distinct features of a person doing Rope Climbing include body elevation, vertical movement, hand grip on the rope, and leg positioning.",
+        "I can identify a person doing rope climbing by recognizing their vertical position, repeated hand-over-hand movements, and upward directional motion.",
+        "Rope climbing involves vertical movement, gripping with hands and arms, and visible exertion. Other actions may involve different body parts and movements.",
+        "A person doing Rope Climbing exhibits a distinct pattern of arm and leg motion involving vertical movement along a fixed point."
+    ],
+    "Rowing": [
+        "A person doing rowing typically sits on a boat, holds the oars and rows through water in a repetitive motion.",
+        "Distinct features of a person doing Rowing for recognition include holding a paddle, rowing motion of arms and torso, and sitting position on a boat.",
+        "A person doing rowing can be identified by their seated position, pulling motion with both hands, and the use of rowing equipment.",
+        "When rowing, a person will be seated and pulling oars, while in other actions they may be standing, running, or jumping.",
+        "The unique visual cue to a person doing Rowing is the synchronized movement of both arms and legs while sitting on a sliding seat on a boat."
+    ],
+    "Salsa Spin": [
+        "A person doing a Salsa Spin would appear to be twirling with their arms outstretched in a dance-like motion.",
+        "Some distinct features of a person doing a Salsa Spin for recognition could be their rotational movement, arm and leg coordination, and body posture.",
+        "A person doing Salsa Spin can be identified by their flowing body movements, often with one leg extended and arms extended outwards.",
+        "A person doing a Salsa spin will have a circular movement around a partner, while other actions may have linear or vertical movements.",
+        "A person doing a Salsa Spin has a unique visual cue of one arm extended outwards and the other arm held close to the body."
+    ],
+    "Shaving Beard": [
+        "A person shaving their beard would be classified under the \"grooming\" or \"personal care\" category in image classification with a razor or trimmer in hand.",
+        "The distinct features of a person shaving their beard include holding a razor, applying shaving cream, and a focused expression.",
+        "The system can detect a person doing shaving beard by identifying the presence of a razor and the motion of the person's hand.",
+        "Shaving Beard involves using a razor to remove facial hair, whereas other appearance actions have distinct motions and tools utilized.",
+        "The act of a person holding a razor or electric shaver to their face while making shaving motions is a unique visual cue for shaving beard."
+    ],
+    "Shotput": [
+        "A person doing shotput is usually seen with a ball or shot in their hand, in a crouched position, readying to throw with force.",
+        "Some distinct features for shotput recognition are: circular movement before throwing, holding a heavy ball with both hands and throwing it forward forcefully.",
+        "A person doing shotput generally has a tense upper body, a bent arm with a heavy object, and a forward momentum posture.",
+        "Shotput involves a circular throwing motion with a heavy ball, while other actions may involve running, jumping, or lifting objects.",
+        "The unique visual cue in Shotput is the athlete holding and throwing a heavy metal ball while jumping and extending their arm."
+    ],
+    "Skate Boarding": [
+        "A person doing skateboarding typically appears balanced on a board while performing tricks involving jumps, spins, and grinds on obstacles.",
+        "Distinct features of a person doing skateboarding for recognition include body posture, equipment used, speed, balance, and tricks performed.",
+        "A person doing skateboarding can be identified by their stance, board structure, wheels, and specific tricks performed, among other visual cues.",
+        "Skateboarding involves riding on a board with unique tricks like ollies, while other actions may have distinct body movements and equipment.",
+        "The person's feet positioned on a skateboard while performing tricks, which is unique to the action of Skate Boarding."
+    ],
+    "Skiing": [
+        "A person doing skiing typically wears winter clothing and uses skis to glide on snow-covered slopes or trails.",
+        "Distinct features of a person doing Skiing include equipment, body posture, position of the skis, and motion trajectory.",
+        "A person skiing appears wearing snow gear, with skis or a snowboard, and moving in a sliding motion down a snow-covered slope.",
+        "A person doing skiing typically wears snow gear and skis while standing in a skiing pose, while other actions may vary in clothing and pose.",
+        "A person skiing typically has their knees together and arms outstretched, as if holding ski poles, while leaning slightly forward."
+    ],
+    "Skijet": [
+        "A person doing Skijet would appear as if they are gliding on water while being pulled by a high-speed jet ski.",
+        "Distinct features of a person doing Skijet for recognition may include skis, ski poles, skiing goggles, helmet, ski boots, and snow.",
+        "A person doing Skijet can be identified by their body position, wearing a life jacket, holding handlebars, and navigating on water skis.",
+        "A person doing Skijet typically appears to be wearing water skis and being pulled behind a boat, compared to other actions.",
+        "A person doing skijet will have a distinct pattern of waves behind the jet ski due to its high speed on water."
+    ],
+    "Sky Diving": [
+        "A person skydiving would be classified under the action category and appear as a human figure jumping out of an airplane.",
+        "Distinct features of a person doing skydiving include freefall position, parachute equipment, helmet, goggles, jumpsuit, and aerial background.",
+        "A person doing skydiving would typically appear to be wearing a jumpsuit and be in a freefall position, with a parachute visible.",
+        "Sky diving involves a person free-falling from an airplane with a parachute while other actions may involve different body postures.",
+        "The unique visual cue in Sky Diving is the presence of a parachute attached to the person's back during free-fall."
+    ],
+    "Soccer Juggling": [
+        "A person doing soccer juggling would look like someone repeatedly kicking a soccer ball back and forth with different parts of their body.",
+        "Distinct features of a person doing soccer juggling include continuous foot movements, bouncing of a ball with control, and fluid upper body motions.",
+        "A person doing soccer juggling typically appears standing, moving their feet and legs rapidly while keeping a soccer ball suspended in the air.",
+        "Soccer Juggling appears with a ball being kicked repeatedly between the feet while other actions may have different body positions or objects involved.",
+        "The visual cue unique to a person doing Soccer Juggling is the repetitive motion of kicking a soccer ball with their feet in an alternating pattern."
+    ],
+    "Soccer Penalty": [
+        "A person doing a soccer penalty is a player in a stationary position, with one arm raised and the other extended backward.",
+        "Distinct features of a person doing Soccer Penalty are leg kicking motion, knee bent, shooting foot placement, upper body posture, and ball placement.",
+        "I would look for a person wearing soccer gear, standing in front of a goal with a ball and preparing to kick it.",
+        "In Soccer Penalty, a person typically wears a soccer uniform, is positioned at a penalty spot, and kicks a ball towards a goal.",
+        "The most unique visual cue of a person doing a soccer penalty is their run-up and kicking motion towards the goalpost."
+    ],
+    "Still Rings": [
+        "A person doing Still Rings in action looks like a gymnast suspended on two rings performing various static strength and dynamic swinging elements.",
+        "Distinct features of a person doing Still Rings are vertical body orientation, extended arms, circular movements, and muscle tension.",
+        "A person performing Still Rings can be identified by their upright position, body control, and extended arms holding onto the rings.",
+        "Still Rings: stationary, suspended in air, body is generally vertical. Other types of action: varied movement, different body positions, possible use of equipment.",
+        "The unique visual cue in Still Rings is the athlete's body suspended mid-air with arms extended, holding onto the rings."
+    ],
+    "Sumo Wrestling": [
+        "A person doing Sumo Wrestling is a muscular and large-bodied athlete dressed in a traditional Japanese loincloth (mawashi) engaged in a physical grappling sport.",
+        "A sumo wrestler is recognized by their large body size, distinct belt, and squatting posture with hands on knees.",
+        "A person doing Sumo Wrestling can be identified by their large body and wearing a mawashi loincloth typically in a ring arena.",
+        "Sumo wrestlers have significantly larger bodies with prominent bellies, thicker limbs, and wear unique traditional outfits compared to other actions.",
+        "The wide leg stance and the attempt to force the opponent out of the ring are unique to Sumo Wrestling."
+    ],
+    "Surfing": [
+        "A person doing surfing is typically depicted riding a wave while standing on a board, wearing a wetsuit and holding a surfboard.",
+        "Distinct features of a person doing surfing for recognition include standing on a board, waves in background, arms extended, balance, and motion.",
+        "A person doing surfing usually appears standing on a board, riding waves, holding onto a leash, and wearing a wetsuit.",
+        "Surfing involves standing on a board and moving on waves, while other actions may involve different body positions, equipment, or environments.",
+        "A person doing surfing has a unique visual cue of standing on a surfboard with their arms outstretched to maintain balance."
+    ],
+    "Swing": [
+        "A person doing Swing looks like they're dancing energetically with swift movements of arms and legs, often in rhythm with music.",
+        "The distinct features of a person doing Swing for recognition are arm and leg motion synchronization, torso rotation, and rhythmic footwork.",
+        "Identifying a person doing Swing can be done by looking for swinging movements that involve rhythmic arm and leg movements, often accompanied by music.",
+        "Swing involves fluid arm and leg movements, while other actions may involve more rigid or jerky movements, and different postures.",
+        "A unique visual cue of a person doing swing is a diagonal arm movement along with a hip swaying motion."
+    ],
+    "Table Tennis Shot": [
+        "A person doing Table Tennis Shot looks focused, standing near a table, holding a racket with both hands, and ready to hit the ball.",
+        "Distinct features for recognizing a person doing Table Tennis Shot could be racket position, body posture, leg and arm movement, ball position.",
+        "The person doing a Table Tennis Shot will have a paddle in their hand and will be hitting a small ball in a controlled motion.",
+        "Table Tennis Shot involves rapid hand and arm movements, a fixed stance, and a small playing area. Other actions have different postures and movements.",
+        "The unique visual cue of a person doing a Table Tennis Shot is their body positioning with a forward lean and arm movement across the body to strike the ball."
+    ],
+    "Tai Chi": [
+        "A person practicing Tai Chi moves slowly and gracefully, with meditative concentration, flowing movements, and controlled breathing.",
+        "Distinct features of a person doing Tai Chi include slow, fluid movements with controlled breathing and a focused, meditative demeanor.",
+        "A person doing Tai Chi can be identified by their slow and fluid movements, relaxed posture, and focused expression.",
+        "Tai Chi movements are slow, fluid, and deliberate, with relaxed joints and a focus on balance and posture, unlike more dynamic actions.",
+        "The slow and graceful movement of arms and legs with a focus on breathing and relaxation is unique to Tai Chi."
+    ],
+    "Tennis Swing": [
+        "A person doing a tennis swing could be identified among all types of action by their raised arm ready to hit a tennis ball.",
+        "The distinct features of a Tennis Swing action are the pose of the player's arm, racket, and body, as well as the ball's motion.",
+        "The person doing a tennis swing is usually holding a racket, standing sideways, and in the process of swinging their arm to hit a ball.",
+        "A person doing Tennis Swing generally appears with a racket and in a distinct posture compared to other actions.",
+        "The backswing and follow-through of a tennis swing involve a distinct motion of the arm and racket that is unique to tennis."
+    ],
+    "Throw Discus": [
+        "A person doing the Throw Discus action is characterized by a backward crouching position, a wind-up movement, and a strong throwing motion.",
+        "Distinct features of a person doing Throw Discus include a standing position, holding a discus, swinging arm back, and throwing forward with force.",
+        "A person doing Throw Discus can be identified by their stance, their arm movements, and the trajectory of the discus.",
+        "In a person doing Throw Discus, the body rotates while the arm extends, compared to actions like running or jumping.",
+        "The visual cue unique to a person doing Throw Discus is the circular movement of the arm while holding the discus."
+    ],
+    "Trampoline Jumping": [
+        "A person doing trampoline jumping can be recognized by their repeated jumping and flipping movements on a bouncy surface.",
+        "Distinct features of Trampoline Jumping are person jumping on a bouncy mat, legs and arms extended, elevated body posture and repetitive bouncing movements.",
+        "A person doing trampoline jumping can be identified by their vertical, repetitive bouncing motion, and the distinctive trampoline equipment present.",
+        "Trampoline jumping involves repetitive bouncing and movements in the air, while other actions involve different body positions and motions.",
+        "The unique visual cue in Trampoline Jumping is the continuous bouncing up and down motion of the person on a flexible surface."
+    ],
+    "Typing": [
+        "A person who is typing usually sits in front of a computer and uses their fingers to type on a keyboard.",
+        "The distinct features of a person doing typing for recognition include hand and finger movements, body posture, and facial expressions.",
+        "The person will have their hands positioned over a keyboard or similar device, with frequent and consistent movements indicating typing.",
+        "Typing involves repetitive finger movements and a fixed posture, whereas other actions involve varied body motions and positions.",
+        "The visual cue unique to typing is the repeated movement of fingers hitting the keyboard in a rhythmic pattern."
+    ],
+    "Uneven Bars": [
+        "A person doing Uneven Bars on gymnastics apparatus, swinging and releasing while performing acrobatic maneuvers with grace and precision.",
+        "The features of a person doing Uneven Bars for recognition include swinging, hand placement, body posture, transitions, and dismount.",
+        "A person doing Uneven Bars can be identified by their swinging movements, hand grip changes, body twists, and flipping dismounts.",
+        "A person doing Uneven Bars is distinguishable by their swinging and gymnastic movements, compared to actions like walking or jumping.",
+        "The swinging motion of the body and arms while transitioning between the bars is unique to Uneven Bars in gymnastics."
+    ],
+    "Volleyball Spiking": [
+        "A person doing Volleyball Spiking is jumping and using one arm to strike the ball over the net towards opponents' court.",
+        "Distinct features of a person doing Volleyball Spiking for recognition can include arm positioning, jumping, and specific movements of the legs and torso.",
+        "A person doing Volleyball Spiking can be recognized by their jumping posture, extended arm position and contact with the ball above the net.",
+        "Volleyball spiking involves an overhead reach and a forceful downward hit, distinguishing it from other actions such as jumping or throwing.",
+        "The arm is extended above the head and there is a forceful swinging motion of the attacking hand hitting the ball."
+    ],
+    "Walking With Dog": [
+        "A person in motion, walking on two legs while holding onto the leash of a four-legged animal by their side.",
+        "Distinct features for recognizing a person doing Walking With Dog includes human and dog presence, walking motion, leash, and surroundings.",
+        "To identify a person doing Walking With Dog, look for a person holding a leash and a dog walking beside them on a leash.",
+        "In the Walking With Dog action, a person is typically accompanied by a four-legged animal, which distinguishes it from other actions.",
+        "The visual cue unique to a person doing Walking With Dog is the presence of a dog on a leash."
+    ],
+    "Wall Pushups": [
+        "A person doing wall pushups would be in a standing position facing a wall, while leaning in and pushing away with their arms.",
+        "Distinct features of a person doing Wall Pushups include body alignment, positioning of hands and feet, and motion of upper arms and shoulders.",
+        "A person doing Wall Pushups would appear to be standing facing a wall, arms extended, and performing a pushing motion.",
+        "In Wall Pushups, the person leans against a wall and pushes their body up and down, while other actions differ in posture and movement.",
+        "The visual cue unique to Wall Pushups is the person's flat hands touching the wall, while the body is angled towards it."
+    ],
+    "Writing On Board": [
+        "A person doing Writing On Board would likely be standing in front of a white board, holding a marker, and writing or drawing something.",
+        "Distinct features of a person doing Writing On Board: arms extended, holding a writing object, facing board, visible hand and arm movements.",
+        "A person doing Writing On Board may be standing or sitting, holding a marker, facing a whiteboard or blackboard, and writing or drawing.",
+        "Writing On Board involves holding a pen or chalk, making hand movements on a vertical surface, and the presence of text or illustrations.",
+        "The unique visual cue for Writing On Board is the person holding a writing tool while their arm is extended towards the board."
+    ],
+    "Yo Yo": [
+        "A person doing yo-yo tricks often appears focused, with their hands performing complex string maneuvers and the yo-yo moving up and down.",
+        "Some distinct features of a person doing Yo Yo for recognition include arm and hand movements, jumping, and rapid changes in direction and speed.",
+        "Look for repetitive up and down motions of the arm with a dangling object while the person stays in one spot.",
+        "A person doing Yo Yo might have a circular hand motion and a string extending from their hand compared to other actions.",
+        "The unique visual cue for someone doing Yo Yo is the back-and-forth movement of the Yo Yo as it travels up and down the string."
+    ]
+}
