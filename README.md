@@ -2,11 +2,11 @@
 
 
 
-> [**Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models**]()<br>
+> [**Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models**](https://arxiv.org/abs/2312.06323)<br>
 > [Yubin Wang](https://scholar.google.com/citations?user=mLeYNLoAAAAJ), [Xinyang Jiang](https://scholar.google.com/citations?user=JiTfWVMAAAAJ), [De Cheng](https://scholar.google.com/citations?user=180lASkAAAAJ), [Dongsheng Li](https://scholar.google.com/citations?user=VNg5rA8AAAAJ), [Cairong Zhao](https://scholar.google.com/citations?user=z-XzWZcAAAAJ)
 
 
-Official implementation of the paper "[Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models]()".
+Official implementation of the paper "[Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models](https://arxiv.org/abs/2312.06323)".
 
 
 <hr />
@@ -38,7 +38,7 @@ Results reported below show average accuracy for base and new classes across 11 
 | [CoOp](https://arxiv.org/abs/2109.01134)   |       82.69       |       63.22       |       71.66       |
 | [CoCoOp](https://arxiv.org/abs/2203.05557) |       80.47       |       71.69       |       75.83       |
 | [MaPLe](https://arxiv.org/abs/2210.03117)  |       82.28       |       75.14       |       78.55       |
-| [HPT]()                                    | **84.32 (+2.04)** | **76.86 (+1.72)** | **80.23 (+1.68)** |
+| [HPT](https://arxiv.org/abs/2312.06323)    | **84.32 (+2.04)** | **76.86 (+1.72)** | **80.23 (+1.68)** |
 
 ### Cross-Dataset Evaluation
 
@@ -49,7 +49,7 @@ Results reported below show accuracy for the source dataset **ImageNet** and 4 I
 | [CLIP](https://arxiv.org/abs/2103.00020)   |   71.51   |   93.70   |   89.14   |   64.51   |   68.71   |   85.30   |   18.47   |   64.15   |   41.92   |   46.39   |   66.55   |   63.88   |
 | [CoCoOp](https://arxiv.org/abs/2203.05557) |   71.02   | **94.43** |   90.14   |   65.32   |   71.88   |   86.06   |   22.94   |   67.36   |   45.73   |   45.37   |   68.21   |   65.74   |
 | [MaPLe](https://arxiv.org/abs/2210.03117)  |   70.72   |   93.53   |   90.49   |   65.57   |   72.23   |   86.20   |   24.74   |   67.01   |   46.49   | **48.06** |   68.69   |   66.30   |
-| [HPT]()                                    | **71.72** |   94.20   | **92.63** | **66.33** | **74.84** | **86.21** | **25.68** | **68.75** | **50.87** |   47.36   | **70.50** | **67.74** |
+| [HPT](https://arxiv.org/abs/2312.06323)    | **71.72** |   94.20   | **92.63** | **66.33** | **74.84** | **86.21** | **25.68** | **68.75** | **50.87** |   47.36   | **70.50** | **67.74** |
 
 ### Domain Generalization
 
@@ -61,7 +61,7 @@ Results reported below show accuracy for the source dataset **ImageNet** and the
 | [CoOp](https://arxiv.org/abs/2109.01134)   |   71.51   |   64.20    |   47.99    |   49.71    |   75.21    |   59.28   |
 | [CoCoOp](https://arxiv.org/abs/2203.05557) |   71.02   |   64.07    |   48.75    |   50.63    |   76.18    |   59.90   |
 | [MaPLe](https://arxiv.org/abs/2210.03117)  |   70.72   |   64.07    |   49.15    | **50.90**  |   76.98    |   60.26   |
-| [HPT]()                                    | **71.72** | **65.25**  | **49.36**  |   50.85    | **77.38**  | **60.71** |
+| [HPT](https://arxiv.org/abs/2312.06323)    | **71.72** | **65.25**  | **49.36**  |   50.85    | **77.38**  | **60.71** |
 
 ## 🛠️ Installation 
 
