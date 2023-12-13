@@ -1,9 +1,9 @@
-# bash ./scripts/b2n_test.sh caltech101 0
+# bash ./scripts/b2n_test.sh caltech101
 TRAINER=HPT
 CFG=b2n
 SHOTS=16
 LOADEP=10
-GPU=1
+GPU=0
 
 OUTPUT_DIR=./results
 DATA=./data

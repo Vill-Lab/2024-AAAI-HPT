@@ -1,4 +1,4 @@
-# bash ./scripts/xd_train.sh 0
+# bash ./scripts/xd_train.sh
 TRAINER=HPT
 CFG=xd
 SHOTS=16
