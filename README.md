@@ -73,6 +73,10 @@ Results reported below show accuracy for the source dataset **ImageNet** and the
 
 For installation and other package requirements, please follow the instructions detailed in [INSTALL.md](docs/INSTALL.md). 
 
+## 📦 Model Zoo
+
+Download checkpoints [here](https://drive.google.com/drive/folders/1e7H-w4ujNCPo32eONimG0pe9A4lpIe9f?usp=sharing) and put them at `./results/B2N` to reproduce the benchmark results.
+
 ## 🗂️ Data preparation
 Please follow the instructions at [DATASETS.md](docs/DATASETS.md) to prepare all datasets.
 
